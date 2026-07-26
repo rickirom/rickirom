@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 25 Jul 2026</h4>
+<h4>Check the latest news from: Sun 26 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://arcprize.org/leaderboard target="_blank">
-        ARC-AGI Leaderboard |
+    <a href=https://refp.se/articles/your-shell-and-the-magic-colon target="_blank">
+        A shell colon does nothing. Use it anyway |
     </a>
-    By: rzk
+    By: olexsmir
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/news/claude-opus-5 target="_blank">
-        Claude Opus 5 |
+    <a href=https://blog.ktz.me/esp32-plane-radar/ target="_blank">
+        An ESP32 based plane radar for my desk |
     </a>
-    By: alvis
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card" rel="nofollow">https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card</a> </br>
-</p>
-
-<li>
-    <a href=https://bytecodealliance.org/articles/wasmtime-gc target="_blank">
-        GC and Exceptions in Wasmtime |
-    </a>
-    By: phickey
+    By: alexktz
 </li>
 
 <li>
-    <a href=https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize target="_blank">
-        Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach |
+    <a href=https://www.jetzero.aero target="_blank">
+        JetZero |
     </a>
-    By: agnishom
+    By: lisper
 </li>
 
 <li>
-    <a href=https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities target="_blank">
-        UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities |
+    <a href=https://github.com/50YearsPhone/vision-50-years-phone target="_blank">
+        Vision 50 Years Phone – Keeping old Android phones fast without root |
     </a>
-    By: walrus01
+    By: mike5gao
+</li>
+
+<li>
+    <a href=https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models target="_blank">
+        The new rules of context engineering for Claude 5 generation models |
+    </a>
+    By: mellosouls
 </li>
 </ol>
