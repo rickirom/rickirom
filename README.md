@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 28 Jul 2026</h4>
+<h4>Check the latest news from: Wed 29 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/news/position-open-weights-models target="_blank">
-        Our position on open-weights models |
+    <a href=https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes target="_blank">
+        More Tailscale tricks for your jailbroken Kindle |
     </a>
-    By: surprisetalk
+    By: Error6571
 </li>
 
 <li>
-    <a href=https://www.fermionresearch.com/models/neutrino-8b/ target="_blank">
-        Neutrino-1 8B |
+    <a href=https://www.datagubbe.se/scenegui/ target="_blank">
+        User Interfaces of the Demo Scene |
     </a>
-    By: handfuloflight
+    By: zdw
 </li>
 
 <li>
-    <a href=https://arsastronomica.com/ target="_blank">
-        Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts |
+    <a href=https://github.com/openai/codex-security target="_blank">
+        Codex Security |
     </a>
-    By: sweisman
+    By: bakigul
 </li>
 
 <li>
-    <a href=https://fermisense.com/when-machines-take-the-wheel/ target="_blank">
-        A $500 RL fine-tune of a 9B open model beat frontier models on catalog review |
+    <a href=https://learnvector.ai/ target="_blank">
+        LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences |
     </a>
-    By: ilreb
+    By: ajhai
 </li>
 
 <li>
-    <a href=https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/ target="_blank">
-        Using an open model feels surprisingly good |
+    <a href=https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html target="_blank">
+        Cracking Windows Open: Porting RADV to Win32 |
     </a>
-    By: msaltz
+    By: zdw
 </li>
 </ol>
