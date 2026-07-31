@@ -45,48 +45,47 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 30 Jul 2026</h4>
+<h4>Check the latest news from: Fri 31 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research target="_blank">
-        AI's top startups are barely publishing their research |
+    <a href=https://earendil.com/posts/session-portability/ target="_blank">
+        The session you cannot take with you |
     </a>
-    By: YeGoblynQueenne
+    By: apitman
 </li>
 
 <li>
-    <a href=https://christianselig.com/2026/07/vision-pro-house/ target="_blank">
-        The coolest use for the Vision Pro |
+    <a href=https://github.com/openjdk/jdk/pull/31120 target="_blank">
+        JEP 401: Value Objects (Preview) merged to OpenJDK master |
     </a>
-    By: robbiet480
+    By: mfiguiere
 </li>
 
 <li>
-    <a href=https://github.com/drumih/turbo-fieldfare target="_blank">
-        Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac |
+    <a href=https://api-docs.deepseek.com/updates/ target="_blank">
+        DeepSeek-V4-Flash Update |
     </a>
-    By: gitpusher42
+    By: dnhkng
+</li>
+
+<li>
+    <a href=https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/ target="_blank">
+        Stacked PRs are now live on GitHub |
+    </a>
+    By: tomzorz
+</li>
+
+<li>
+    <a href=https://marbleos.com/demo target="_blank">
+        Show HN: What should the GUI for AI agents look like? |
+    </a>
+    By: akbabu
 </li>
 
 <p>
-Text: Hi HN,<p>I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.<p>I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.<p>The model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools almost impossible on an 8 GB or even 16 GB Mac once the OS, applications, and KV cache are included.<p>The trick is to keep the shared part of the model and the KV cache in RAM, then stream only the routed experts needed for each token from SSD. An SSD is way slower than RAM, so the runtime uses a small expert cache and bounded parallel `pread`. While those reads are in flight, the GPU runs the shared part of the layer.<p>I ran more than 100 experiments. Most didn’t work. A few got me here. The experiments are described in the GitHub repo.<p>It currently generates 5–6 tok&#x2F;s on an 8 GB M2 MacBook Air and 31–35 tok&#x2F;s on an M5 MacBook Pro.<p>I also added an experimental OpenAI-compatible local server. It supports streaming and tool calls, and reuses one prompt prefix from the KV cache.<p>Try it! The Mac app is easy to install. On the first run, it will download 15 GB of weights from Hugging Face. The model is surprisingly capable.<p>I would love any kind of feedback! </br>
+Text: Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.<p>The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.
+Before GUIs, interacting with a computer was limited to strange terminal commands:<p>C:\&gt; DIR<p>C:\&gt; COPY FILE.TXT A:<p>You had to remember the command, syntax, paths, and parameters.<p>The GUI made those capabilities visible. Instead of remembering commands, you could point at files, drag them, click buttons, and select actions from menus.
+It didn&#x27;t necessarily make entirely new things possible; it just made existing capabilities much easier to understand and use. We feel like AI is still somewhere around this command-line stage.<p>Even though the strict syntax has been replaced with natural language, the interaction can still be quite stiff and depend on heavily recall. Tools like Claude Cowork still look surprisingly terminal-like: &#x2F;skill-name [param1] [param2]. The parameters are written in natural language, but the user still needs to know the capabilities that exist, and how to invoke it. Command-line flags and arguments have just been replaced with tools, skills, and context.<p>ChatGPT works very well for asking questions, but we aren&#x27;t convinced that it&#x27;s the final interface for delegating work across multiple agents. A blank text box and a list of chat threads feels limiting. An agent&#x27;s capabilities are mostly invisible. With Marble, we&#x27;re exploring an interface that treats AI more like a workspace than another chat app.
+Each delegated task becomes a card. Multiple jobs can sit next to each other and run at once. Files, tools, and finished artifacts are visible at once. Before a task runs, Marble also shows which tools it expects to use. The basic idea is that the user should not have to hold the entire structure of the task in their head. And the result should be something directly usable, like a spreadsheet, PowerPoint, or other file, rather than something buried in a transcript.<p>Marble is our attempt at exploring interaction models beyond the chat box. The product is mainly for people who already use ChatGPT or Claude, but haven’t really adopted agent workflows yet. We’ve found that when the tools and possible actions are made more visible, people start delegating work they would not have thought to do through normal chat.<p>The site includes a downloadable beta if you want to try it. Does Marble feel like a genuinely novel interface? </br>
 </p>
-
-<li>
-    <a href=https://www.superlogical.com/ target="_blank">
-        Superlogical |
-    </a>
-    By: yan
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical" rel="nofollow">https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical</a> </br>
-</p>
-
-<li>
-    <a href=https://llm2human.pages.dev/ target="_blank">
-        LLM Honeypot |
-    </a>
-    By: 8thom
-</li>
 </ol>
