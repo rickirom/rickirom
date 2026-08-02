@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 01 Aug 2026</h4>
+<h4>Check the latest news from: Sun 02 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://economist.com/europe/2026/07/31/a-migrant-surge-tests-spains-open-policies target="_blank">
-        A migrant surge tests Spain's open policies |
+    <a href=https://victoriametrics.com/blog/go-1-27/index.html target="_blank">
+        Go 1.27 Interactive Tour |
     </a>
-    By: andsoitis
+    By: Hixon10
 </li>
 
 <li>
-    <a href=https://john.fun/elevators target="_blank">
-        Elevators |
+    <a href=https://www.wafer.ai/blog/kimi-k3-mi355x target="_blank">
+        Running Kimi K3 on MI355X at Better Performance per Dollar Than B300 |
     </a>
-    By: Jrh0203
+    By: ilreb
 </li>
 
 <li>
-    <a href=https://microsoft.github.io/flint-chart/ target="_blank">
-        Flint: A Visualization Language for the AI Era |
+    <a href=http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html target="_blank">
+        MkLinux and the pimped-out Apple Workgroup Server 9150 |
     </a>
-    By: vinhnx
+    By: goldenskye
 </li>
 
 <li>
-    <a href=https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/ target="_blank">
-        Ten Ways NAS Is Getting Enshitified |
+    <a href=https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 target="_blank">
+        Seedance 2.5 |
     </a>
-    By: giuliomagnifico
+    By: njaremko
 </li>
 
 <li>
-    <a href=https://www.raptitude.com/2026/07/how-to-exist/ target="_blank">
-        How to Exist |
+    <a href=https://diataxis.fr/ target="_blank">
+        Diátaxis |
     </a>
-    By: walterbell
+    By: ryanseys
 </li>
 </ol>
