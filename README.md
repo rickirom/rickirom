@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 02 Aug 2026</h4>
+<h4>Check the latest news from: Mon 03 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://victoriametrics.com/blog/go-1-27/index.html target="_blank">
-        Go 1.27 Interactive Tour |
+    <a href=https://gruhn.me/blog/2026-08-03/ target="_blank">
+        Don't be a meat proxy |
     </a>
-    By: Hixon10
+    By: ngruhn
 </li>
 
 <li>
-    <a href=https://www.wafer.ai/blog/kimi-k3-mi355x target="_blank">
-        Running Kimi K3 on MI355X at Better Performance per Dollar Than B300 |
+    <a href=https://qwen.ai/blog?id=qwen3.8 target="_blank">
+        Qwen3.8-Max: A New Bar for Coding and Cowork |
     </a>
-    By: ilreb
+    By: ai2027
 </li>
 
 <li>
-    <a href=http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html target="_blank">
-        MkLinux and the pimped-out Apple Workgroup Server 9150 |
+    <a href=https://mertbulan.com/more-german-than-many-germans/ target="_blank">
+        More German than many Germans |
     </a>
-    By: goldenskye
+    By: mertbio
 </li>
 
 <li>
-    <a href=https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 target="_blank">
-        Seedance 2.5 |
+    <a href=https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md target="_blank">
+        Rust project goals: Immobile types and guaranteed destructors |
     </a>
-    By: njaremko
+    By: paavohtl
 </li>
 
 <li>
-    <a href=https://diataxis.fr/ target="_blank">
-        Diátaxis |
+    <a href=https://sf.isopolis.city/ target="_blank">
+        Show HN: Isopolis – Isometric pixel map of SF |
     </a>
-    By: ryanseys
+    By: nuwandavek
 </li>
 </ol>
