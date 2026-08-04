@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 03 Aug 2026</h4>
+<h4>Check the latest news from: Tue 04 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://gruhn.me/blog/2026-08-03/ target="_blank">
-        Don't be a meat proxy |
+    <a href=https://www.seangoedecke.com/llms-reward-expertise/ target="_blank">
+        LLMs reward expertise |
     </a>
-    By: ngruhn
+    By: MaxMussio
 </li>
 
 <li>
-    <a href=https://qwen.ai/blog?id=qwen3.8 target="_blank">
-        Qwen3.8-Max: A New Bar for Coding and Cowork |
+    <a href=https://github.com/leonickson1/Swiftlet target="_blank">
+        Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone |
     </a>
-    By: ai2027
+    By: leonickson
 </li>
 
 <li>
-    <a href=https://mertbulan.com/more-german-than-many-germans/ target="_blank">
-        More German than many Germans |
+    <a href=https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization target="_blank">
+        Amazonian civilization had estimated 3M people in 3% of forest area |
     </a>
-    By: mertbio
+    By: marojejian
 </li>
 
 <li>
-    <a href=https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md target="_blank">
-        Rust project goals: Immobile types and guaranteed destructors |
+    <a href=https://openai.com/index/ten-advances-in-mathematics/ target="_blank">
+        Ten advances in mathematics and theoretical computer science |
     </a>
-    By: paavohtl
+    By: milkshakes
 </li>
 
 <li>
-    <a href=https://sf.isopolis.city/ target="_blank">
-        Show HN: Isopolis – Isometric pixel map of SF |
+    <a href=https://openai.com/index/apple-is-getting-this-wrong/ target="_blank">
+        Apple is getting this wrong |
     </a>
-    By: nuwandavek
+    By: meetpateltech
 </li>
 </ol>
