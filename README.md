@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 04 Aug 2026</h4>
+<h4>Check the latest news from: Wed 05 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://www.seangoedecke.com/llms-reward-expertise/ target="_blank">
-        LLMs reward expertise |
+    <a href=https://simonwillison.net/2026/Jul/31/stateless-mcp/ target="_blank">
+        Stateless MCP has recaptured my interest |
     </a>
-    By: MaxMussio
+    By: tosh
 </li>
 
 <li>
-    <a href=https://github.com/leonickson1/Swiftlet target="_blank">
-        Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone |
+    <a href=https://earendil.com/posts/pi-autoresearch-and-databricks/ target="_blank">
+        Pi's Minimalism Is Its Advantage |
     </a>
-    By: leonickson
+    By: luispa
 </li>
 
 <li>
-    <a href=https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization target="_blank">
-        Amazonian civilization had estimated 3M people in 3% of forest area |
+    <a href=https://unsung.aresluna.org/gravity-is-worth-asking-about/ target="_blank">
+        "Gravity is worth asking about." |
     </a>
-    By: marojejian
+    By: nozzlegear
 </li>
 
 <li>
-    <a href=https://openai.com/index/ten-advances-in-mathematics/ target="_blank">
-        Ten advances in mathematics and theoretical computer science |
+    <a href=https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream target="_blank">
+        The Golden Age of British Ice Cream |
     </a>
-    By: milkshakes
+    By: bryanrasmussen
 </li>
 
 <li>
-    <a href=https://openai.com/index/apple-is-getting-this-wrong/ target="_blank">
-        Apple is getting this wrong |
+    <a href=https://mistral.ai/news/shieldstral/ target="_blank">
+        Mistral's Shieldstral: 3B open-weights model for multimodal moderation |
     </a>
-    By: meetpateltech
+    By: riadsila
 </li>
 </ol>
