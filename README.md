@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 05 Aug 2026</h4>
+<h4>Check the latest news from: Thu 06 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://simonwillison.net/2026/Jul/31/stateless-mcp/ target="_blank">
-        Stateless MCP has recaptured my interest |
+    <a href=https://www.crimepaysbutbotanydoesnt.com/reading-list target="_blank">
+        Crime Pays but Botany Doesn't |
     </a>
-    By: tosh
+    By: DarkContinent
 </li>
 
 <li>
-    <a href=https://earendil.com/posts/pi-autoresearch-and-databricks/ target="_blank">
-        Pi's Minimalism Is Its Advantage |
+    <a href=https://www.discoveryloop.com/ target="_blank">
+        Discovery Loop |
     </a>
-    By: luispa
+    By: xtreak29
 </li>
 
 <li>
-    <a href=https://unsung.aresluna.org/gravity-is-worth-asking-about/ target="_blank">
-        "Gravity is worth asking about." |
+    <a href=https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/ target="_blank">
+        Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs |
     </a>
-    By: nozzlegear
+    By: colesantiago
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassabis-ai" rel="nofollow">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa...</a><p><a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leaders...</a><p><a href="https:&#x2F;&#x2F;www.discoveryloop.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.discoveryloop.com&#x2F;</a>, <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49184960">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49184960</a><p><a href="https:&#x2F;&#x2F;twitter.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724</a>, <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724</a> </br>
+</p>
+
+<li>
+    <a href=https://zed.dev/deltadb target="_blank">
+        Zed DeltaDB |
+    </a>
+    By: ahamez
 </li>
 
 <li>
-    <a href=https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream target="_blank">
-        The Golden Age of British Ice Cream |
+    <a href=https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project target="_blank">
+        Nashville uses eminent domain to block data center near zoo |
     </a>
-    By: bryanrasmussen
-</li>
-
-<li>
-    <a href=https://mistral.ai/news/shieldstral/ target="_blank">
-        Mistral's Shieldstral: 3B open-weights model for multimodal moderation |
-    </a>
-    By: riadsila
+    By: mapping365
 </li>
 </ol>
