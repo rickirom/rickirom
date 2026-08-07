@@ -45,44 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 06 Aug 2026</h4>
+<h4>Check the latest news from: Fri 07 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://www.crimepaysbutbotanydoesnt.com/reading-list target="_blank">
-        Crime Pays but Botany Doesn't |
+    <a href=https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344 target="_blank">
+        AMD acquires Taalas to boost inference performance by etching models in silicon |
     </a>
-    By: DarkContinent
-</li>
-
-<li>
-    <a href=https://www.discoveryloop.com/ target="_blank">
-        Discovery Loop |
-    </a>
-    By: xtreak29
-</li>
-
-<li>
-    <a href=https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/ target="_blank">
-        Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs |
-    </a>
-    By: colesantiago
+    By: itvision
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassabis-ai" rel="nofollow">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa...</a><p><a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leaders...</a><p><a href="https:&#x2F;&#x2F;www.discoveryloop.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.discoveryloop.com&#x2F;</a>, <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49184960">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49184960</a><p><a href="https:&#x2F;&#x2F;twitter.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724</a>, <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724</a> </br>
+Text: <a href="https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market" rel="nofollow">https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...</a><p><a href="https:&#x2F;&#x2F;chatjimmy.ai&#x2F;" rel="nofollow">https:&#x2F;&#x2F;chatjimmy.ai&#x2F;</a> </br>
 </p>
 
 <li>
-    <a href=https://zed.dev/deltadb target="_blank">
-        Zed DeltaDB |
+    <a href=https://www.mayerowitz.io/blog/mario-meets-pareto target="_blank">
+        Mario Meets Pareto |
     </a>
-    By: ahamez
+    By: theanonymousone
 </li>
 
 <li>
-    <a href=https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project target="_blank">
-        Nashville uses eminent domain to block data center near zoo |
+    <a href=https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work target="_blank">
+        Atomic Clocks |
     </a>
-    By: mapping365
+    By: teleforce
+</li>
+
+<li>
+    <a href=https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/ target="_blank">
+        Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun |
+    </a>
+    By: neversaydie
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o" rel="nofollow">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o</a>, <a href="https:&#x2F;&#x2F;archive.is&#x2F;YDn6S" rel="nofollow">https:&#x2F;&#x2F;archive.is&#x2F;YDn6S</a> </br>
+</p>
+
+<li>
+    <a href=https://notashelf.dev/posts/taste-is-all-thats-left target="_blank">
+        Taste Is All That's Left |
+    </a>
+    By: tsak
 </li>
 </ol>
