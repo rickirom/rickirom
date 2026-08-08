@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 07 Aug 2026</h4>
+<h4>Check the latest news from: Sat 08 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344 target="_blank">
-        AMD acquires Taalas to boost inference performance by etching models in silicon |
+    <a href=https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year target="_blank">
+        NASA to keep its 48-year-old Voyager 2 probe running for yet another year |
     </a>
-    By: itvision
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market" rel="nofollow">https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...</a><p><a href="https:&#x2F;&#x2F;chatjimmy.ai&#x2F;" rel="nofollow">https:&#x2F;&#x2F;chatjimmy.ai&#x2F;</a> </br>
-</p>
-
-<li>
-    <a href=https://www.mayerowitz.io/blog/mario-meets-pareto target="_blank">
-        Mario Meets Pareto |
-    </a>
-    By: theanonymousone
+    By: wglb
 </li>
 
 <li>
-    <a href=https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work target="_blank">
-        Atomic Clocks |
+    <a href=https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 target="_blank">
+        The Nixpkgs core team has disbanded |
     </a>
-    By: teleforce
+    By: Meleagris
 </li>
 
 <li>
-    <a href=https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/ target="_blank">
-        Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun |
+    <a href=https://arcprize.org/results/deepseek-v4-flash-0731 target="_blank">
+        DeepSeek V4 Flash 0731 |
     </a>
-    By: neversaydie
+    By: tosh
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o" rel="nofollow">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o</a>, <a href="https:&#x2F;&#x2F;archive.is&#x2F;YDn6S" rel="nofollow">https:&#x2F;&#x2F;archive.is&#x2F;YDn6S</a> </br>
-</p>
+<li>
+    <a href=https://genesisopenmodels.anl.gov/ target="_blank">
+        U.S. Department of Energy Launches the Genesis Open Models Initiative |
+    </a>
+    By: moelf
+</li>
 
 <li>
-    <a href=https://notashelf.dev/posts/taste-is-all-thats-left target="_blank">
-        Taste Is All That's Left |
+    <a href=https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/ target="_blank">
+        Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night |
     </a>
-    By: tsak
+    By: aanet
 </li>
 </ol>
