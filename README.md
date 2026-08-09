@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 08 Aug 2026</h4>
+<h4>Check the latest news from: Sun 09 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year target="_blank">
-        NASA to keep its 48-year-old Voyager 2 probe running for yet another year |
+    <a href=https://longbets.org/601/ target="_blank">
+        "The original URL for this prediction will no longer be available in 11 years." (2011) |
     </a>
-    By: wglb
+    By: doubletwoyou
 </li>
 
 <li>
-    <a href=https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 target="_blank">
-        The Nixpkgs core team has disbanded |
+    <a href=https://seg6.space/posts/phone-server/ target="_blank">
+        My server is a phone now |
     </a>
-    By: Meleagris
+    By: seg6
 </li>
 
 <li>
-    <a href=https://arcprize.org/results/deepseek-v4-flash-0731 target="_blank">
-        DeepSeek V4 Flash 0731 |
+    <a href=https://os8088.com/ target="_blank">
+        Os8088: A powerful Mac-like OS for the IBM XT, 286, 386 |
     </a>
-    By: tosh
+    By: jggonz
 </li>
 
 <li>
-    <a href=https://genesisopenmodels.anl.gov/ target="_blank">
-        U.S. Department of Energy Launches the Genesis Open Models Initiative |
+    <a href=https://www.redblobgames.com/pathfinding/heuristics/differential.html target="_blank">
+        Improving Heuristics for A* Pathfinding |
     </a>
-    By: moelf
+    By: bobbiechen
 </li>
 
 <li>
-    <a href=https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/ target="_blank">
-        Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night |
+    <a href=https://www.andrewt.net/dithered-qr-codes/wtf/ target="_blank">
+        Dithered QR Codes |
     </a>
-    By: aanet
+    By: jmusall
 </li>
 </ol>
