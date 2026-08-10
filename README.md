@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 09 Aug 2026</h4>
+<h4>Check the latest news from: Mon 10 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://longbets.org/601/ target="_blank">
-        "The original URL for this prediction will no longer be available in 11 years." (2011) |
+    <a href=https://claude.com/blog/auto-mode-default-in-claude-code target="_blank">
+        Auto mode is now the default in Claude Code |
     </a>
-    By: doubletwoyou
+    By: sbehere
 </li>
 
 <li>
-    <a href=https://seg6.space/posts/phone-server/ target="_blank">
-        My server is a phone now |
+    <a href=https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/ target="_blank">
+        Why do we assume everyone should be working? |
     </a>
-    By: seg6
+    By: Wilsoniumite
 </li>
 
 <li>
-    <a href=https://os8088.com/ target="_blank">
-        Os8088: A powerful Mac-like OS for the IBM XT, 286, 386 |
+    <a href=https://blog.teknogeek.io/posts/what-happened-to-hackerone/ target="_blank">
+        What Happened to HackerOne? |
     </a>
-    By: jggonz
+    By: hipparchus
 </li>
 
 <li>
-    <a href=https://www.redblobgames.com/pathfinding/heuristics/differential.html target="_blank">
-        Improving Heuristics for A* Pathfinding |
+    <a href=https://www.whodunnitai.com/ target="_blank">
+        Show HN: Voice driven murder mystery, Interview AI suspects with your voice |
     </a>
-    By: bobbiechen
+    By: MrRowTheBoat
 </li>
 
+<p>
+Text: Hey HN!<p>I&#x27;m excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn&#x27;t quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI&#x27;s gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don&#x27;t want to go broke while I sleep tonight.<p>Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated.<p>A separate gpt-5-mini judge then decides which of the case&#x27;s required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don&#x27;t.<p>The rest is Next.js, MongoDB, and Clerk.<p>Let me know whether the suspects hold up under a real interrogation. </br>
+</p>
+
 <li>
-    <a href=https://www.andrewt.net/dithered-qr-codes/wtf/ target="_blank">
-        Dithered QR Codes |
+    <a href=https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/ target="_blank">
+        How I use LLMs to learn complex topics |
     </a>
-    By: jmusall
+    By: laurentiurad
 </li>
 </ol>
