@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 10 Aug 2026</h4>
+<h4>Check the latest news from: Tue 11 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://claude.com/blog/auto-mode-default-in-claude-code target="_blank">
-        Auto mode is now the default in Claude Code |
+    <a href=https://github.com/antirez/h3.c target="_blank">
+        H3-metal – Native MiniMax-H3 inference for Apple Silicon |
     </a>
-    By: sbehere
+    By: swyx
 </li>
 
 <li>
-    <a href=https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/ target="_blank">
-        Why do we assume everyone should be working? |
+    <a href=https://github.com/activeing123/mcptoon target="_blank">
+        Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97% |
     </a>
-    By: Wilsoniumite
+    By: mcptokensaver
 </li>
 
 <li>
-    <a href=https://blog.teknogeek.io/posts/what-happened-to-hackerone/ target="_blank">
-        What Happened to HackerOne? |
+    <a href=https://code.call-cc.org/releases/6.0.0/NEWS target="_blank">
+        Chicken Scheme 6.0 |
     </a>
-    By: hipparchus
+    By: eatonphil
 </li>
 
 <li>
-    <a href=https://www.whodunnitai.com/ target="_blank">
-        Show HN: Voice driven murder mystery, Interview AI suspects with your voice |
+    <a href=https://everycube.alen.is/ target="_blank">
+        Show HN: Scroll through all 43252003274489856000 Rubik's Cube states |
     </a>
-    By: MrRowTheBoat
+    By: Alen123
 </li>
 
-<p>
-Text: Hey HN!<p>I&#x27;m excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn&#x27;t quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI&#x27;s gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don&#x27;t want to go broke while I sleep tonight.<p>Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated.<p>A separate gpt-5-mini judge then decides which of the case&#x27;s required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don&#x27;t.<p>The rest is Next.js, MongoDB, and Clerk.<p>Let me know whether the suspects hold up under a real interrogation. </br>
-</p>
-
 <li>
-    <a href=https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/ target="_blank">
-        How I use LLMs to learn complex topics |
+    <a href=https://www.floppydisk.com/recycle target="_blank">
+        Recycle – Floppydisks |
     </a>
-    By: laurentiurad
+    By: calvinmorrison
 </li>
 </ol>
