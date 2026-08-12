@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 11 Aug 2026</h4>
+<h4>Check the latest news from: Wed 12 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/antirez/h3.c target="_blank">
-        H3-metal – Native MiniMax-H3 inference for Apple Silicon |
+    <a href=https://llama.app target="_blank">
+        llama.cpp |
     </a>
-    By: swyx
+    By: kristianpaul
 </li>
 
 <li>
-    <a href=https://github.com/activeing123/mcptoon target="_blank">
-        Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97% |
+    <a href=https://aresluna.org/the-hardest-working-font-in-manhattan/ target="_blank">
+        The hardest working font in Manhattan (2025) |
     </a>
-    By: mcptokensaver
+    By: dcminter
 </li>
 
 <li>
-    <a href=https://code.call-cc.org/releases/6.0.0/NEWS target="_blank">
-        Chicken Scheme 6.0 |
+    <a href=https://ngrok.com/blog/compression-is-prediction target="_blank">
+        Compression is prediction |
     </a>
-    By: eatonphil
+    By: nikolay
 </li>
 
 <li>
-    <a href=https://everycube.alen.is/ target="_blank">
-        Show HN: Scroll through all 43252003274489856000 Rubik's Cube states |
+    <a href=https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/ target="_blank">
+        The lifesaving secret hidden inside a horseshoe crab's blue blood |
     </a>
-    By: Alen123
+    By: andsoitis
 </li>
 
 <li>
-    <a href=https://www.floppydisk.com/recycle target="_blank">
-        Recycle – Floppydisks |
+    <a href=https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/ target="_blank">
+        WorldClaw Agentic 3D open-world generation at scale |
     </a>
-    By: calvinmorrison
+    By: EwanG
 </li>
 </ol>
