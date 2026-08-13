@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 12 Aug 2026</h4>
+<h4>Check the latest news from: Thu 13 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://llama.app target="_blank">
-        llama.cpp |
+    <a href=https://openrouter.ai/deepseek/deepseek-v4-pro-0813 target="_blank">
+        DeepSeek V4 Pro 0813 |
     </a>
-    By: kristianpaul
+    By: explosion-s
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;</a><p><a href="https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro" rel="nofollow">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro</a><p><a href="https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024</a>, <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024</a> </br>
+</p>
+
+<li>
+    <a href=https://tailscale.com/blog/sqlite-wal-reset-bug target="_blank">
+        Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug |
+    </a>
+    By: ropbear
 </li>
 
 <li>
-    <a href=https://aresluna.org/the-hardest-working-font-in-manhattan/ target="_blank">
-        The hardest working font in Manhattan (2025) |
+    <a href=https://zed.dev/blog/introducing-delta target="_blank">
+        Delta |
     </a>
-    By: dcminter
+    By: khy
 </li>
 
 <li>
-    <a href=https://ngrok.com/blog/compression-is-prediction target="_blank">
-        Compression is prediction |
+    <a href=https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B target="_blank">
+        Qwen3.8-2.4T |
     </a>
-    By: nikolay
+    By: Philpax
 </li>
 
-<li>
-    <a href=https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/ target="_blank">
-        The lifesaving secret hidden inside a horseshoe crab's blue blood |
-    </a>
-    By: andsoitis
-</li>
+<p>
+Text: <a href="https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8</a> </br>
+</p>
 
 <li>
-    <a href=https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/ target="_blank">
-        WorldClaw Agentic 3D open-world generation at scale |
+    <a href=https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html target="_blank">
+        Principia Mathematica is modern and insightful |
     </a>
-    By: EwanG
+    By: matt_d
 </li>
 </ol>
