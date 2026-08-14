@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 13 Aug 2026</h4>
+<h4>Check the latest news from: Fri 14 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://openrouter.ai/deepseek/deepseek-v4-pro-0813 target="_blank">
-        DeepSeek V4 Pro 0813 |
+    <a href=https://z.ai/blog/glm-5.3 target="_blank">
+        GLM-5.3: Frontier Coding with Emergent Cyber Capabilities |
     </a>
-    By: explosion-s
+    By: pella
+</li>
+
+<li>
+    <a href=https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/ target="_blank">
+        Gemini 3.7 Flash |
+    </a>
+    By: thisisauserid
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;</a><p><a href="https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro" rel="nofollow">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro</a><p><a href="https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024</a>, <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024</a> </br>
+Text: <a href="https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.7-flash" rel="nofollow">https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.7-flas...</a> </br>
 </p>
 
 <li>
-    <a href=https://tailscale.com/blog/sqlite-wal-reset-bug target="_blank">
-        Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug |
+    <a href=https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai target="_blank">
+        Accelerating GPT-5.6 Sol Ultrafast |
     </a>
-    By: ropbear
+    By: pr337h4m
 </li>
 
 <li>
-    <a href=https://zed.dev/blog/introducing-delta target="_blank">
-        Delta |
+    <a href=https://themech.net/2026/08/hello-me-its-been-a-while/ target="_blank">
+        Hello, me. It's been a while |
     </a>
-    By: khy
+    By: somesoftdev
 </li>
 
 <li>
-    <a href=https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B target="_blank">
-        Qwen3.8-2.4T |
+    <a href=https://atproto.com/blog/introducing-bluesky-protocol-services target="_blank">
+        Bluesky Protocol Services |
     </a>
-    By: Philpax
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8</a> </br>
-</p>
-
-<li>
-    <a href=https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html target="_blank">
-        Principia Mathematica is modern and insightful |
-    </a>
-    By: matt_d
+    By: danabramov
 </li>
 </ol>
