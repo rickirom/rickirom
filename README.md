@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 14 Aug 2026</h4>
+<h4>Check the latest news from: Sat 15 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://z.ai/blog/glm-5.3 target="_blank">
-        GLM-5.3: Frontier Coding with Emergent Cyber Capabilities |
+    <a href=https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive target="_blank">
+        Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia |
     </a>
-    By: pella
+    By: Bender
 </li>
 
 <li>
-    <a href=https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/ target="_blank">
-        Gemini 3.7 Flash |
+    <a href=https://huggingface.co/Qwen/Qwen3.8-27B-FP8 target="_blank">
+        Qwen 3.8 27B |
     </a>
-    By: thisisauserid
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.7-flash" rel="nofollow">https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.7-flas...</a> </br>
-</p>
-
-<li>
-    <a href=https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai target="_blank">
-        Accelerating GPT-5.6 Sol Ultrafast |
-    </a>
-    By: pr337h4m
+    By: erdaltoprak
 </li>
 
 <li>
-    <a href=https://themech.net/2026/08/hello-me-its-been-a-while/ target="_blank">
-        Hello, me. It's been a while |
+    <a href=https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/ target="_blank">
+        Going Dark, and the era of law enforcement hacking |
     </a>
-    By: somesoftdev
+    By: vslira
 </li>
 
 <li>
-    <a href=https://atproto.com/blog/introducing-bluesky-protocol-services target="_blank">
-        Bluesky Protocol Services |
+    <a href=https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ target="_blank">
+        The other Sean Byrne doesn't exist |
     </a>
-    By: danabramov
+    By: rdl
+</li>
+
+<li>
+    <a href=https://blog.ploopy.co/the-aplus-is-finally-here-499 target="_blank">
+        The Ploopy A+ Trackball Is Here |
+    </a>
+    By: big_toast
 </li>
 </ol>
