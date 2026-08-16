@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 15 Aug 2026</h4>
+<h4>Check the latest news from: Sun 16 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive target="_blank">
-        Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia |
+    <a href=https://breck.lol/plMakers.html target="_blank">
+        The quirky personal homepages of programming language creators |
     </a>
-    By: Bender
+    By: cjlm
 </li>
 
 <li>
-    <a href=https://huggingface.co/Qwen/Qwen3.8-27B-FP8 target="_blank">
-        Qwen 3.8 27B |
+    <a href=https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/ target="_blank">
+        Asus Bike Booster |
     </a>
-    By: erdaltoprak
+    By: wiradikusuma
 </li>
 
 <li>
-    <a href=https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/ target="_blank">
-        Going Dark, and the era of law enforcement hacking |
+    <a href=https://duckdb.org/2026/07/31/asynchronous-io target="_blank">
+        Asynchronous I/O in DuckDB: Work, Thread, Work |
     </a>
-    By: vslira
+    By: pdet
 </li>
 
 <li>
-    <a href=https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ target="_blank">
-        The other Sean Byrne doesn't exist |
+    <a href=https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 target="_blank">
+        Semaglutide linked to lower predicted dementia risk |
     </a>
-    By: rdl
+    By: randycupertino
 </li>
 
 <li>
-    <a href=https://blog.ploopy.co/the-aplus-is-finally-here-499 target="_blank">
-        The Ploopy A+ Trackball Is Here |
+    <a href=https://www.anthropic.com/research/multiagent-systems target="_blank">
+        Patterns and problems in emerging multi-agent systems |
     </a>
-    By: big_toast
+    By: maxutility
 </li>
 </ol>
