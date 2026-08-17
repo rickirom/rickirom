@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 16 Aug 2026</h4>
+<h4>Check the latest news from: Mon 17 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://breck.lol/plMakers.html target="_blank">
-        The quirky personal homepages of programming language creators |
+    <a href=https://simonwillison.net/2026/Aug/16/qwen-38-27b/ target="_blank">
+        Qwen 3.8 27B is excellent, but it defaults to overthinking things |
     </a>
-    By: cjlm
+    By: bilsbie
 </li>
 
 <li>
-    <a href=https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/ target="_blank">
-        Asus Bike Booster |
+    <a href=https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion target="_blank">
+        Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter |
     </a>
-    By: wiradikusuma
+    By: zacharyozer
 </li>
 
 <li>
-    <a href=https://duckdb.org/2026/07/31/asynchronous-io target="_blank">
-        Asynchronous I/O in DuckDB: Work, Thread, Work |
+    <a href=https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf target="_blank">
+        The Life and Death of Direct File [pdf] |
     </a>
-    By: pdet
+    By: ronbenton
 </li>
 
 <li>
-    <a href=https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 target="_blank">
-        Semaglutide linked to lower predicted dementia risk |
+    <a href=https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64 target="_blank">
+        AGI-64 Brings Sierra Adventures to the Commodore 64 |
     </a>
-    By: randycupertino
+    By: erickhill
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/research/multiagent-systems target="_blank">
-        Patterns and problems in emerging multi-agent systems |
+    <a href=https://rvembedded.com/blog_post/12/ target="_blank">
+        A third world engineer responds to ”RISC-V: They should have known better“ |
     </a>
-    By: maxutility
+    By: Narishma
 </li>
 </ol>
