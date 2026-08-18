@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 17 Aug 2026</h4>
+<h4>Check the latest news from: Tue 18 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://simonwillison.net/2026/Aug/16/qwen-38-27b/ target="_blank">
-        Qwen 3.8 27B is excellent, but it defaults to overthinking things |
+    <a href=https://timmarinin.net/2026/bluesky-screenshots/ target="_blank">
+        How Bluesky draws its logo on screenshots |
     </a>
-    By: bilsbie
+    By: gavide
 </li>
 
 <li>
-    <a href=https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion target="_blank">
-        Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter |
+    <a href=https://openrouter.ai/openai/gpt-5.6-sol target="_blank">
+        GPT-5.6 Sol Pricing Cut by 50% |
     </a>
-    By: zacharyozer
+    By: Topfi
 </li>
 
 <li>
-    <a href=https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf target="_blank">
-        The Life and Death of Direct File [pdf] |
+    <a href=https://fabiensanglard.net/quake_shareware_cd/index.html target="_blank">
+        Quake Shareware, a CD-ROM just a little too full |
     </a>
-    By: ronbenton
+    By: shdon
 </li>
 
 <li>
-    <a href=https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64 target="_blank">
-        AGI-64 Brings Sierra Adventures to the Commodore 64 |
+    <a href=https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/ target="_blank">
+        I don't enjoy the Internet any more |
     </a>
-    By: erickhill
+    By: g0xA52A2A
 </li>
 
 <li>
-    <a href=https://rvembedded.com/blog_post/12/ target="_blank">
-        A third world engineer responds to ”RISC-V: They should have known better“ |
+    <a href=https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet target="_blank">
+        Shattered skeleton is first confirmed death from trebuchet |
     </a>
-    By: Narishma
+    By: hermitcrab
 </li>
 </ol>
