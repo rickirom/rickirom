@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 18 Aug 2026</h4>
+<h4>Check the latest news from: Wed 19 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://timmarinin.net/2026/bluesky-screenshots/ target="_blank">
-        How Bluesky draws its logo on screenshots |
+    <a href=https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco target="_blank">
+        Meta's blockbuster trial draws parallels to big tobacco |
     </a>
-    By: gavide
+    By: newsomix9xl
 </li>
 
 <li>
-    <a href=https://openrouter.ai/openai/gpt-5.6-sol target="_blank">
-        GPT-5.6 Sol Pricing Cut by 50% |
+    <a href=https://openlogi.org/en target="_blank">
+        OpenLogi |
     </a>
-    By: Topfi
+    By: amatheus
 </li>
 
 <li>
-    <a href=https://fabiensanglard.net/quake_shareware_cd/index.html target="_blank">
-        Quake Shareware, a CD-ROM just a little too full |
+    <a href=https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/ target="_blank">
+        Palomar: A registry of Lean verified mathematics |
     </a>
-    By: shdon
+    By: matt_d
 </li>
 
 <li>
-    <a href=https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/ target="_blank">
-        I don't enjoy the Internet any more |
+    <a href=https://www.youtube.com/watch?v=Co57SfcT-h0 target="_blank">
+        Supersonic Trebuchet [video] |
     </a>
-    By: g0xA52A2A
+    By: CharlesW
 </li>
 
 <li>
-    <a href=https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet target="_blank">
-        Shattered skeleton is first confirmed death from trebuchet |
+    <a href=https://github.com/DenisSergeevitch/desktop-fly target="_blank">
+        A 3D fruit fly on macOS desktop powered by the real FlyWire connectome |
     </a>
-    By: hermitcrab
+    By: phoenix120
 </li>
 </ol>
