@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 19 Aug 2026</h4>
+<h4>Check the latest news from: Thu 20 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco target="_blank">
-        Meta's blockbuster trial draws parallels to big tobacco |
+    <a href=https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/ target="_blank">
+        OpenRouter is joining Stripe |
     </a>
-    By: newsomix9xl
+    By: rvz
+</li>
+
+<p>
+Text: Previously: Stripe will reportedly acquire OpenRouter for $7B+ <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49323381">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49323381</a> </br>
+</p>
+
+<li>
+    <a href=https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672 target="_blank">
+        Error by AI scribe during medical appointment leaves patient devastated |
+    </a>
+    By: ahonhn
 </li>
 
 <li>
-    <a href=https://openlogi.org/en target="_blank">
-        OpenLogi |
+    <a href=https://www.computerenhance.com/p/turns-are-better-than-radians target="_blank">
+        Turns are Better than Radians (2022) |
     </a>
-    By: amatheus
+    By: mayoff
 </li>
 
 <li>
-    <a href=https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/ target="_blank">
-        Palomar: A registry of Lean verified mathematics |
+    <a href=https://go.dev/blog/go1.27 target="_blank">
+        Go 1.27 |
     </a>
-    By: matt_d
+    By: database64128
 </li>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=Co57SfcT-h0 target="_blank">
-        Supersonic Trebuchet [video] |
+    <a href=https://www.benjoffe.com/fast-day-of-week target="_blank">
+        A faster way to calculate the day of the week |
     </a>
-    By: CharlesW
-</li>
-
-<li>
-    <a href=https://github.com/DenisSergeevitch/desktop-fly target="_blank">
-        A 3D fruit fly on macOS desktop powered by the real FlyWire connectome |
-    </a>
-    By: phoenix120
+    By: gavide
 </li>
 </ol>
