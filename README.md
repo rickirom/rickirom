@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 20 Aug 2026</h4>
+<h4>Check the latest news from: Fri 21 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/ target="_blank">
-        OpenRouter is joining Stripe |
+    <a href=https://github.com/openai/codex/issues/37674 target="_blank">
+        Codex on AWS bedrock bug causing 10x charges |
     </a>
-    By: rvz
+    By: TheP1000
+</li>
+
+<li>
+    <a href=https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ target="_blank">
+        The August 17 outage |
+    </a>
+    By: 0xedb
+</li>
+
+<li>
+    <a href=https://www.experimental-history.com/p/i-like-em-thick target="_blank">
+        I like 'em thick: an apology to my English teachers |
+    </a>
+    By: Ariarule
+</li>
+
+<li>
+    <a href=https://chrisburnell.com/html-can-do-that/ target="_blank">
+        HTML Can Do That |
+    </a>
+    By: encyclopedism
+</li>
+
+<li>
+    <a href=https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/ target="_blank">
+        Malicious Rust crate Arrayref runs a build-time payload |
+    </a>
+    By: abhisek
 </li>
 
 <p>
-Text: Previously: Stripe will reportedly acquire OpenRouter for $7B+ <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49323381">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49323381</a> </br>
+Text: <a href="https:&#x2F;&#x2F;blog.rust-lang.org&#x2F;2026&#x2F;08&#x2F;20&#x2F;supply-chain-attack-on-arrayref&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.rust-lang.org&#x2F;2026&#x2F;08&#x2F;20&#x2F;supply-chain-attack-on...</a><p><a href="https:&#x2F;&#x2F;github.com&#x2F;rustsec&#x2F;advisory-db&#x2F;issues&#x2F;3161" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;rustsec&#x2F;advisory-db&#x2F;issues&#x2F;3161</a> </br>
 </p>
-
-<li>
-    <a href=https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672 target="_blank">
-        Error by AI scribe during medical appointment leaves patient devastated |
-    </a>
-    By: ahonhn
-</li>
-
-<li>
-    <a href=https://www.computerenhance.com/p/turns-are-better-than-radians target="_blank">
-        Turns are Better than Radians (2022) |
-    </a>
-    By: mayoff
-</li>
-
-<li>
-    <a href=https://go.dev/blog/go1.27 target="_blank">
-        Go 1.27 |
-    </a>
-    By: database64128
-</li>
-
-<li>
-    <a href=https://www.benjoffe.com/fast-day-of-week target="_blank">
-        A faster way to calculate the day of the week |
-    </a>
-    By: gavide
-</li>
 </ol>
