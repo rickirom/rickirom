@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 21 Aug 2026</h4>
+<h4>Check the latest news from: Sat 22 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/openai/codex/issues/37674 target="_blank">
-        Codex on AWS bedrock bug causing 10x charges |
+    <a href=https://danluu.com/perf-opt/ target="_blank">
+        There's no reason for software to be slow anymore |
     </a>
-    By: TheP1000
+    By: Jach
 </li>
 
 <li>
-    <a href=https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ target="_blank">
-        The August 17 outage |
+    <a href=https://grapheneos.social/@GrapheneOS/117136278553665985 target="_blank">
+        Initial focus for our partnership with Motorola is a regular non-folding device |
     </a>
-    By: 0xedb
+    By: Cider9986
 </li>
 
 <li>
-    <a href=https://www.experimental-history.com/p/i-like-em-thick target="_blank">
-        I like 'em thick: an apology to my English teachers |
+    <a href=https://www.felonybench.com/ target="_blank">
+        Felony Bench |
     </a>
-    By: Ariarule
+    By: colinprince
 </li>
 
 <li>
-    <a href=https://chrisburnell.com/html-can-do-that/ target="_blank">
-        HTML Can Do That |
+    <a href=https://bandarlabs.github.io/Cobalt/ target="_blank">
+        Kobo can run apps now |
     </a>
-    By: encyclopedism
+    By: thepoet
 </li>
 
 <li>
-    <a href=https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/ target="_blank">
-        Malicious Rust crate Arrayref runs a build-time payload |
+    <a href=https://rust-glancer.github.io/blog/hello-world/ target="_blank">
+        Rust Glancer: Rust LSP using 100x less RAM |
     </a>
-    By: abhisek
+    By: matklad
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;blog.rust-lang.org&#x2F;2026&#x2F;08&#x2F;20&#x2F;supply-chain-attack-on-arrayref&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.rust-lang.org&#x2F;2026&#x2F;08&#x2F;20&#x2F;supply-chain-attack-on...</a><p><a href="https:&#x2F;&#x2F;github.com&#x2F;rustsec&#x2F;advisory-db&#x2F;issues&#x2F;3161" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;rustsec&#x2F;advisory-db&#x2F;issues&#x2F;3161</a> </br>
+Text: <a href="https:&#x2F;&#x2F;matklad.github.io&#x2F;2026&#x2F;08&#x2F;21&#x2F;rust-glancer.html" rel="nofollow">https:&#x2F;&#x2F;matklad.github.io&#x2F;2026&#x2F;08&#x2F;21&#x2F;rust-glancer.html</a> </br>
 </p>
 </ol>
