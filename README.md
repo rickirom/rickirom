@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 22 Aug 2026</h4>
+<h4>Check the latest news from: Sun 23 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://danluu.com/perf-opt/ target="_blank">
-        There's no reason for software to be slow anymore |
+    <a href=https://martypc.net/ target="_blank">
+        MartyPC is a cross-platform emulator of early PCs written in Rust |
     </a>
-    By: Jach
+    By: boilerupnc
 </li>
 
 <li>
-    <a href=https://grapheneos.social/@GrapheneOS/117136278553665985 target="_blank">
-        Initial focus for our partnership with Motorola is a regular non-folding device |
+    <a href=https://henry.codes/writing/i-dream-of-quieter-computing/ target="_blank">
+        I Dream of Quieter Computing |
     </a>
-    By: Cider9986
+    By: Sir_Twist
 </li>
 
 <li>
-    <a href=https://www.felonybench.com/ target="_blank">
-        Felony Bench |
+    <a href=https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ target="_blank">
+        The Golden Rule for Becoming a Better Writer |
     </a>
-    By: colinprince
+    By: andsoitis
 </li>
 
 <li>
-    <a href=https://bandarlabs.github.io/Cobalt/ target="_blank">
-        Kobo can run apps now |
+    <a href=https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ target="_blank">
+        The Art and Beauty of Blade Runner |
     </a>
-    By: thepoet
+    By: cocacola1
 </li>
 
 <li>
-    <a href=https://rust-glancer.github.io/blog/hello-world/ target="_blank">
-        Rust Glancer: Rust LSP using 100x less RAM |
+    <a href=https://twitter.com/moxie/status/2091218652133732491 target="_blank">
+        Scrap (2006) |
     </a>
-    By: matklad
+    By: tosh
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;matklad.github.io&#x2F;2026&#x2F;08&#x2F;21&#x2F;rust-glancer.html" rel="nofollow">https:&#x2F;&#x2F;matklad.github.io&#x2F;2026&#x2F;08&#x2F;21&#x2F;rust-glancer.html</a> </br>
+Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;moxie&#x2F;status&#x2F;2091218652133732491" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;moxie&#x2F;status&#x2F;2091218652133732491</a> </br>
 </p>
 </ol>
