@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 23 Aug 2026</h4>
+<h4>Check the latest news from: Mon 24 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://martypc.net/ target="_blank">
-        MartyPC is a cross-platform emulator of early PCs written in Rust |
+    <a href=https://schlarp.com/posts/everything-i-own-owned/ target="_blank">
+        Everything I own, owned |
     </a>
-    By: boilerupnc
-</li>
-
-<li>
-    <a href=https://henry.codes/writing/i-dream-of-quieter-computing/ target="_blank">
-        I Dream of Quieter Computing |
-    </a>
-    By: Sir_Twist
-</li>
-
-<li>
-    <a href=https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ target="_blank">
-        The Golden Rule for Becoming a Better Writer |
-    </a>
-    By: andsoitis
-</li>
-
-<li>
-    <a href=https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ target="_blank">
-        The Art and Beauty of Blade Runner |
-    </a>
-    By: cocacola1
-</li>
-
-<li>
-    <a href=https://twitter.com/moxie/status/2091218652133732491 target="_blank">
-        Scrap (2006) |
-    </a>
-    By: tosh
+    By: schlarpc
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;moxie&#x2F;status&#x2F;2091218652133732491" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;moxie&#x2F;status&#x2F;2091218652133732491</a> </br>
+Text: <a href="https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.com&#x2F;posts&#x2F;everything-i-own-owned&#x2F;" rel="nofollow">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c...</a> </br>
 </p>
+
+<li>
+    <a href=https://lalitm.com/post/find-problems-staff-engineer/ target="_blank">
+        How I find problems to solve as a staff engineer |
+    </a>
+    By: vanpra
+</li>
+
+<li>
+    <a href=https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 target="_blank">
+        Anthropic's best AI model struggles to attract users as cheaper tools thrive |
+    </a>
+    By: naves
+</li>
+
+<li>
+    <a href=https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/ target="_blank">
+        Google Workspace thinks my domain is an email provider (2025) |
+    </a>
+    By: el1s7
+</li>
+
+<li>
+    <a href=https://fabiensanglard.net/agent.md/index.html target="_blank">
+        My agent.md to improve LLM-assisted code quality |
+    </a>
+    By: ibobev
+</li>
 </ol>
