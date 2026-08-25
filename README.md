@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 24 Aug 2026</h4>
+<h4>Check the latest news from: Tue 25 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://schlarp.com/posts/everything-i-own-owned/ target="_blank">
-        Everything I own, owned |
+    <a href=https://developer.apple.com/news/?id=1ptvdtcm target="_blank">
+        iCloud+ Hide My Email addresses will remain on icloud.com |
     </a>
-    By: schlarpc
+    By: K7PJP
+</li>
+
+<li>
+    <a href=https://twitter.com/lemire/status/2091894299289874926 target="_blank">
+        Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded |
+    </a>
+    By: tosh
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.com&#x2F;posts&#x2F;everything-i-own-owned&#x2F;" rel="nofollow">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926</a> </br>
 </p>
 
 <li>
-    <a href=https://lalitm.com/post/find-problems-staff-engineer/ target="_blank">
-        How I find problems to solve as a staff engineer |
+    <a href=https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ target="_blank">
+        MS Paint and Photos inivisibly watermark even locally generated output with GUID |
     </a>
-    By: vanpra
+    By: ComputerGuru
 </li>
 
 <li>
-    <a href=https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 target="_blank">
-        Anthropic's best AI model struggles to attract users as cheaper tools thrive |
+    <a href=https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk target="_blank">
+        Rupert Lowe set to be paid as much for divisive posts on X as for being MP |
     </a>
-    By: naves
+    By: notmine1337
 </li>
 
 <li>
-    <a href=https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/ target="_blank">
-        Google Workspace thinks my domain is an email provider (2025) |
+    <a href=https://paulgraham.com/prepare.html target="_blank">
+        How Universities Should Prepare Founders |
     </a>
-    By: el1s7
-</li>
-
-<li>
-    <a href=https://fabiensanglard.net/agent.md/index.html target="_blank">
-        My agent.md to improve LLM-assisted code quality |
-    </a>
-    By: ibobev
+    By: gmays
 </li>
 </ol>
