@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 26 Aug 2026</h4>
+<h4>Check the latest news from: Thu 27 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ target="_blank">
-        Apple introduces M6 and M5 Ultra |
+    <a href=https://www.bbc.com/news/articles/c3v4k0re3vwo target="_blank">
+        Japanese polka dot artist Yayoi Kusama dies aged 97 |
     </a>
-    By: interpol_p
+    By: herbertl
+</li>
+
+<li>
+    <a href=https://507movements.com/ target="_blank">
+        507 Mechanical Movements |
+    </a>
+    By: helloplanets
+</li>
+
+<li>
+    <a href=https://pollen-robotics.com/microduck/ target="_blank">
+        Pollen Robotics (Hugging Face) Microduck |
+    </a>
+    By: robotswantdata
+</li>
+
+<li>
+    <a href=https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31 target="_blank">
+        Emacs 31: An unofficial guide to Markdown-ts-mode |
+    </a>
+    By: RahulMJ
+</li>
+
+<li>
+    <a href=https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8 target="_blank">
+        Nvidia agrees to acquire Hugging Face for $13B |
+    </a>
+    By: mfiguiere
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6&#x2F;" rel="nofollow">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe...</a><p><a href="https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-here-are-all-the-new-features&#x2F;" rel="nofollow">https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-he...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.theinformation.com&#x2F;articles&#x2F;nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?utm_campaign=article_email&amp;utm_content=article-17723" rel="nofollow">https:&#x2F;&#x2F;www.theinformation.com&#x2F;articles&#x2F;nvidia-agrees-buy-op...</a> (paywalled)<p><a href="https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;24&#x2F;hugging-face-reportedly-in-talks-to-be-acquired-for-13b&#x2F;" rel="nofollow">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;24&#x2F;hugging-face-reportedly-in...</a> </br>
 </p>
-
-<li>
-    <a href=https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar target="_blank">
-        FDA authorizes first wearable device that monitors ketone and blood sugar levels |
-    </a>
-    By: sunnynagra
-</li>
-
-<li>
-    <a href=https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia target="_blank">
-        OpenAI Jalapeño: Better than Nvidia Blackwell |
-    </a>
-    By: bmulholland
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-claims-its-new-chips-can-outperform-nvidia-processors-in-tests" rel="nofollow">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl...</a>, <a href="https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr</a> </br>
-</p>
-
-<li>
-    <a href=https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/ target="_blank">
-        New Mac Studio with M5 Max and M5 Ultra |
-    </a>
-    By: interpol_p
-</li>
-
-<li>
-    <a href=https://fzakaria.com/2026/08/24/actually-queryable-executables target="_blank">
-        Queryable Executables |
-    </a>
-    By: rguiscard
-</li>
 </ol>
