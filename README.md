@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 27 Aug 2026</h4>
+<h4>Check the latest news from: Fri 28 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://www.bbc.com/news/articles/c3v4k0re3vwo target="_blank">
-        Japanese polka dot artist Yayoi Kusama dies aged 97 |
+    <a href=https://en.refund4freedom.org/ target="_blank">
+        Get your Windows license refund |
     </a>
-    By: herbertl
+    By: smartmic
 </li>
 
 <li>
-    <a href=https://507movements.com/ target="_blank">
-        507 Mechanical Movements |
+    <a href=https://anil.recoil.org/notes/rumour-is-the-exploit target="_blank">
+        Just the rumour of a bug is enough to find an exploit these days |
     </a>
-    By: helloplanets
+    By: avsm
 </li>
 
 <li>
-    <a href=https://pollen-robotics.com/microduck/ target="_blank">
-        Pollen Robotics (Hugging Face) Microduck |
+    <a href=https://www.orbify.eu/demo/ target="_blank">
+        Inception-style curved map for turn-by-turn directions |
     </a>
-    By: robotswantdata
+    By: smoser
 </li>
 
 <li>
-    <a href=https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31 target="_blank">
-        Emacs 31: An unofficial guide to Markdown-ts-mode |
+    <a href=https://www.inventati.org/ target="_blank">
+        U.S. sanctions against the A/I Collective |
     </a>
-    By: RahulMJ
+    By: exiguus
 </li>
 
 <li>
-    <a href=https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8 target="_blank">
-        Nvidia agrees to acquire Hugging Face for $13B |
+    <a href=https://twitter.com/Zai_org/status/2093354097122455713 target="_blank">
+        GLM-5.3 is now open-weight |
     </a>
-    By: mfiguiere
+    By: jeudesprits
 </li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.theinformation.com&#x2F;articles&#x2F;nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?utm_campaign=article_email&amp;utm_content=article-17723" rel="nofollow">https:&#x2F;&#x2F;www.theinformation.com&#x2F;articles&#x2F;nvidia-agrees-buy-op...</a> (paywalled)<p><a href="https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;24&#x2F;hugging-face-reportedly-in-talks-to-be-acquired-for-13b&#x2F;" rel="nofollow">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;24&#x2F;hugging-face-reportedly-in...</a> </br>
-</p>
 </ol>
