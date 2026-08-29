@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 28 Aug 2026</h4>
+<h4>Check the latest news from: Sat 29 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://en.refund4freedom.org/ target="_blank">
-        Get your Windows license refund |
+    <a href=https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing target="_blank">
+        Samsung's Processing-in-Memory (PIM) |
     </a>
-    By: smartmic
+    By: ingve
 </li>
 
 <li>
-    <a href=https://anil.recoil.org/notes/rumour-is-the-exploit target="_blank">
-        Just the rumour of a bug is enough to find an exploit these days |
+    <a href=https://parowozowniawolsztyn.pl/?page_id=2141 target="_blank">
+        Europe's last regular standard-gauge steam passenger service |
     </a>
-    By: avsm
+    By: GungulSurm
 </li>
 
 <li>
-    <a href=https://www.orbify.eu/demo/ target="_blank">
-        Inception-style curved map for turn-by-turn directions |
+    <a href=https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html target="_blank">
+        GUIs should be fully keyboard-driven |
     </a>
-    By: smoser
+    By: ckardaris
 </li>
 
 <li>
-    <a href=https://www.inventati.org/ target="_blank">
-        U.S. sanctions against the A/I Collective |
+    <a href=https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/ target="_blank">
+        Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems |
     </a>
-    By: exiguus
+    By: birdculture
 </li>
 
 <li>
-    <a href=https://twitter.com/Zai_org/status/2093354097122455713 target="_blank">
-        GLM-5.3 is now open-weight |
+    <a href=https://github.com/Lakr233/vphone-cli target="_blank">
+        Boot a Virtual iPhone via Apple's Virtualization.framework |
     </a>
-    By: jeudesprits
+    By: hentrep
 </li>
 </ol>
