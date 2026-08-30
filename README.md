@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 29 Aug 2026</h4>
+<h4>Check the latest news from: Sun 30 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing target="_blank">
-        Samsung's Processing-in-Memory (PIM) |
+    <a href=https://arxiv.org/abs/1804.07389 target="_blank">
+        Longest Straight Line Paths on Water or Land on the Earth (2018) |
     </a>
-    By: ingve
+    By: joebig
 </li>
 
 <li>
-    <a href=https://parowozowniawolsztyn.pl/?page_id=2141 target="_blank">
-        Europe's last regular standard-gauge steam passenger service |
+    <a href=https://www.qubes-os.org/news/2026/08/29/qsb-118/ target="_blank">
+        Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel |
     </a>
-    By: GungulSurm
+    By: vntok
 </li>
 
 <li>
-    <a href=https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html target="_blank">
-        GUIs should be fully keyboard-driven |
+    <a href=https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs target="_blank">
+        Xcena and Samsung's Near Memory Compute CXL Device |
     </a>
-    By: ckardaris
+    By: klelatti
 </li>
 
 <li>
-    <a href=https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/ target="_blank">
-        Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems |
+    <a href=https://blog.python.org/2026/08/riscv-now-officially-supported/ target="_blank">
+        RISC-V is now officially supported by CPython |
     </a>
-    By: birdculture
+    By: lumpa
 </li>
 
 <li>
-    <a href=https://github.com/Lakr233/vphone-cli target="_blank">
-        Boot a Virtual iPhone via Apple's Virtualization.framework |
+    <a href=https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ target="_blank">
+        Hy4 preview |
     </a>
-    By: hentrep
+    By: shenli3514
 </li>
 </ol>
