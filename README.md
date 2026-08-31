@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 30 Aug 2026</h4>
+<h4>Check the latest news from: Mon 31 Aug 2026</h4>
 <ol>
 <li>
-    <a href=https://arxiv.org/abs/1804.07389 target="_blank">
-        Longest Straight Line Paths on Water or Land on the Earth (2018) |
+    <a href=https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/ target="_blank">
+        OpenShot 4.0: Record, Edit, and Color Like Never Before |
     </a>
-    By: joebig
+    By: metrofun
 </li>
 
 <li>
-    <a href=https://www.qubes-os.org/news/2026/08/29/qsb-118/ target="_blank">
-        Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel |
+    <a href=https://unsung.aresluna.org/i-just-chose-words-carefully/ target="_blank">
+        “I just chose words carefully” |
     </a>
-    By: vntok
+    By: zdw
 </li>
 
 <li>
-    <a href=https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs target="_blank">
-        Xcena and Samsung's Near Memory Compute CXL Device |
+    <a href=https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/ target="_blank">
+        Breaking Claude Code Opus 5 Auto Mode |
     </a>
-    By: klelatti
+    By: Recursing
 </li>
 
 <li>
-    <a href=https://blog.python.org/2026/08/riscv-now-officially-supported/ target="_blank">
-        RISC-V is now officially supported by CPython |
+    <a href=https://people.kernel.org/monsieuricon/creepy-crawlies target="_blank">
+        Creepy Crawlies |
     </a>
-    By: lumpa
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ target="_blank">
-        Hy4 preview |
+    <a href=https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names target="_blank">
+        P99 0 ms* autocomplete for 240M domain names |
     </a>
-    By: shenli3514
+    By: dbalatero
 </li>
 </ol>
