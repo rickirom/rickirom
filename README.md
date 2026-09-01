@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 31 Aug 2026</h4>
+<h4>Check the latest news from: Tue 01 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/ target="_blank">
-        OpenShot 4.0: Record, Edit, and Color Like Never Before |
+    <a href=https://www.gpuworld.org/ target="_blank">
+        GPU World |
     </a>
-    By: metrofun
+    By: simonpure
 </li>
 
 <li>
-    <a href=https://unsung.aresluna.org/i-just-chose-words-carefully/ target="_blank">
-        “I just chose words carefully” |
+    <a href=https://fastpotify.rocks/ target="_blank">
+        Fastpotify |
     </a>
-    By: zdw
+    By: nreece
 </li>
 
 <li>
-    <a href=https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/ target="_blank">
-        Breaking Claude Code Opus 5 Auto Mode |
+    <a href=https://tmpout.sh/5/ target="_blank">
+        Tmp.0ut Volume 5 |
     </a>
-    By: Recursing
+    By: ghuntley
 </li>
 
 <li>
-    <a href=https://people.kernel.org/monsieuricon/creepy-crawlies target="_blank">
-        Creepy Crawlies |
+    <a href=https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/ target="_blank">
+        American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career |
     </a>
-    By: zdw
+    By: NaOH
 </li>
 
 <li>
-    <a href=https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names target="_blank">
-        P99 0 ms* autocomplete for 240M domain names |
+    <a href=https://restroomarchive.com target="_blank">
+        Restroom Archive |
     </a>
-    By: dbalatero
+    By: jcalx
 </li>
 </ol>
