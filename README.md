@@ -45,40 +45,45 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 01 Sep 2026</h4>
+<h4>Check the latest news from: Wed 02 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://www.gpuworld.org/ target="_blank">
-        GPU World |
+    <a href=https://www.anthropic.com/claude-fable-and-mythos-5-1 target="_blank">
+        Claude Fable 5.1 and Claude Mythos 5.1 |
     </a>
-    By: simonpure
+    By: denysvitali
+</li>
+
+<p>
+Text: What&#x27;s new in Claude Fable 5.1
+ – <a href="https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-new-fable-5-1" rel="nofollow">https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...</a><p>System Card: <a href="https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e6a7c5c7b87f5c07798616dc32c215d14235&#x2F;Claude%20Fable%205.1%20&amp;%20Claude%20Mythos%205.1%20System%20Card.pdf" rel="nofollow">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e6a7c5c7b87f5c07798616dc32...</a> </br>
+</p>
+
+<li>
+    <a href=https://arxiv.org/abs/2608.29530 target="_blank">
+        The Emergent Symbolic Structure of Artificial Neural Networks |
+    </a>
+    By: schmuhblaster
 </li>
 
 <li>
-    <a href=https://fastpotify.rocks/ target="_blank">
-        Fastpotify |
+    <a href=https://danluu.com/zitron/ target="_blank">
+        How accurate have Ed Zitron's AI skeptic predictions been? |
     </a>
-    By: nreece
+    By: jatins
 </li>
 
 <li>
-    <a href=https://tmpout.sh/5/ target="_blank">
-        Tmp.0ut Volume 5 |
+    <a href=https://dbushell.com/2026/09/01/text-editor/ target="_blank">
+        Fine, I'll build my own text editor |
     </a>
-    By: ghuntley
+    By: Alephinitesimal
 </li>
 
 <li>
-    <a href=https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/ target="_blank">
-        American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career |
+    <a href=https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ target="_blank">
+        FBI Probes Service Selling 153M+ Drivers Licenses |
     </a>
-    By: NaOH
-</li>
-
-<li>
-    <a href=https://restroomarchive.com target="_blank">
-        Restroom Archive |
-    </a>
-    By: jcalx
+    By: tatersolid
 </li>
 </ol>
