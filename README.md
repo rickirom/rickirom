@@ -45,45 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 02 Sep 2026</h4>
+<h4>Check the latest news from: Thu 03 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/claude-fable-and-mythos-5-1 target="_blank">
-        Claude Fable 5.1 and Claude Mythos 5.1 |
+    <a href=https://pola.rs/posts/announcing-polars-2/ target="_blank">
+        Pre-Release of Polars 2.0 |
     </a>
-    By: denysvitali
+    By: komape
+</li>
+
+<li>
+    <a href=https://kciter.so/posts/the-expensive-main-thread/en/ target="_blank">
+        The Browser's Main Thread Is Expensive |
+    </a>
+    By: kciter
+</li>
+
+<li>
+    <a href=https://developer.meta.com/ai/models/muse-spark/ target="_blank">
+        Muse Spark 1.3 |
+    </a>
+    By: bvaldivielso
 </li>
 
 <p>
-Text: What&#x27;s new in Claude Fable 5.1
- – <a href="https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-new-fable-5-1" rel="nofollow">https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...</a><p>System Card: <a href="https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e6a7c5c7b87f5c07798616dc32c215d14235&#x2F;Claude%20Fable%205.1%20&amp;%20Claude%20Mythos%205.1%20System%20Card.pdf" rel="nofollow">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e6a7c5c7b87f5c07798616dc32...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;research.meta.ai&#x2F;blog&#x2F;introducing-muse-spark-1-3" rel="nofollow">https:&#x2F;&#x2F;research.meta.ai&#x2F;blog&#x2F;introducing-muse-spark-1-3</a> </br>
 </p>
 
 <li>
-    <a href=https://arxiv.org/abs/2608.29530 target="_blank">
-        The Emergent Symbolic Structure of Artificial Neural Networks |
+    <a href=https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/ target="_blank">
+        Gemini 3.8 Flash and 3.8 Flash Cyber |
     </a>
-    By: schmuhblaster
+    By: bratao
 </li>
 
-<li>
-    <a href=https://danluu.com/zitron/ target="_blank">
-        How accurate have Ed Zitron's AI skeptic predictions been? |
-    </a>
-    By: jatins
-</li>
+<p>
+Text: <a href="https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-8-flash&#x2F;" rel="nofollow">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-8-flash&#x2F;</a> </br>
+</p>
 
 <li>
-    <a href=https://dbushell.com/2026/09/01/text-editor/ target="_blank">
-        Fine, I'll build my own text editor |
+    <a href=https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/ target="_blank">
+        Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016) |
     </a>
-    By: Alephinitesimal
-</li>
-
-<li>
-    <a href=https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ target="_blank">
-        FBI Probes Service Selling 153M+ Drivers Licenses |
-    </a>
-    By: tatersolid
+    By: DamonHD
 </li>
 </ol>
