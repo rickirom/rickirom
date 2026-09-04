@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 03 Sep 2026</h4>
+<h4>Check the latest news from: Fri 04 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://pola.rs/posts/announcing-polars-2/ target="_blank">
-        Pre-Release of Polars 2.0 |
+    <a href=https://openai.com/index/gpt-6-astra/ target="_blank">
+        GPT-6 Astra |
     </a>
-    By: komape
-</li>
-
-<li>
-    <a href=https://kciter.so/posts/the-expensive-main-thread/en/ target="_blank">
-        The Browser's Main Thread Is Expensive |
-    </a>
-    By: kciter
-</li>
-
-<li>
-    <a href=https://developer.meta.com/ai/models/muse-spark/ target="_blank">
-        Muse Spark 1.3 |
-    </a>
-    By: bvaldivielso
+    By: kibae
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;research.meta.ai&#x2F;blog&#x2F;introducing-muse-spark-1-3" rel="nofollow">https:&#x2F;&#x2F;research.meta.ai&#x2F;blog&#x2F;introducing-muse-spark-1-3</a> </br>
+Text: System Card: <a href="https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra" rel="nofollow">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI&#x27;s GPT-6 Astra on ARC-AGI-3</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691</a><p><i>GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49556147">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49556147</a> </br>
 </p>
 
 <li>
-    <a href=https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/ target="_blank">
-        Gemini 3.8 Flash and 3.8 Flash Cyber |
+    <a href=https://neil.fraser.name/news/2026/09/03/ target="_blank">
+        .name Termination |
     </a>
-    By: bratao
+    By: pavel_lishin
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-8-flash&#x2F;" rel="nofollow">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-8-flash&#x2F;</a> </br>
-</p>
+<li>
+    <a href=https://carbonawarepricing.com/ target="_blank">
+        Carbon-aware electricity pricing, measured daily on 38 grids |
+    </a>
+    By: High-Five
+</li>
 
 <li>
-    <a href=https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/ target="_blank">
-        Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016) |
+    <a href=https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/ target="_blank">
+        Authorization terminology is a mess: Let's fix it |
     </a>
-    By: DamonHD
+    By: andychiare
+</li>
+
+<li>
+    <a href=https://inference-docs.cerebras.ai/models/overview target="_blank">
+        Qwen 3.8 27B available on Cerebras at 1500 tokens/s |
+    </a>
+    By: altertable
 </li>
 </ol>
