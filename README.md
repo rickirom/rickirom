@@ -45,44 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 04 Sep 2026</h4>
+<h4>Check the latest news from: Sat 05 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://openai.com/index/gpt-6-astra/ target="_blank">
-        GPT-6 Astra |
+    <a href=https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems target="_blank">
+        AI handles incidents, engineers lose touch with their systems |
     </a>
-    By: kibae
+    By: sylvainkalache
+</li>
+
+<li>
+    <a href=https://nvd.nist.gov/vuln/detail/cve-2026-85046 target="_blank">
+        Actively exploited sandbox RCE in all Chromium versions |
+    </a>
+    By: negura
+</li>
+
+<li>
+    <a href=https://collusion.wiki/ target="_blank">
+        Discovery of a new OpenAI agent message board |
+    </a>
+    By: moultano
 </li>
 
 <p>
-Text: System Card: <a href="https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra" rel="nofollow">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI&#x27;s GPT-6 Astra on ARC-AGI-3</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691</a><p><i>GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49556147">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49556147</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...</a> </br>
 </p>
 
 <li>
-    <a href=https://neil.fraser.name/news/2026/09/03/ target="_blank">
-        .name Termination |
+    <a href=https://pushin.eu target="_blank">
+        Git hosting that never leaves Europe |
     </a>
-    By: pavel_lishin
+    By: sevenseacat
 </li>
 
 <li>
-    <a href=https://carbonawarepricing.com/ target="_blank">
-        Carbon-aware electricity pricing, measured daily on 38 grids |
+    <a href=https://www.anthropic.com/research/formalizing-fermats-last-theorem target="_blank">
+        Formalizing Fermat's Last Theorem |
     </a>
-    By: High-Five
+    By: jlebar
 </li>
 
-<li>
-    <a href=https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/ target="_blank">
-        Authorization terminology is a mess: Let's fix it |
-    </a>
-    By: andychiare
-</li>
-
-<li>
-    <a href=https://inference-docs.cerebras.ai/models/overview target="_blank">
-        Qwen 3.8 27B available on Cerebras at 1500 tokens/s |
-    </a>
-    By: altertable
-</li>
+<p>
+Text: <a href="https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-has-beaten-me-to-it&#x2F;" rel="nofollow">https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h...</a> </br>
+</p>
 </ol>
