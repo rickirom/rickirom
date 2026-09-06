@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 05 Sep 2026</h4>
+<h4>Check the latest news from: Sun 06 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems target="_blank">
-        AI handles incidents, engineers lose touch with their systems |
+    <a href=https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight target="_blank">
+        Isar Aerospace reaches orbit and deploys payloads on second flight |
     </a>
-    By: sylvainkalache
+    By: mpweiher
 </li>
 
 <li>
-    <a href=https://nvd.nist.gov/vuln/detail/cve-2026-85046 target="_blank">
-        Actively exploited sandbox RCE in all Chromium versions |
+    <a href=https://cloudinabottle.org/blog/launch-post target="_blank">
+        Cloud in a Bottle: making self-hosting accessible to everyone |
     </a>
-    By: negura
+    By: zplizzi
 </li>
 
 <li>
-    <a href=https://collusion.wiki/ target="_blank">
-        Discovery of a new OpenAI agent message board |
+    <a href=https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ target="_blank">
+        The revolt of the reader |
     </a>
-    By: moultano
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...</a> </br>
-</p>
-
-<li>
-    <a href=https://pushin.eu target="_blank">
-        Git hosting that never leaves Europe |
-    </a>
-    By: sevenseacat
+    By: chmaynard
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/research/formalizing-fermats-last-theorem target="_blank">
-        Formalizing Fermat's Last Theorem |
+    <a href=https://runjs.app/blog/music-theory-for-programmers target="_blank">
+        Music Theory for Programmers |
     </a>
-    By: jlebar
+    By: birdculture
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-has-beaten-me-to-it&#x2F;" rel="nofollow">https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h...</a> </br>
-</p>
+<li>
+    <a href=https://quenq.com/apps/vice-city-online/ target="_blank">
+        Play GTA III in the Browser |
+    </a>
+    By: rzk
+</li>
 </ol>
