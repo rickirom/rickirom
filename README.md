@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 06 Sep 2026</h4>
+<h4>Check the latest news from: Mon 07 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight target="_blank">
-        Isar Aerospace reaches orbit and deploys payloads on second flight |
+    <a href=https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ target="_blank">
+        Keep Our Servers Running |
     </a>
-    By: mpweiher
+    By: sonicrocketman
 </li>
 
 <li>
-    <a href=https://cloudinabottle.org/blog/launch-post target="_blank">
-        Cloud in a Bottle: making self-hosting accessible to everyone |
+    <a href=https://orchidfiles.com/programming-is-art/ target="_blank">
+        Programming is Art |
     </a>
-    By: zplizzi
+    By: theorchid
 </li>
 
 <li>
-    <a href=https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ target="_blank">
-        The revolt of the reader |
+    <a href=https://openbaarvervoerbelgie.be/ target="_blank">
+        Live map of public transport in Belgium |
     </a>
-    By: chmaynard
+    By: coinfused
 </li>
 
 <li>
-    <a href=https://runjs.app/blog/music-theory-for-programmers target="_blank">
-        Music Theory for Programmers |
+    <a href=https://austinhenley.com/blog/python1024.html target="_blank">
+        Making a Python interpreter in 1024 bytes |
     </a>
-    By: birdculture
+    By: azhenley
 </li>
 
 <li>
-    <a href=https://quenq.com/apps/vice-city-online/ target="_blank">
-        Play GTA III in the Browser |
+    <a href=https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html target="_blank">
+        LG smart TVs caught logging audio with screen off and snooping on local devices |
     </a>
-    By: rzk
+    By: chris_overseas
 </li>
 </ol>
