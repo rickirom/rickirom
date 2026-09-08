@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 07 Sep 2026</h4>
+<h4>Check the latest news from: Tue 08 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ target="_blank">
-        Keep Our Servers Running |
+    <a href=https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten target="_blank">
+        Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare |
     </a>
-    By: sonicrocketman
+    By: adulion
 </li>
 
 <li>
-    <a href=https://orchidfiles.com/programming-is-art/ target="_blank">
-        Programming is Art |
+    <a href=https://mcpherrin.ca/2026/09/07/rsa.html target="_blank">
+        I've factored the RSA keys of a Certificate Authority from the 90s |
     </a>
-    By: theorchid
+    By: ahlCVA
 </li>
 
 <li>
-    <a href=https://openbaarvervoerbelgie.be/ target="_blank">
-        Live map of public transport in Belgium |
+    <a href=https://lanparty.house/ target="_blank">
+        We built our house for LAN parties |
     </a>
-    By: coinfused
+    By: fittingopposite
 </li>
 
 <li>
-    <a href=https://austinhenley.com/blog/python1024.html target="_blank">
-        Making a Python interpreter in 1024 bytes |
+    <a href=https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/ target="_blank">
+        Mistral raises €3B |
     </a>
-    By: azhenley
+    By: kuberwastaken
 </li>
 
 <li>
-    <a href=https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html target="_blank">
-        LG smart TVs caught logging audio with screen off and snooping on local devices |
+    <a href=https://weirdgloop.org/blog/google-jail target="_blank">
+        There's a new "Google Jail" for independent wikis |
     </a>
-    By: chris_overseas
+    By: pizzaiolo
 </li>
 </ol>
