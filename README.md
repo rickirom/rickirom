@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 08 Sep 2026</h4>
+<h4>Check the latest news from: Wed 09 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten target="_blank">
-        Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare |
+    <a href=https://openai.com/index/codex-quantum-computing-experiments/ target="_blank">
+        How GPT‑5.6 Sol helps run quantum computing experiments |
     </a>
-    By: adulion
+    By: theanonymousone
 </li>
 
 <li>
-    <a href=https://mcpherrin.ca/2026/09/07/rsa.html target="_blank">
-        I've factored the RSA keys of a Certificate Authority from the 90s |
+    <a href=https://ai.meta.com/muse/ target="_blank">
+        Muse – Meta’s personal AI agent |
     </a>
-    By: ahlCVA
+    By: yks
 </li>
 
 <li>
-    <a href=https://lanparty.house/ target="_blank">
-        We built our house for LAN parties |
+    <a href=https://gwern.net/on-really-trying target="_blank">
+        On Really Trying (2009) |
     </a>
-    By: fittingopposite
+    By: whoami_nr
 </li>
 
 <li>
-    <a href=https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/ target="_blank">
-        Mistral raises €3B |
+    <a href=https://cims.nyu.edu/~tristanb/statement.pdf target="_blank">
+        Navier-Stokes – Tristan Buckmaster [pdf] |
     </a>
-    By: kuberwastaken
+    By: procedurecall
 </li>
 
+<p>
+Text: Further discussion: <a href="https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Sep&#x2F;8&#x2F;on-navier-stokes&#x2F;" rel="nofollow">https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Sep&#x2F;8&#x2F;on-navier-stokes&#x2F;</a>, <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49621697">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49621697</a> </br>
+</p>
+
 <li>
-    <a href=https://weirdgloop.org/blog/google-jail target="_blank">
-        There's a new "Google Jail" for independent wikis |
+    <a href=https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html target="_blank">
+        Tension wood: A 'muscle' that can both bend and straighten plants |
     </a>
-    By: pizzaiolo
+    By: mdp2021
 </li>
 </ol>
