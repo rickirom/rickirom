@@ -45,44 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 09 Sep 2026</h4>
+<h4>Check the latest news from: Thu 10 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://openai.com/index/codex-quantum-computing-experiments/ target="_blank">
-        How GPT‑5.6 Sol helps run quantum computing experiments |
+    <a href=https://twitter.com/deepseek_ai/status/2097930608790167907 target="_blank">
+        DeepSeek v4.1 Flash |
     </a>
-    By: theanonymousone
-</li>
-
-<li>
-    <a href=https://ai.meta.com/muse/ target="_blank">
-        Muse – Meta’s personal AI agent |
-    </a>
-    By: yks
-</li>
-
-<li>
-    <a href=https://gwern.net/on-really-trying target="_blank">
-        On Really Trying (2009) |
-    </a>
-    By: whoami_nr
-</li>
-
-<li>
-    <a href=https://cims.nyu.edu/~tristanb/statement.pdf target="_blank">
-        Navier-Stokes – Tristan Buckmaster [pdf] |
-    </a>
-    By: procedurecall
+    By: Liwink
 </li>
 
 <p>
-Text: Further discussion: <a href="https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Sep&#x2F;8&#x2F;on-navier-stokes&#x2F;" rel="nofollow">https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Sep&#x2F;8&#x2F;on-navier-stokes&#x2F;</a>, <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49621697">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49621697</a> </br>
+Text: <a href="https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4.1-Flash" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4.1-Flash</a> </br>
 </p>
 
 <li>
-    <a href=https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html target="_blank">
-        Tension wood: A 'muscle' that can both bend and straighten plants |
+    <a href=https://www.apple.com/iphone-duo/ target="_blank">
+        iPhone Duo |
     </a>
-    By: mdp2021
+    By: thecosmicfrog
+</li>
+
+<li>
+    <a href=https://rivendell.dmitrybrant.com/relativity/ target="_blank">
+        Show HN: What if the speed of light was 5 km/h? |
+    </a>
+    By: dmitrybrant
+</li>
+
+<p>
+Text: I&#x27;ve always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it! </br>
+</p>
+
+<li>
+    <a href=https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus target="_blank">
+        Larger Pacific Striped Octopus |
+    </a>
+    By: olalonde
+</li>
+
+<li>
+    <a href=https://tailwindcss.com/blog/tailwind-is-joining-shopify target="_blank">
+        Shopify acquires Tailwind |
+    </a>
+    By: EdwinHoksberg
 </li>
 </ol>
