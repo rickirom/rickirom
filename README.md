@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 10 Sep 2026</h4>
+<h4>Check the latest news from: Fri 11 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://twitter.com/deepseek_ai/status/2097930608790167907 target="_blank">
-        DeepSeek v4.1 Flash |
+    <a href=http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation target="_blank">
+        Cherenkov Radiation - traveling faster than light |
     </a>
-    By: Liwink
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4.1-Flash" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4.1-Flash</a> </br>
-</p>
-
-<li>
-    <a href=https://www.apple.com/iphone-duo/ target="_blank">
-        iPhone Duo |
-    </a>
-    By: thecosmicfrog
+    By: andsoitis
 </li>
 
 <li>
-    <a href=https://rivendell.dmitrybrant.com/relativity/ target="_blank">
-        Show HN: What if the speed of light was 5 km/h? |
+    <a href=https://shopify.engineering/back-to-native target="_blank">
+        Shopify is moving from React Native back to Swift and Kotlin |
     </a>
-    By: dmitrybrant
-</li>
-
-<p>
-Text: I&#x27;ve always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it! </br>
-</p>
-
-<li>
-    <a href=https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus target="_blank">
-        Larger Pacific Striped Octopus |
-    </a>
-    By: olalonde
+    By: fnthawar2
 </li>
 
 <li>
-    <a href=https://tailwindcss.com/blog/tailwind-is-joining-shopify target="_blank">
-        Shopify acquires Tailwind |
+    <a href=https://blog.jim-nielsen.com/2026/hands-off-my-cables/ target="_blank">
+        Don't let anyone take away your big box of cables |
     </a>
-    By: EdwinHoksberg
+    By: Brajeshwar
+</li>
+
+<li>
+    <a href=https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/ target="_blank">
+        Working with Git Worktrees in Magit |
+    </a>
+    By: srijan4
+</li>
+
+<li>
+    <a href=https://developers.openai.com/api/docs/guides/agents-api/overview target="_blank">
+        OpenAI Agents API |
+    </a>
+    By: aquir
 </li>
 </ol>
