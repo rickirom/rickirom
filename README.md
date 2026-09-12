@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 11 Sep 2026</h4>
+<h4>Check the latest news from: Sat 12 Sep 2026</h4>
 <ol>
 <li>
-    <a href=http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation target="_blank">
-        Cherenkov Radiation - traveling faster than light |
+    <a href=https://eiln.github.io/posts/ane.html target="_blank">
+        Retrospectively Reverse-Engineering Apple's Neural Engine |
     </a>
-    By: andsoitis
+    By: zdw
 </li>
 
 <li>
-    <a href=https://shopify.engineering/back-to-native target="_blank">
-        Shopify is moving from React Native back to Swift and Kotlin |
+    <a href=https://mathandai.org/ target="_blank">
+        A misalignment of AI in mathematics |
     </a>
-    By: fnthawar2
+    By: meredydd
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignment-of-ai-in-mathematics&#x2F;" rel="nofollow">https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm...</a><p><a href="https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;top-mathematicians-are-outraged-by-openais-methods" rel="nofollow">https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;...</a>, <a href="https:&#x2F;&#x2F;unwall.app&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;top-mathematicians-are-outraged-by-openais-methods" rel="nofollow">https:&#x2F;&#x2F;unwall.app&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;...</a> </br>
+</p>
+
+<li>
+    <a href=https://www.autom.dev/blog/google-search-goto-links target="_blank">
+        google.com/goto: Google's anti-scraping update |
+    </a>
+    By: 1e1a
 </li>
 
 <li>
-    <a href=https://blog.jim-nielsen.com/2026/hands-off-my-cables/ target="_blank">
-        Don't let anyone take away your big box of cables |
+    <a href=https://dayzlegame.com/blog/google-ads-bot-farm/ target="_blank">
+        I spent $220 on Google app ads and 60% of the installs were robots |
     </a>
-    By: Brajeshwar
+    By: nickabe
 </li>
 
 <li>
-    <a href=https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/ target="_blank">
-        Working with Git Worktrees in Magit |
+    <a href=https://www.usenet-rewind.com/ target="_blank">
+        Usenet rewind archive search engine |
     </a>
-    By: srijan4
-</li>
-
-<li>
-    <a href=https://developers.openai.com/api/docs/guides/agents-api/overview target="_blank">
-        OpenAI Agents API |
-    </a>
-    By: aquir
+    By: cstadler1869
 </li>
 </ol>
