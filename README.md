@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 12 Sep 2026</h4>
+<h4>Check the latest news from: Sun 13 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://eiln.github.io/posts/ane.html target="_blank">
-        Retrospectively Reverse-Engineering Apple's Neural Engine |
+    <a href=https://jetkvm.com/blog/introducing-jetkvm-mini target="_blank">
+        JetKVM Mini |
     </a>
-    By: zdw
+    By: taubek
 </li>
 
 <li>
-    <a href=https://mathandai.org/ target="_blank">
-        A misalignment of AI in mathematics |
+    <a href=https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating target="_blank">
+        Why are AI agents lying, cheating and coordinating? |
     </a>
-    By: meredydd
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignment-of-ai-in-mathematics&#x2F;" rel="nofollow">https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm...</a><p><a href="https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;top-mathematicians-are-outraged-by-openais-methods" rel="nofollow">https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;...</a>, <a href="https:&#x2F;&#x2F;unwall.app&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;top-mathematicians-are-outraged-by-openais-methods" rel="nofollow">https:&#x2F;&#x2F;unwall.app&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;...</a> </br>
-</p>
-
-<li>
-    <a href=https://www.autom.dev/blog/google-search-goto-links target="_blank">
-        google.com/goto: Google's anti-scraping update |
-    </a>
-    By: 1e1a
+    By: jonifico
 </li>
 
 <li>
-    <a href=https://dayzlegame.com/blog/google-ads-bot-farm/ target="_blank">
-        I spent $220 on Google app ads and 60% of the installs were robots |
+    <a href=https://neobrowser.ai/ target="_blank">
+        Norton Neo Browser |
     </a>
-    By: nickabe
+    By: phantomathkg
 </li>
 
 <li>
-    <a href=https://www.usenet-rewind.com/ target="_blank">
-        Usenet rewind archive search engine |
+    <a href=https://icm.museum/ target="_blank">
+        The Interim Computer Museum |
     </a>
-    By: cstadler1869
+    By: mulmen
+</li>
+
+<li>
+    <a href=https://high5apps.github.io/josm-plugin-website-wizard/ target="_blank">
+        Make your first edit to OpenStreetMap |
+    </a>
+    By: juliantigler
 </li>
 </ol>
