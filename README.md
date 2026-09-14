@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 13 Sep 2026</h4>
+<h4>Check the latest news from: Mon 14 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://jetkvm.com/blog/introducing-jetkvm-mini target="_blank">
-        JetKVM Mini |
+    <a href=https://www.eurobirdportal.org/ebp/en/ target="_blank">
+        EuroBirdPortal – Live bird movements across Europe |
     </a>
-    By: taubek
+    By: NKosmatos
 </li>
 
 <li>
-    <a href=https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating target="_blank">
-        Why are AI agents lying, cheating and coordinating? |
+    <a href=https://www.vals.ai/blogs/fable-solves-cyphral-distich target="_blank">
+        Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher |
     </a>
-    By: jonifico
+    By: u1hcw9nx
 </li>
 
 <li>
-    <a href=https://neobrowser.ai/ target="_blank">
-        Norton Neo Browser |
+    <a href=https://github.com/rh1tech/frank-386 target="_blank">
+        A 386 PC for Your RP2350 |
     </a>
-    By: phantomathkg
+    By: SamuraiLion
 </li>
 
 <li>
-    <a href=https://icm.museum/ target="_blank">
-        The Interim Computer Museum |
+    <a href=https://spaceships.treybastian.com/ target="_blank">
+        Spaceships (Reverse Asteroid) |
     </a>
-    By: mulmen
+    By: zdw
 </li>
 
 <li>
-    <a href=https://high5apps.github.io/josm-plugin-website-wizard/ target="_blank">
-        Make your first edit to OpenStreetMap |
+    <a href=https://xcancel.com/# target="_blank">
+        XCancel Taken Down Again |
     </a>
-    By: juliantigler
+    By: gaganyaan
 </li>
 </ol>
