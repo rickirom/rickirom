@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 14 Sep 2026</h4>
+<h4>Check the latest news from: Tue 15 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://www.eurobirdportal.org/ebp/en/ target="_blank">
-        EuroBirdPortal – Live bird movements across Europe |
+    <a href=https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua target="_blank">
+        I can't stop thinking about Papua New Guinea |
     </a>
-    By: NKosmatos
+    By: networked
 </li>
 
 <li>
-    <a href=https://www.vals.ai/blogs/fable-solves-cyphral-distich target="_blank">
-        Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher |
+    <a href=https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ target="_blank">
+        iOS 27, iPadOS 27, and macOS 27 |
     </a>
-    By: u1hcw9nx
+    By: throw0101d
 </li>
 
 <li>
-    <a href=https://github.com/rh1tech/frank-386 target="_blank">
-        A 386 PC for Your RP2350 |
+    <a href=https://github.com/enactic/OpenArm target="_blank">
+        OpenArm: An open-source 7DOF humanoid arm |
     </a>
-    By: SamuraiLion
+    By: Lwrless
 </li>
 
 <li>
-    <a href=https://spaceships.treybastian.com/ target="_blank">
-        Spaceships (Reverse Asteroid) |
+    <a href=https://www.linuxfromscratch.org/ target="_blank">
+        Linux from Scratch |
     </a>
-    By: zdw
+    By: sippingabonedry
 </li>
 
 <li>
-    <a href=https://xcancel.com/# target="_blank">
-        XCancel Taken Down Again |
+    <a href=https://andonlabs.com/blog/why-we-built-pion target="_blank">
+        Pion, an agent designed to run any company autonomously |
     </a>
-    By: gaganyaan
+    By: lukaspetersson
 </li>
 </ol>
