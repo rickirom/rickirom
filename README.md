@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 15 Sep 2026</h4>
+<h4>Check the latest news from: Wed 16 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua target="_blank">
-        I can't stop thinking about Papua New Guinea |
+    <a href=https://typesafe.ai/blog/introducing-system-one-models-and-jev target="_blank">
+        Introducing System One Models and Jev |
     </a>
-    By: networked
+    By: albelfio
 </li>
 
 <li>
-    <a href=https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ target="_blank">
-        iOS 27, iPadOS 27, and macOS 27 |
+    <a href=https://security.apple.com/blog/apple-reference-image/ target="_blank">
+        Apple Reference Image: A New Approach for Verified Photography |
     </a>
-    By: throw0101d
+    By: imwally
 </li>
 
 <li>
-    <a href=https://github.com/enactic/OpenArm target="_blank">
-        OpenArm: An open-source 7DOF humanoid arm |
+    <a href=https://github.com/arnegiacomo/fugleramme target="_blank">
+        Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations |
     </a>
-    By: Lwrless
+    By: arnemunthekaas
 </li>
 
-<li>
-    <a href=https://www.linuxfromscratch.org/ target="_blank">
-        Linux from Scratch |
-    </a>
-    By: sippingabonedry
-</li>
+<p>
+Text: See also: <i>Avian Visitors</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424</a> - May 2026 (20 comments) </br>
+</p>
 
 <li>
-    <a href=https://andonlabs.com/blog/why-we-built-pion target="_blank">
-        Pion, an agent designed to run any company autonomously |
+    <a href=https://inflightsimulator.com target="_blank">
+        Show HN: I made a flight simulator, except you're just a passenger |
     </a>
-    By: lukaspetersson
+    By: rkotcher
+</li>
+
+<p>
+Text: Buckle your seatbelt, secure your tray table, and open your window shade. Now you can simulate flying anywhere in the world as a commercial passenger, from takeoff to touchdown. Terrain, weather, and realtime sun position included. Don&#x27;t worry, the latest release now features legs, so you can get up and go to the bathroom on longer flights. Enjoy! </br>
+</p>
+
+<li>
+    <a href=https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/ target="_blank">
+        An update on Wayback Machine access |
+    </a>
+    By: ChrisArchitect
 </li>
 </ol>
