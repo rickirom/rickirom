@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 17 Sep 2026</h4>
+<h4>Check the latest news from: Fri 18 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ target="_blank">
-        One Year of Sponsored Servo Development |
+    <a href=https://github.com/jemalloc/jemalloc/releases/tag/5.4.0 target="_blank">
+        Jemalloc 5.4.0 |
     </a>
-    By: AshleysBrain
+    By: gkfasdfasdf
 </li>
 
 <li>
-    <a href=https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ target="_blank">
-        I didn't sign the Fields medallists' letter |
+    <a href=https://fex-emu.com/Scourge-of-emulation/ target="_blank">
+        The scourge of x86 emulation |
     </a>
-    By: simianwords
+    By: dagmx
 </li>
 
 <li>
-    <a href=https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/ target="_blank">
-        Nvidia announces native GPU programming in Rust |
+    <a href=https://openai.com/index/astra-for-law/ target="_blank">
+        Astra for Law |
     </a>
-    By: nonmaskable
+    By: vertigoruntime
 </li>
 
 <li>
-    <a href=https://ryan.science/blog/keys-not-included target="_blank">
-        Keys Not Included: recovering the signing keys for US driver's license barcodes |
+    <a href=https://prismml.com/news/bonsai-2-27b target="_blank">
+        Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint |
     </a>
-    By: Ryan5453
+    By: JonSchneider
 </li>
 
 <li>
-    <a href=https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html target="_blank">
-        The Relation Between Mathematics and Physics by Paul Dirac |
+    <a href=https://bend-lang.com/ target="_blank">
+        Bend – A language that blocks AI mistakes via proof, on CPU and GPU |
     </a>
-    By: rramadass
+    By: nicolas-siplis
 </li>
 </ol>
