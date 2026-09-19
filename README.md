@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 18 Sep 2026</h4>
+<h4>Check the latest news from: Sat 19 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/jemalloc/jemalloc/releases/tag/5.4.0 target="_blank">
-        Jemalloc 5.4.0 |
+    <a href=https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html target="_blank">
+        Human brain is two separate organs, Stanford Medicine-led research finds |
     </a>
-    By: gkfasdfasdf
+    By: emigre
 </li>
 
 <li>
-    <a href=https://fex-emu.com/Scourge-of-emulation/ target="_blank">
-        The scourge of x86 emulation |
+    <a href=https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ target="_blank">
+        If math is more than proof, we need to better celebrate the rest of it |
     </a>
-    By: dagmx
+    By: num42
 </li>
 
 <li>
-    <a href=https://openai.com/index/astra-for-law/ target="_blank">
-        Astra for Law |
+    <a href=https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio target="_blank">
+        GPT-6 Astra Solves a WWI German Radio Cipher |
     </a>
-    By: vertigoruntime
+    By: nsoonhui
 </li>
 
 <li>
-    <a href=https://prismml.com/news/bonsai-2-27b target="_blank">
-        Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint |
+    <a href=https://onionfutures.com/ target="_blank">
+        San Francisco Onion Futures Company |
     </a>
-    By: JonSchneider
+    By: z-mach9
 </li>
 
 <li>
-    <a href=https://bend-lang.com/ target="_blank">
-        Bend – A language that blocks AI mistakes via proof, on CPU and GPU |
+    <a href=https://grapheneos.social/@GrapheneOS/117282080803799576 target="_blank">
+        Android 17 is the first since 3.x to add new APIs without releasing to the AOSP |
     </a>
-    By: nicolas-siplis
+    By: theanonymousone
 </li>
 </ol>
