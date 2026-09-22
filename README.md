@@ -45,39 +45,39 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 21 Sep 2026</h4>
+<h4>Check the latest news from: Tue 22 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/jaredpalmer/kev/tree/main target="_blank">
-        Kev: Tiny Jev-like family of decision models built on top of Qwen3.5 |
+    <a href=https://nathan.rs/posts/gzip-lm/ target="_blank">
+        Can gzip be a language model? |
     </a>
-    By: tosh
+    By: networked
 </li>
 
 <li>
-    <a href=http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf target="_blank">
-        Grim Fandango Puzzle Document (1996) [pdf] |
+    <a href=https://dbushell.com/2026/09/22/apple-intelligence/ target="_blank">
+        I said no and Apple said yes |
     </a>
-    By: kelseyfrog
+    By: thatslast
 </li>
 
 <li>
-    <a href=https://agentexecutor.io target="_blank">
-        AX – Google’s Open Agentic Orchestrator |
+    <a href=https://mimo.xiaomi.com/mimo-v2-6 target="_blank">
+        MiMo v2.6 |
     </a>
-    By: blazarquasar
+    By: volf_
 </li>
 
 <li>
-    <a href=https://github.com/f/jev-leftpad target="_blank">
-        Jev-Leftpad |
+    <a href=https://brand.io/article/spymarks/ target="_blank">
+        Spymarks, Not Watermarks |
     </a>
-    By: fka
+    By: possibilistic
 </li>
 
 <li>
-    <a href=https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say target="_blank">
-        Samsung is expected to more than double output of its HBM4 and HBM4E DRAM |
+    <a href=https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/ target="_blank">
+        Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences |
     </a>
     By: giuliomagnifico
 </li>
