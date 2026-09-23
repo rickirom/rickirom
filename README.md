@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 22 Sep 2026</h4>
+<h4>Check the latest news from: Wed 23 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://nathan.rs/posts/gzip-lm/ target="_blank">
-        Can gzip be a language model? |
+    <a href=https://www.nobodywho.ai/posts/jev-in-25-lines/ target="_blank">
+        Jev in 25 Lines of Python |
     </a>
-    By: networked
+    By: bashbjorn
 </li>
 
 <li>
-    <a href=https://dbushell.com/2026/09/22/apple-intelligence/ target="_blank">
-        I said no and Apple said yes |
+    <a href=https://blog.melashri.net/posts/scientific-linux-mistake/ target="_blank">
+        Abandoning Scientific Linux Was a Mistake |
     </a>
-    By: thatslast
+    By: elashri
 </li>
 
 <li>
-    <a href=https://mimo.xiaomi.com/mimo-v2-6 target="_blank">
-        MiMo v2.6 |
+    <a href=https://openai.com/index/introducing-gpt-6-sol-and-luna/ target="_blank">
+        GPT-6 Sol and Luna |
     </a>
-    By: volf_
+    By: OfficialTurkey
 </li>
 
 <li>
-    <a href=https://brand.io/article/spymarks/ target="_blank">
-        Spymarks, Not Watermarks |
+    <a href=https://www.anthropic.com/claude-opus-5-5 target="_blank">
+        Claude Opus 5.5 |
     </a>
-    By: possibilistic
+    By: km144
 </li>
 
 <li>
-    <a href=https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/ target="_blank">
-        Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences |
+    <a href=https://waymo.com/blog/2026/09/transit-rewards/ target="_blank">
+        Transit rewards |
     </a>
-    By: giuliomagnifico
+    By: raybb
 </li>
 </ol>
