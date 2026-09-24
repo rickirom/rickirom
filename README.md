@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 23 Sep 2026</h4>
+<h4>Check the latest news from: Thu 24 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://www.nobodywho.ai/posts/jev-in-25-lines/ target="_blank">
-        Jev in 25 Lines of Python |
+    <a href=https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux target="_blank">
+        Linux support is coming to Snapdragon X2 Series |
     </a>
-    By: bashbjorn
+    By: aaronday
 </li>
 
 <li>
-    <a href=https://blog.melashri.net/posts/scientific-linux-mistake/ target="_blank">
-        Abandoning Scientific Linux Was a Mistake |
+    <a href=https://transluce.org/agent-activity target="_blank">
+        Early rogue AI agent activity and attempts to hack found on urlquery.net |
     </a>
-    By: elashri
+    By: snikolaev
 </li>
 
 <li>
-    <a href=https://openai.com/index/introducing-gpt-6-sol-and-luna/ target="_blank">
-        GPT-6 Sol and Luna |
+    <a href=https://www.anthropic.com/news/claude-discovers-novel-enzyme-system target="_blank">
+        Claude discovers a novel enzyme system with CRISPR-like repeats |
     </a>
-    By: OfficialTurkey
+    By: raahelb
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/claude-opus-5-5 target="_blank">
-        Claude Opus 5.5 |
+    <a href=https://lwn.net/SubscriberLink/1095425/2d9f411252325784/ target="_blank">
+        Ideas on modernizing the open-source desktop |
     </a>
-    By: km144
+    By: signa11
 </li>
 
 <li>
-    <a href=https://waymo.com/blog/2026/09/transit-rewards/ target="_blank">
-        Transit rewards |
+    <a href=https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/ target="_blank">
+        ArXiv receives multiyear commitments to support it as an independent nonprofit |
     </a>
-    By: raybb
+    By: JohnHammersley
 </li>
 </ol>
