@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 24 Sep 2026</h4>
+<h4>Check the latest news from: Fri 25 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux target="_blank">
-        Linux support is coming to Snapdragon X2 Series |
+    <a href=https://www.dawo.community/en/ target="_blank">
+        Dutch governments builds alternative for Microsoft based on NixOS |
     </a>
-    By: aaronday
+    By: fjfaase
 </li>
 
 <li>
-    <a href=https://transluce.org/agent-activity target="_blank">
-        Early rogue AI agent activity and attempts to hack found on urlquery.net |
+    <a href=https://passo.uno/tech-needs-humanists-more-than-ever/ target="_blank">
+        Tech Needs Humanists More |
     </a>
-    By: snikolaev
+    By: eigenBasis
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/news/claude-discovers-novel-enzyme-system target="_blank">
-        Claude discovers a novel enzyme system with CRISPR-like repeats |
+    <a href=https://nyaa.sh/reviews/mac-mini-m6-emulation target="_blank">
+        Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini |
     </a>
-    By: raahelb
+    By: hugh4life
 </li>
 
 <li>
-    <a href=https://lwn.net/SubscriberLink/1095425/2d9f411252325784/ target="_blank">
-        Ideas on modernizing the open-source desktop |
+    <a href=https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html target="_blank">
+        F-Droid 2.0 |
     </a>
-    By: signa11
+    By: daveoc64
 </li>
 
 <li>
-    <a href=https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/ target="_blank">
-        ArXiv receives multiyear commitments to support it as an independent nonprofit |
+    <a href=https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2 target="_blank">
+        CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2 |
     </a>
-    By: JohnHammersley
+    By: safateam
 </li>
 </ol>
