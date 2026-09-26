@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 25 Sep 2026</h4>
+<h4>Check the latest news from: Sat 26 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://www.dawo.community/en/ target="_blank">
-        Dutch governments builds alternative for Microsoft based on NixOS |
+    <a href=https://swarmtraces.org/ target="_blank">
+        Revealing the details of how OpenAI agents hacked Hugging Face |
     </a>
-    By: fjfaase
+    By: specked-citrus
 </li>
 
 <li>
-    <a href=https://passo.uno/tech-needs-humanists-more-than-ever/ target="_blank">
-        Tech Needs Humanists More |
+    <a href=https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/ target="_blank">
+        We're gonna need a lot more mathematicians |
     </a>
-    By: eigenBasis
+    By: srcreigh
 </li>
 
 <li>
-    <a href=https://nyaa.sh/reviews/mac-mini-m6-emulation target="_blank">
-        Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini |
+    <a href=http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html target="_blank">
+        A single function Jev-like wrapper for LLMs, including vision models |
     </a>
-    By: hugh4life
+    By: allanrbo
 </li>
 
 <li>
-    <a href=https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html target="_blank">
-        F-Droid 2.0 |
+    <a href=https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html target="_blank">
+        Plan mode is dead |
     </a>
-    By: daveoc64
+    By: jmvldz
 </li>
 
 <li>
-    <a href=https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2 target="_blank">
-        CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2 |
+    <a href=https://ollaya.dev/ target="_blank">
+        Ollaya – Ollama for open-source, Jev-style decision models |
     </a>
-    By: safateam
+    By: Ardakilic
 </li>
 </ol>
