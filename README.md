@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 26 Sep 2026</h4>
+<h4>Check the latest news from: Sun 27 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://swarmtraces.org/ target="_blank">
-        Revealing the details of how OpenAI agents hacked Hugging Face |
+    <a href=https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/ target="_blank">
+        Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election |
     </a>
-    By: specked-citrus
+    By: rbanffy
 </li>
 
 <li>
-    <a href=https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/ target="_blank">
-        We're gonna need a lot more mathematicians |
+    <a href=https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ target="_blank">
+        OpenAI Feared "Optics" of what might appear on Hacker News |
     </a>
-    By: srcreigh
+    By: papergirl
 </li>
 
 <li>
-    <a href=http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html target="_blank">
-        A single function Jev-like wrapper for LLMs, including vision models |
+    <a href=https://www.astralcodexten.com/p/does-georgism-work-five-years-later target="_blank">
+        Does Georgism work? Five years later |
     </a>
-    By: allanrbo
+    By: silveraxe93
 </li>
 
 <li>
-    <a href=https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html target="_blank">
-        Plan mode is dead |
+    <a href=https://mitxela.com/projects/flipflip target="_blank">
+        Flip Fluid on Flip Dots |
     </a>
-    By: jmvldz
+    By: blutack
 </li>
 
 <li>
-    <a href=https://ollaya.dev/ target="_blank">
-        Ollaya – Ollama for open-source, Jev-style decision models |
+    <a href=https://antonz.org/go-concurrency-distilled/ target="_blank">
+        Go Concurrency Distilled |
     </a>
-    By: Ardakilic
+    By: chmaynard
 </li>
 </ol>
