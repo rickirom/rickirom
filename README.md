@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 27 Sep 2026</h4>
+<h4>Check the latest news from: Mon 28 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/ target="_blank">
-        Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election |
+    <a href=https://git.mills.io/prologic/parley target="_blank">
+        Parley: Federated, decentralised chat that speaks plain IRC |
     </a>
-    By: rbanffy
+    By: davidcollantes
 </li>
 
 <li>
-    <a href=https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ target="_blank">
-        OpenAI Feared "Optics" of what might appear on Hacker News |
+    <a href=https://colo.to/nvidia-stock-narrative.html target="_blank">
+        Owed a billion dollars in Nvidia stock |
     </a>
-    By: papergirl
+    By: Eric_Gullichsen
 </li>
 
 <li>
-    <a href=https://www.astralcodexten.com/p/does-georgism-work-five-years-later target="_blank">
-        Does Georgism work? Five years later |
+    <a href=https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ target="_blank">
+        AI companies in race to demonstrate their model most threatening to humanity |
     </a>
-    By: silveraxe93
+    By: ljewalsh
 </li>
 
 <li>
-    <a href=https://mitxela.com/projects/flipflip target="_blank">
-        Flip Fluid on Flip Dots |
+    <a href=https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does target="_blank">
+        Footguns with Postgres "at time zone 'UTC'" |
     </a>
-    By: blutack
+    By: birdculture
 </li>
 
 <li>
-    <a href=https://antonz.org/go-concurrency-distilled/ target="_blank">
-        Go Concurrency Distilled |
+    <a href=https://arxiv.org/abs/2110.01834 target="_blank">
+        Thinking fast and slow in AI: The role of metacognition (2021) |
     </a>
-    By: chmaynard
+    By: teleforce
 </li>
 </ol>
