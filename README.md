@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 28 Sep 2026</h4>
+<h4>Check the latest news from: Tue 29 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://git.mills.io/prologic/parley target="_blank">
-        Parley: Federated, decentralised chat that speaks plain IRC |
+    <a href=https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf target="_blank">
+        AI companies leak data to advertisers [pdf] |
     </a>
-    By: davidcollantes
+    By: damaru2
 </li>
 
 <li>
-    <a href=https://colo.to/nvidia-stock-narrative.html target="_blank">
-        Owed a billion dollars in Nvidia stock |
+    <a href=https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html target="_blank">
+        Using any C++ library in Godot |
     </a>
-    By: Eric_Gullichsen
+    By: czoido
 </li>
 
 <li>
-    <a href=https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ target="_blank">
-        AI companies in race to demonstrate their model most threatening to humanity |
+    <a href=https://jagi.studio/posts/phyllotaxis/ target="_blank">
+        Phyllotaxis: An audio-reactive LED display |
     </a>
-    By: ljewalsh
+    By: evakhoury
 </li>
 
 <li>
-    <a href=https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does target="_blank">
-        Footguns with Postgres "at time zone 'UTC'" |
+    <a href=https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/ target="_blank">
+        The systems that no one will test |
     </a>
-    By: birdculture
+    By: perone
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2110.01834 target="_blank">
-        Thinking fast and slow in AI: The role of metacognition (2021) |
+    <a href=https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html target="_blank">
+        Booted up in 1993, this server still runs – but not for much longer (2017) |
     </a>
-    By: teleforce
+    By: doener
 </li>
 </ol>
