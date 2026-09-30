@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 29 Sep 2026</h4>
+<h4>Check the latest news from: Wed 30 Sep 2026</h4>
 <ol>
 <li>
-    <a href=https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf target="_blank">
-        AI companies leak data to advertisers [pdf] |
+    <a href=https://earendil.com/posts/you-said-no-mcp/ target="_blank">
+        Pi.dev: You Said No MCP |
     </a>
-    By: damaru2
+    By: yarapavan
 </li>
 
 <li>
-    <a href=https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html target="_blank">
-        Using any C++ library in Godot |
+    <a href=https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence target="_blank">
+        GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence |
     </a>
-    By: czoido
+    By: theanonymousone
 </li>
 
 <li>
-    <a href=https://jagi.studio/posts/phyllotaxis/ target="_blank">
-        Phyllotaxis: An audio-reactive LED display |
+    <a href=https://github.com/ninjahawk/livenerf target="_blank">
+        Livenerf: Has Opus 5.5 been nerfed yet? |
     </a>
-    By: evakhoury
+    By: bryan0
 </li>
 
 <li>
-    <a href=https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/ target="_blank">
-        The systems that no one will test |
+    <a href=https://exyr.org/2026/solving-factorio-quality/ target="_blank">
+        Solving Factorio Quality |
     </a>
-    By: perone
+    By: laurenth
 </li>
 
 <li>
-    <a href=https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html target="_blank">
-        Booted up in 1993, this server still runs – but not for much longer (2017) |
+    <a href=https://dental-scope.com/ target="_blank">
+        Built Dental Scope |
     </a>
-    By: doener
+    By: Zeruxe
 </li>
 </ol>
