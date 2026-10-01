@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 30 Sep 2026</h4>
+<h4>Check the latest news from: Thu 01 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://earendil.com/posts/you-said-no-mcp/ target="_blank">
-        Pi.dev: You Said No MCP |
+    <a href=https://github.com/streetcomplete/StreetComplete/issues/5421 target="_blank">
+        StreetComplete on iOS is now in public beta |
     </a>
-    By: yarapavan
+    By: Snowly
 </li>
 
 <li>
-    <a href=https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence target="_blank">
-        GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence |
+    <a href=https://github.com/maanHimself/OpenDLSS-NR target="_blank">
+        OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network |
     </a>
-    By: theanonymousone
+    By: sagacity
 </li>
 
 <li>
-    <a href=https://github.com/ninjahawk/livenerf target="_blank">
-        Livenerf: Has Opus 5.5 been nerfed yet? |
+    <a href=https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design target="_blank">
+        GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design |
     </a>
-    By: bryan0
+    By: giuliomagnifico
 </li>
 
 <li>
-    <a href=https://exyr.org/2026/solving-factorio-quality/ target="_blank">
-        Solving Factorio Quality |
+    <a href=https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ target="_blank">
+        Gemini 4 Argon |
     </a>
-    By: laurenth
+    By: bradleyg223
 </li>
 
+<p>
+Text: See also: <i>Gemini 4 Argon (High): Intelligence, Performance and Price Analysis</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49914236">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49914236</a> </br>
+</p>
+
 <li>
-    <a href=https://dental-scope.com/ target="_blank">
-        Built Dental Scope |
+    <a href=https://bookofshapes.com/ target="_blank">
+        Book of Shapes – Collection of minimal, generative and customizable SVG-patterns |
     </a>
-    By: Zeruxe
+    By: eustoria
 </li>
 </ol>
