@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 01 Oct 2026</h4>
+<h4>Check the latest news from: Fri 02 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/streetcomplete/StreetComplete/issues/5421 target="_blank">
-        StreetComplete on iOS is now in public beta |
+    <a href=https://earendil.com/posts/pi-1-0/ target="_blank">
+        Pi 1.0 |
     </a>
-    By: Snowly
-</li>
-
-<li>
-    <a href=https://github.com/maanHimself/OpenDLSS-NR target="_blank">
-        OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network |
-    </a>
-    By: sagacity
-</li>
-
-<li>
-    <a href=https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design target="_blank">
-        GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design |
-    </a>
-    By: giuliomagnifico
-</li>
-
-<li>
-    <a href=https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ target="_blank">
-        Gemini 4 Argon |
-    </a>
-    By: bradleyg223
+    By: sergiotapia
 </li>
 
 <p>
-Text: See also: <i>Gemini 4 Argon (High): Intelligence, Performance and Price Analysis</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49914236">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49914236</a> </br>
+Text: Related: <i>Pi Durable</i> - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49925969 </br>
 </p>
 
 <li>
-    <a href=https://bookofshapes.com/ target="_blank">
-        Book of Shapes – Collection of minimal, generative and customizable SVG-patterns |
+    <a href=https://inrng.com/2026/10/shimano-bicycle-museum/ target="_blank">
+        Shimano Bicycle Museum Review |
     </a>
-    By: eustoria
+    By: pietroppeter
+</li>
+
+<li>
+    <a href=https://lwn.net/Articles/1097401/ target="_blank">
+        Several vulnerabilities have been discovered in the Linux kernel |
+    </a>
+    By: luispa
+</li>
+
+<li>
+    <a href=https://github.com/kvoltmer/Audionaut target="_blank">
+        Show HN: Audionaut – an open-source cross-platform multitrack audio editor |
+    </a>
+    By: vltmrkls
+</li>
+
+<li>
+    <a href=https://blog.cloudflare.com/clef-decision-models/ target="_blank">
+        Clef: Open-weight decision models, and new RL fine-tuning platform |
+    </a>
+    By: jasondavies
 </li>
 </ol>
