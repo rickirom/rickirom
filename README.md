@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 02 Oct 2026</h4>
+<h4>Check the latest news from: Sat 03 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://earendil.com/posts/pi-1-0/ target="_blank">
-        Pi 1.0 |
+    <a href=https://www.newgrounds.com/ target="_blank">
+        Newgrounds.com – A community of games, music, and art |
     </a>
-    By: sergiotapia
+    By: azhenley
+</li>
+
+<li>
+    <a href=https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility target="_blank">
+        Court agrees with EFF: Utah's VPN law demands a technical impossibility |
+    </a>
+    By: hn_acker
+</li>
+
+<li>
+    <a href=https://developer.apple.com/pass-designer/ target="_blank">
+        Apple Pass Designer |
+    </a>
+    By: soheilpro
+</li>
+
+<li>
+    <a href=https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/ target="_blank">
+        Mike Tomlin spent 12 years building a Minecraft city |
+    </a>
+    By: CoryOndrejka
 </li>
 
 <p>
-Text: Related: <i>Pi Durable</i> - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49925969 </br>
+Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yS" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yS</a><p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQg" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQg</a><p><a href="https:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F;2026&#x2F;oct&#x2F;01&#x2F;mike-tomlin-minecraft-city" rel="nofollow">https:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F;2026&#x2F;oct&#x2F;01&#x2F;mike-tomlin-mi...</a> </br>
 </p>
 
 <li>
-    <a href=https://inrng.com/2026/10/shimano-bicycle-museum/ target="_blank">
-        Shimano Bicycle Museum Review |
+    <a href=https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f target="_blank">
+        A 12-year sequence of telescope images of a star and four planets orbiting |
     </a>
-    By: pietroppeter
-</li>
-
-<li>
-    <a href=https://lwn.net/Articles/1097401/ target="_blank">
-        Several vulnerabilities have been discovered in the Linux kernel |
-    </a>
-    By: luispa
-</li>
-
-<li>
-    <a href=https://github.com/kvoltmer/Audionaut target="_blank">
-        Show HN: Audionaut – an open-source cross-platform multitrack audio editor |
-    </a>
-    By: vltmrkls
-</li>
-
-<li>
-    <a href=https://blog.cloudflare.com/clef-decision-models/ target="_blank">
-        Clef: Open-weight decision models, and new RL fine-tuning platform |
-    </a>
-    By: jasondavies
+    By: mariuz
 </li>
 </ol>
