@@ -45,44 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 03 Oct 2026</h4>
+<h4>Check the latest news from: Sun 04 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://www.newgrounds.com/ target="_blank">
-        Newgrounds.com – A community of games, music, and art |
+    <a href=https://gamehistory.org/5k-magazines/ target="_blank">
+        VGHF Digital Archive passes 5000 magazines. Here's what's next |
     </a>
-    By: azhenley
-</li>
-
-<li>
-    <a href=https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility target="_blank">
-        Court agrees with EFF: Utah's VPN law demands a technical impossibility |
-    </a>
-    By: hn_acker
-</li>
-
-<li>
-    <a href=https://developer.apple.com/pass-designer/ target="_blank">
-        Apple Pass Designer |
-    </a>
-    By: soheilpro
-</li>
-
-<li>
-    <a href=https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/ target="_blank">
-        Mike Tomlin spent 12 years building a Minecraft city |
-    </a>
-    By: CoryOndrejka
+    By: rdmuser
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yS" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yS</a><p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQg" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQg</a><p><a href="https:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F;2026&#x2F;oct&#x2F;01&#x2F;mike-tomlin-minecraft-city" rel="nofollow">https:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F;2026&#x2F;oct&#x2F;01&#x2F;mike-tomlin-mi...</a> </br>
+Text: I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who&#x27;s real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially &quot;Triumph of the Nerds&quot;. He will be missed. </br>
 </p>
 
 <li>
-    <a href=https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f target="_blank">
-        A 12-year sequence of telescope images of a star and four planets orbiting |
+    <a href=https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ target="_blank">
+        Why don't more developers “use the platform”? |
     </a>
-    By: mariuz
+    By: vinhnx
+</li>
+
+<li>
+    <a href=https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician target="_blank">
+        So you think you could be an electrician? |
+    </a>
+    By: zdw
+</li>
+
+<li>
+    <a href=https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU target="_blank">
+        The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux |
+    </a>
+    By: speckx
 </li>
 </ol>
