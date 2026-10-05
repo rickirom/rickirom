@@ -45,37 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 04 Oct 2026</h4>
+<h4>Check the latest news from: Mon 05 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://gamehistory.org/5k-magazines/ target="_blank">
-        VGHF Digital Archive passes 5000 magazines. Here's what's next |
+    <a href=https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/ target="_blank">
+        Europe's new robotics unicorn: Germany's RobCo hits $1B valuation |
     </a>
-    By: rdmuser
-</li>
-
-<p>
-Text: I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who&#x27;s real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially &quot;Triumph of the Nerds&quot;. He will be missed. </br>
-</p>
-
-<li>
-    <a href=https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ target="_blank">
-        Why don't more developers “use the platform”? |
-    </a>
-    By: vinhnx
+    By: dachworker
 </li>
 
 <li>
-    <a href=https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician target="_blank">
-        So you think you could be an electrician? |
+    <a href=https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ target="_blank">
+        Web Search API |
     </a>
-    By: zdw
+    By: tosh
 </li>
 
 <li>
-    <a href=https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU target="_blank">
-        The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux |
+    <a href=https://stratechery.com/2026/apple-and-a-hackers-future/ target="_blank">
+        Apple and a Hacker's Future |
     </a>
-    By: speckx
+    By: maguay
+</li>
+
+<li>
+    <a href=https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger target="_blank">
+        Denmark Data Breach Exposes 8.8M People's Personal Data |
+    </a>
+    By: clan
+</li>
+
+<li>
+    <a href=https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement target="_blank">
+        Huawei and Qualcomm Announce Broad Patent License Agreement |
+    </a>
+    By: 0xedb
 </li>
 </ol>
