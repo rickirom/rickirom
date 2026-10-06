@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 05 Oct 2026</h4>
+<h4>Check the latest news from: Tue 06 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/ target="_blank">
-        Europe's new robotics unicorn: Germany's RobCo hits $1B valuation |
+    <a href=https://www.nobelprize.org/prizes/physics/2026/ target="_blank">
+        Nobel Prize in Physics goes to Francis Halzen |
     </a>
-    By: dachworker
+    By: solarist
 </li>
 
 <li>
-    <a href=https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ target="_blank">
-        Web Search API |
+    <a href=https://reflection.ai/blog/introducing-beam target="_blank">
+        Beam: Reflection's 501B open-weight model |
     </a>
-    By: tosh
+    By: Philpax
 </li>
 
 <li>
-    <a href=https://stratechery.com/2026/apple-and-a-hackers-future/ target="_blank">
-        Apple and a Hacker's Future |
+    <a href=https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/ target="_blank">
+        Gleam doesn't compile to Erlang source anymore |
     </a>
-    By: maguay
+    By: ingve
 </li>
 
 <li>
-    <a href=https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger target="_blank">
-        Denmark Data Breach Exposes 8.8M People's Personal Data |
+    <a href=https://flattensf.com/ target="_blank">
+        Find the flattest route between any two points in SF |
     </a>
-    By: clan
+    By: ishan0102
 </li>
 
 <li>
-    <a href=https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement target="_blank">
-        Huawei and Qualcomm Announce Broad Patent License Agreement |
+    <a href=https://qlabs.sh/research/dust target="_blank">
+        Dust: Pretraining Transformers Without Backpropagation |
     </a>
-    By: 0xedb
+    By: E-Reverance
 </li>
 </ol>
