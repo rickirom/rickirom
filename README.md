@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 06 Oct 2026</h4>
+<h4>Check the latest news from: Wed 07 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://www.nobelprize.org/prizes/physics/2026/ target="_blank">
-        Nobel Prize in Physics goes to Francis Halzen |
+    <a href=https://github.com/szabadkai/c64-keyboard-font/ target="_blank">
+        A font recreated from photographs of classic Commodore 64 keycaps |
     </a>
-    By: solarist
+    By: sohkamyung
 </li>
 
 <li>
-    <a href=https://reflection.ai/blog/introducing-beam target="_blank">
-        Beam: Reflection's 501B open-weight model |
+    <a href=https://www.nobelprize.org/prizes/chemistry/2026/press-release/ target="_blank">
+        Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai |
     </a>
-    By: Philpax
+    By: sasvari
 </li>
 
 <li>
-    <a href=https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/ target="_blank">
-        Gleam doesn't compile to Erlang source anymore |
+    <a href=https://openai.com/index/sharing-ai-progress-in-mathematics/ target="_blank">
+        Sharing AI progress in mathematics |
     </a>
-    By: ingve
+    By: OfficialTurkey
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math</a><p><a href="https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints</a> </br>
+</p>
+
+<li>
+    <a href=https://strandsagents.com/blog/introducing-strands-decider/ target="_blank">
+        Strands Decider 2B: a small, open-source, decision model |
+    </a>
+    By: gmays
 </li>
 
 <li>
-    <a href=https://flattensf.com/ target="_blank">
-        Find the flattest route between any two points in SF |
+    <a href=https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html target="_blank">
+        Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says |
     </a>
-    By: ishan0102
-</li>
-
-<li>
-    <a href=https://qlabs.sh/research/dust target="_blank">
-        Dust: Pretraining Transformers Without Backpropagation |
-    </a>
-    By: E-Reverance
+    By: throw0101a
 </li>
 </ol>
