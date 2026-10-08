@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 07 Oct 2026</h4>
+<h4>Check the latest news from: Thu 08 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/szabadkai/c64-keyboard-font/ target="_blank">
-        A font recreated from photographs of classic Commodore 64 keycaps |
+    <a href=https://mathstodon.xyz/@tao/117395269325940185 target="_blank">
+        “Math 2.0” will need to value mathematical progress more holistically |
     </a>
-    By: sohkamyung
+    By: ent101
 </li>
 
 <li>
-    <a href=https://www.nobelprize.org/prizes/chemistry/2026/press-release/ target="_blank">
-        Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai |
+    <a href=https://www.anthropic.com/claude-haiku-5-5 target="_blank">
+        Claude Haiku 5.5 |
     </a>
-    By: sasvari
+    By: sfkgtbor
 </li>
 
 <li>
-    <a href=https://openai.com/index/sharing-ai-progress-in-mathematics/ target="_blank">
-        Sharing AI progress in mathematics |
+    <a href=https://shahidhussain.com/writing/search-for-salvage/ target="_blank">
+        The 15-year search for a band that charted once and vanished |
     </a>
-    By: OfficialTurkey
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math</a><p><a href="https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints</a> </br>
-</p>
-
-<li>
-    <a href=https://strandsagents.com/blog/introducing-strands-decider/ target="_blank">
-        Strands Decider 2B: a small, open-source, decision model |
-    </a>
-    By: gmays
+    By: shahidhussain
 </li>
 
 <li>
-    <a href=https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html target="_blank">
-        Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says |
+    <a href=https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/ target="_blank">
+        The Slow Formation of Durable Software |
     </a>
-    By: throw0101a
+    By: benbreen
+</li>
+
+<li>
+    <a href=https://100r.ca/site/home.html target="_blank">
+        Living off-grid: Hundred Rabbits |
+    </a>
+    By: Muhammad523
 </li>
 </ol>
