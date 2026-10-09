@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 08 Oct 2026</h4>
+<h4>Check the latest news from: Fri 09 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://mathstodon.xyz/@tao/117395269325940185 target="_blank">
-        “Math 2.0” will need to value mathematical progress more holistically |
+    <a href=https://github.com/franzenzenhofer/big-arrow-on-the-screen target="_blank">
+        Let your AI agents paint big arrows, boxes and text on your screen |
     </a>
-    By: ent101
+    By: franze
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/claude-haiku-5-5 target="_blank">
-        Claude Haiku 5.5 |
+    <a href=https://www.nobelprize.org/prizes/peace/2026/press-release/ target="_blank">
+        Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay |
     </a>
-    By: sfkgtbor
+    By: Anon84
 </li>
 
 <li>
-    <a href=https://shahidhussain.com/writing/search-for-salvage/ target="_blank">
-        The 15-year search for a band that charted once and vanished |
+    <a href=https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/ target="_blank">
+        Why isn't the industry freaking out about DeepSeek 4.1 Flash? |
     </a>
-    By: shahidhussain
+    By: jonotime
 </li>
 
 <li>
-    <a href=https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/ target="_blank">
-        The Slow Formation of Durable Software |
+    <a href=https://cactuscompute.com/blog/whistle target="_blank">
+        Whistle: Speech to Text in 16.9 MB |
     </a>
-    By: benbreen
+    By: gmays
 </li>
 
 <li>
-    <a href=https://100r.ca/site/home.html target="_blank">
-        Living off-grid: Hundred Rabbits |
+    <a href=https://github.com/microsoft/mxc target="_blank">
+        MXC - a sandboxed code execution system |
     </a>
-    By: Muhammad523
+    By: nreece
 </li>
 </ol>
