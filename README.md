@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 09 Oct 2026</h4>
+<h4>Check the latest news from: Sat 10 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/franzenzenhofer/big-arrow-on-the-screen target="_blank">
-        Let your AI agents paint big arrows, boxes and text on your screen |
+    <a href=https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ target="_blank">
+        `123456' password used in Danish CPR data breach |
     </a>
-    By: franze
+    By: baal80spam
 </li>
 
 <li>
-    <a href=https://www.nobelprize.org/prizes/peace/2026/press-release/ target="_blank">
-        Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay |
+    <a href=https://rea.tools/ target="_blank">
+        REA Reverse – Engineer Anything |
     </a>
-    By: Anon84
+    By: modinfo
 </li>
 
 <li>
-    <a href=https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/ target="_blank">
-        Why isn't the industry freaking out about DeepSeek 4.1 Flash? |
+    <a href=https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ target="_blank">
+        Telegram Desktop vulnerability allowed any user's file to be stolen |
     </a>
-    By: jonotime
+    By: g-b-r
 </li>
 
 <li>
-    <a href=https://cactuscompute.com/blog/whistle target="_blank">
-        Whistle: Speech to Text in 16.9 MB |
+    <a href=https://deno.com/blog/cloudflare target="_blank">
+        Cloudflare acquires Deno |
     </a>
-    By: gmays
+    By: ilreb
 </li>
 
 <li>
-    <a href=https://github.com/microsoft/mxc target="_blank">
-        MXC - a sandboxed code execution system |
+    <a href=https://minesweeper.mikelacher.com/ target="_blank">
+        Triple-A Minesweeper |
     </a>
-    By: nreece
+    By: robin_reala
 </li>
 </ol>
