@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 10 Oct 2026</h4>
+<h4>Check the latest news from: Sun 11 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ target="_blank">
-        `123456' password used in Danish CPR data breach |
+    <a href=https://ircv3.net/ target="_blank">
+        IRCv3 |
     </a>
-    By: baal80spam
+    By: basilikum
 </li>
 
 <li>
-    <a href=https://rea.tools/ target="_blank">
-        REA Reverse – Engineer Anything |
+    <a href=https://lineageos.org/Changelog-32/ target="_blank">
+        LineageOS 24.0 |
     </a>
-    By: modinfo
+    By: timschumi
 </li>
 
 <li>
-    <a href=https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ target="_blank">
-        Telegram Desktop vulnerability allowed any user's file to be stolen |
+    <a href=https://nitter.net target="_blank">
+        Nitter: Update Oct 10th seeking funding and legal help |
     </a>
-    By: g-b-r
+    By: ForHackernews
 </li>
 
 <li>
-    <a href=https://deno.com/blog/cloudflare target="_blank">
-        Cloudflare acquires Deno |
+    <a href=https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things target="_blank">
+        Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things |
     </a>
-    By: ilreb
+    By: giuliomagnifico
 </li>
 
 <li>
-    <a href=https://minesweeper.mikelacher.com/ target="_blank">
-        Triple-A Minesweeper |
+    <a href=https://nishtahir.com/build-your-own-decision-model/ target="_blank">
+        Build your own decision model |
     </a>
-    By: robin_reala
+    By: softwaredoug
 </li>
 </ol>
