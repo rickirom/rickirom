@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 11 Oct 2026</h4>
+<h4>Check the latest news from: Mon 12 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://ircv3.net/ target="_blank">
-        IRCv3 |
+    <a href=https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387 target="_blank">
+        QGIS bans AI assisted contributions |
     </a>
-    By: basilikum
+    By: bwnkl
 </li>
 
 <li>
-    <a href=https://lineageos.org/Changelog-32/ target="_blank">
-        LineageOS 24.0 |
+    <a href=https://www.bbc.com/news/articles/c64g1l5389kvo target="_blank">
+        Deloitte falsified documents to evade tax on Abramovich's wealth |
     </a>
-    By: timschumi
+    By: Betelbuddy
 </li>
 
 <li>
-    <a href=https://nitter.net target="_blank">
-        Nitter: Update Oct 10th seeking funding and legal help |
+    <a href=https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/ target="_blank">
+        The Making Of Super Mario 64 – full Giles Goddard interview (2001) |
     </a>
-    By: ForHackernews
+    By: gregsadetsky
 </li>
 
 <li>
-    <a href=https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things target="_blank">
-        Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things |
+    <a href=https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search target="_blank">
+        Secret of Orange Cats Revealed After 60-Year Search |
     </a>
-    By: giuliomagnifico
+    By: bookofjoe
 </li>
 
 <li>
-    <a href=https://nishtahir.com/build-your-own-decision-model/ target="_blank">
-        Build your own decision model |
+    <a href=https://royfish.dev/fingerprints-are-the-new-cookies target="_blank">
+        Fingerprints are the new cookies |
     </a>
-    By: softwaredoug
+    By: royfish
 </li>
 </ol>
