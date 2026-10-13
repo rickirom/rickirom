@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 12 Oct 2026</h4>
+<h4>Check the latest news from: Tue 13 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387 target="_blank">
-        QGIS bans AI assisted contributions |
+    <a href=https://github.com/rust-lang/rust/issues/164250 target="_blank">
+        11 year old unsoundness bugs found in Rust borrow checker |
     </a>
-    By: bwnkl
+    By: formerly_proven
 </li>
 
 <li>
-    <a href=https://www.bbc.com/news/articles/c64g1l5389kvo target="_blank">
-        Deloitte falsified documents to evade tax on Abramovich's wealth |
+    <a href=https://eg2.haku.sh/ target="_blank">
+        An hour of audio transcribed in about 13s on MacBook Air |
     </a>
-    By: Betelbuddy
+    By: amrrs
 </li>
 
 <li>
-    <a href=https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/ target="_blank">
-        The Making Of Super Mario 64 – full Giles Goddard interview (2001) |
+    <a href=https://pdftomp3.com/connect-ai/ target="_blank">
+        Show HN: Use your OpenAI subscription to create audiobooks |
     </a>
-    By: gregsadetsky
+    By: janpmz
 </li>
 
 <li>
-    <a href=https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search target="_blank">
-        Secret of Orange Cats Revealed After 60-Year Search |
+    <a href=https://www.thehistoryblog.com/archives/77107 target="_blank">
+        Hittite royal archive found in Turkey |
     </a>
-    By: bookofjoe
+    By: benbreen
 </li>
 
 <li>
-    <a href=https://royfish.dev/fingerprints-are-the-new-cookies target="_blank">
-        Fingerprints are the new cookies |
+    <a href=https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran target="_blank">
+        CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades |
     </a>
-    By: royfish
+    By: helsinkiandrew
 </li>
 </ol>
