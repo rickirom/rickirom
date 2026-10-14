@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 13 Oct 2026</h4>
+<h4>Check the latest news from: Wed 14 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/rust-lang/rust/issues/164250 target="_blank">
-        11 year old unsoundness bugs found in Rust borrow checker |
+    <a href=https://typeof.net/Iosevka/ target="_blank">
+        Iosevka is an open-source, sans-serif and slab-serif, monospace font |
     </a>
-    By: formerly_proven
+    By: otobrglez
 </li>
 
 <li>
-    <a href=https://eg2.haku.sh/ target="_blank">
-        An hour of audio transcribed in about 13s on MacBook Air |
+    <a href=https://deepmind.google/models/gemini/ target="_blank">
+        Gemini 4 Argon |
     </a>
-    By: amrrs
+    By: 737max
+</li>
+
+<p>
+Text: See also: <i>Gemini 4 Argon for Robotics</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869</a> </br>
+</p>
+
+<li>
+    <a href=https://ciechanow.ski/sound/ target="_blank">
+        Sound – Bartosz Ciechanowski (2022) |
+    </a>
+    By: dverlaeckt80
 </li>
 
 <li>
-    <a href=https://pdftomp3.com/connect-ai/ target="_blank">
-        Show HN: Use your OpenAI subscription to create audiobooks |
+    <a href=https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/ target="_blank">
+        Ledger confirms spy chip implant behind wallet crypto thefts |
     </a>
-    By: janpmz
+    By: thm
 </li>
 
-<li>
-    <a href=https://www.thehistoryblog.com/archives/77107 target="_blank">
-        Hittite royal archive found in Turkey |
-    </a>
-    By: benbreen
-</li>
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html" rel="nofollow">https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-hardware-wa...</a><p><a href="https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m&#x2F;" rel="nofollow">https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wa...</a><p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8JnHdr30v4g" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8JnHdr30v4g</a><p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Nf4FEFlgv3Q" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Nf4FEFlgv3Q</a><p><a href="https:&#x2F;&#x2F;www.tibane.net&#x2F;research&#x2F;ledger-nano-x-implant" rel="nofollow">https:&#x2F;&#x2F;www.tibane.net&#x2F;research&#x2F;ledger-nano-x-implant</a> </br>
+</p>
 
 <li>
-    <a href=https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran target="_blank">
-        CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades |
+    <a href=https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/ target="_blank">
+        What agents mean for Rust (and vice versa) |
     </a>
-    By: helsinkiandrew
+    By: mfrw
 </li>
 </ol>
