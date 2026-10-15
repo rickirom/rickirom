@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 14 Oct 2026</h4>
+<h4>Check the latest news from: Thu 15 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://typeof.net/Iosevka/ target="_blank">
-        Iosevka is an open-source, sans-serif and slab-serif, monospace font |
+    <a href=https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ target="_blank">
+        Things to know when you get cancer |
     </a>
-    By: otobrglez
+    By: jjmaxwell4
 </li>
 
 <li>
-    <a href=https://deepmind.google/models/gemini/ target="_blank">
-        Gemini 4 Argon |
+    <a href=https://blog.dfb.sh/blog/eap770-root-for-two-zeros/ target="_blank">
+        Wanted to download an ISO, ended up writing a kernel exploit |
     </a>
-    By: 737max
-</li>
-
-<p>
-Text: See also: <i>Gemini 4 Argon for Robotics</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869</a> </br>
-</p>
-
-<li>
-    <a href=https://ciechanow.ski/sound/ target="_blank">
-        Sound – Bartosz Ciechanowski (2022) |
-    </a>
-    By: dverlaeckt80
-</li>
-
-<li>
-    <a href=https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/ target="_blank">
-        Ledger confirms spy chip implant behind wallet crypto thefts |
-    </a>
-    By: thm
+    By: 0xdeafbeef
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html" rel="nofollow">https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-hardware-wa...</a><p><a href="https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m&#x2F;" rel="nofollow">https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wa...</a><p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8JnHdr30v4g" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8JnHdr30v4g</a><p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Nf4FEFlgv3Q" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Nf4FEFlgv3Q</a><p><a href="https:&#x2F;&#x2F;www.tibane.net&#x2F;research&#x2F;ledger-nano-x-implant" rel="nofollow">https:&#x2F;&#x2F;www.tibane.net&#x2F;research&#x2F;ledger-nano-x-implant</a> </br>
+Text: Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class. The nasty part is they work fine on x86 and silently corrupt data on arm and other non-coherent archs, and I don&#x27;t have the hardware to test them.<p>I&#x27;d guess that&#x27;s what the DMA API is for and drivers shouldn&#x27;t be doing cache maintenance by hand, but I&#x27;m not a kernel dev, so maybe I&#x27;m missing something. </br>
 </p>
 
 <li>
-    <a href=https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/ target="_blank">
-        What agents mean for Rust (and vice versa) |
+    <a href=https://anoma.ly/notes/opencode-2-0/ target="_blank">
+        OpenCode 2.0 |
     </a>
-    By: mfrw
+    By: gmays
+</li>
+
+<li>
+    <a href=https://jackantico.io/garmin-mcp target="_blank">
+        Creating a Garmin "MCP" |
+    </a>
+    By: ricotico060
+</li>
+
+<li>
+    <a href=https://tinylittleoffice.com/ target="_blank">
+        Tiny Little Office |
+    </a>
+    By: donohoe
 </li>
 </ol>
