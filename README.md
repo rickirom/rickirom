@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 15 Oct 2026</h4>
+<h4>Check the latest news from: Fri 16 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ target="_blank">
-        Things to know when you get cancer |
+    <a href=https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/ target="_blank">
+        Meta’s new commercial terms will allow the scraping of news sites: experts |
     </a>
-    By: jjmaxwell4
+    By: 0in
 </li>
 
 <li>
-    <a href=https://blog.dfb.sh/blog/eap770-root-for-two-zeros/ target="_blank">
-        Wanted to download an ISO, ended up writing a kernel exploit |
+    <a href=https://research.meta.ai/blog/muse-spark-open target="_blank">
+        Muse Spark Open |
     </a>
-    By: 0xdeafbeef
+    By: bigwheels
 </li>
 
 <p>
-Text: Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class. The nasty part is they work fine on x86 and silently corrupt data on arm and other non-coherent archs, and I don&#x27;t have the hardware to test them.<p>I&#x27;d guess that&#x27;s what the DMA API is for and drivers shouldn&#x27;t be doing cache maintenance by hand, but I&#x27;m not a kernel dev, so maybe I&#x27;m missing something. </br>
+Text: <a href="https:&#x2F;&#x2F;dev.meta.ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse-spark-open" rel="nofollow">https:&#x2F;&#x2F;dev.meta.ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse-spark-ope...</a><p><a href="https:&#x2F;&#x2F;huggingface.co&#x2F;meta-models&#x2F;Muse-Spark-Open-816B-A42B" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;meta-models&#x2F;Muse-Spark-Open-816B-A42B</a><p><a href="https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;10&#x2F;15&#x2F;meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio&#x2F;" rel="nofollow">https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;10&#x2F;15&#x2F;meta-launches-new-muse-spark-...</a> </br>
 </p>
 
 <li>
-    <a href=https://anoma.ly/notes/opencode-2-0/ target="_blank">
-        OpenCode 2.0 |
+    <a href=https://www.youtube.com/watch?v=sjNpfz4UzqU target="_blank">
+        Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video] |
     </a>
-    By: gmays
+    By: johnnyApplePRNG
 </li>
 
 <li>
-    <a href=https://jackantico.io/garmin-mcp target="_blank">
-        Creating a Garmin "MCP" |
+    <a href=https://coached.com/essays/the-insider-trading-youre-allowed-to-do/ target="_blank">
+        The insider trading you're allowed to do |
     </a>
-    By: ricotico060
+    By: rohanm93
 </li>
 
 <li>
-    <a href=https://tinylittleoffice.com/ target="_blank">
-        Tiny Little Office |
+    <a href=https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban target="_blank">
+        New York City's iconic horse-drawn carriages expected to take their last trot |
     </a>
-    By: donohoe
+    By: 1659447091
 </li>
 </ol>
