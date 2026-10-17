@@ -45,44 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 16 Oct 2026</h4>
+<h4>Check the latest news from: Sat 17 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/ target="_blank">
-        Meta’s new commercial terms will allow the scraping of news sites: experts |
+    <a href=https://www.paperinstruments.com/ultramarine target="_blank">
+        Ultramarine 1 Flash |
     </a>
-    By: 0in
-</li>
-
-<li>
-    <a href=https://research.meta.ai/blog/muse-spark-open target="_blank">
-        Muse Spark Open |
-    </a>
-    By: bigwheels
+    By: i_rush_carriers
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;dev.meta.ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse-spark-open" rel="nofollow">https:&#x2F;&#x2F;dev.meta.ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse-spark-ope...</a><p><a href="https:&#x2F;&#x2F;huggingface.co&#x2F;meta-models&#x2F;Muse-Spark-Open-816B-A42B" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;meta-models&#x2F;Muse-Spark-Open-816B-A42B</a><p><a href="https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;10&#x2F;15&#x2F;meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio&#x2F;" rel="nofollow">https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;10&#x2F;15&#x2F;meta-launches-new-muse-spark-...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarine">https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarine</a><p><a href="https:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232</a> </br>
 </p>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=sjNpfz4UzqU target="_blank">
-        Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video] |
+    <a href=https://www.tesla.com/roadster target="_blank">
+        Tesla Roadster |
     </a>
-    By: johnnyApplePRNG
+    By: shekhar101
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qg" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qg</a><p><a href="https:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215</a> </br>
+</p>
+
+<li>
+    <a href=https://llmspeed.dev/ target="_blank">
+        Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware |
+    </a>
+    By: albinstman
 </li>
 
 <li>
-    <a href=https://coached.com/essays/the-insider-trading-youre-allowed-to-do/ target="_blank">
-        The insider trading you're allowed to do |
+    <a href=https://github.com/cobanov/PS5LM target="_blank">
+        Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console |
     </a>
-    By: rohanm93
+    By: Anon84
 </li>
 
 <li>
-    <a href=https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban target="_blank">
-        New York City's iconic horse-drawn carriages expected to take their last trot |
+    <a href=https://www.lf-lang.org/ target="_blank">
+        Intuitive concurrent programming in any language |
     </a>
-    By: 1659447091
+    By: mpweiher
 </li>
 </ol>
