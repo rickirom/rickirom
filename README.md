@@ -45,48 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 17 Oct 2026</h4>
+<h4>Check the latest news from: Sun 18 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://www.paperinstruments.com/ultramarine target="_blank">
-        Ultramarine 1 Flash |
+    <a href=https://api-docs.deepseek.com/guides/search/ target="_blank">
+        DeepSeek search and fetch – $0.75 per 1000 successful requests |
     </a>
-    By: i_rush_carriers
+    By: fagnerbrack
+</li>
+
+<li>
+    <a href=https://sphinx-six-theta.vercel.app/ target="_blank">
+        Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping |
+    </a>
+    By: critiquebrowser
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarine">https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarine</a><p><a href="https:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232</a> </br>
+Text: FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing works. </br>
 </p>
 
 <li>
-    <a href=https://www.tesla.com/roadster target="_blank">
-        Tesla Roadster |
+    <a href=https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything target="_blank">
+        How the Elizabeth Holmes documentary “You Can See Everything” is deceiving |
     </a>
-    By: shekhar101
+    By: MaysonL
+</li>
+
+<li>
+    <a href=https://www.nature.com/articles/d41586-026-03266-x target="_blank">
+        Bleached corals thrive within days when touching healthy neighbour |
+    </a>
+    By: alkyon
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qg" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qg</a><p><a href="https:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215</a> </br>
+Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4</a> </br>
 </p>
 
 <li>
-    <a href=https://llmspeed.dev/ target="_blank">
-        Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware |
+    <a href=https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/ target="_blank">
+        Lean now ships with verified kernels |
     </a>
-    By: albinstman
-</li>
-
-<li>
-    <a href=https://github.com/cobanov/PS5LM target="_blank">
-        Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console |
-    </a>
-    By: Anon84
-</li>
-
-<li>
-    <a href=https://www.lf-lang.org/ target="_blank">
-        Intuitive concurrent programming in any language |
-    </a>
-    By: mpweiher
+    By: matt_d
 </li>
 </ol>
