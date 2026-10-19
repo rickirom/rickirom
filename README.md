@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 18 Oct 2026</h4>
+<h4>Check the latest news from: Mon 19 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://api-docs.deepseek.com/guides/search/ target="_blank">
-        DeepSeek search and fetch – $0.75 per 1000 successful requests |
+    <a href=https://lwn.net/Articles/1101143/ target="_blank">
+        Linux 7.3 Released |
     </a>
-    By: fagnerbrack
+    By: cjd8
 </li>
 
 <li>
-    <a href=https://sphinx-six-theta.vercel.app/ target="_blank">
-        Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping |
+    <a href=https://arxiv.org/abs/2610.18861 target="_blank">
+        Hybrid Reasoning Agents: LLM agents that think in latent space, act through text |
     </a>
-    By: critiquebrowser
-</li>
-
-<p>
-Text: FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing works. </br>
-</p>
-
-<li>
-    <a href=https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything target="_blank">
-        How the Elizabeth Holmes documentary “You Can See Everything” is deceiving |
-    </a>
-    By: MaysonL
-</li>
-
-<li>
-    <a href=https://www.nature.com/articles/d41586-026-03266-x target="_blank">
-        Bleached corals thrive within days when touching healthy neighbour |
-    </a>
-    By: alkyon
+    By: allinonai
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4</a> </br>
+Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476</a><p><a href="https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent</a><p><a href="https:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;togethercomputer&#x2F;hybridagent" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;togethercomputer&#x2F;hybridag...</a><p>Evaluations: <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;html&#x2F;2610.18861v1#S5" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;html&#x2F;2610.18861v1#S5</a> </br>
 </p>
 
 <li>
-    <a href=https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/ target="_blank">
-        Lean now ships with verified kernels |
+    <a href=https://www.construction-physics.com/p/how-to-train-your-robot target="_blank">
+        How to Train Your Robot |
     </a>
-    By: matt_d
+    By: crescit_eundo
+</li>
+
+<li>
+    <a href=https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html target="_blank">
+        Rabbits were a medieval royal luxury in England until the Black Death |
+    </a>
+    By: samizdis
+</li>
+
+<li>
+    <a href=https://colo.to/cyberspace.html target="_blank">
+        William Gibson and the trademarking of cyberspace |
+    </a>
+    By: Eric_Gullichsen
 </li>
 </ol>
