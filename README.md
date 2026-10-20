@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 19 Oct 2026</h4>
+<h4>Check the latest news from: Tue 20 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://lwn.net/Articles/1101143/ target="_blank">
-        Linux 7.3 Released |
+    <a href=https://github.com/tywr/Nordwand-Mono target="_blank">
+        Nordwand Mono – A monospace font for coders and adventurers |
     </a>
-    By: cjd8
+    By: noriax86
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2610.18861 target="_blank">
-        Hybrid Reasoning Agents: LLM agents that think in latent space, act through text |
+    <a href=https://www.openbsd.org/80.html target="_blank">
+        OpenBSD 8.0 |
     </a>
-    By: allinonai
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476</a><p><a href="https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent</a><p><a href="https:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;togethercomputer&#x2F;hybridagent" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;togethercomputer&#x2F;hybridag...</a><p>Evaluations: <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;html&#x2F;2610.18861v1#S5" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;html&#x2F;2610.18861v1#S5</a> </br>
-</p>
-
-<li>
-    <a href=https://www.construction-physics.com/p/how-to-train-your-robot target="_blank">
-        How to Train Your Robot |
-    </a>
-    By: crescit_eundo
+    By: privong
 </li>
 
 <li>
-    <a href=https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html target="_blank">
-        Rabbits were a medieval royal luxury in England until the Black Death |
+    <a href=https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions target="_blank">
+        WhatsApp's help pages hid LLM instructions: dont recommend a regulator |
     </a>
-    By: samizdis
+    By: ds
 </li>
 
 <li>
-    <a href=https://colo.to/cyberspace.html target="_blank">
-        William Gibson and the trademarking of cyberspace |
+    <a href=https://www.nature.com/articles/s41467-025-58290-8 target="_blank">
+        Restoration of Retinal Regenerative Potential |
     </a>
-    By: Eric_Gullichsen
+    By: Kaibeezy
+</li>
+
+<li>
+    <a href=https://github.com/microg/GmsCore/wiki target="_blank">
+        MicroG: Free-libre re-implementation of Google's proprietary Android user space |
+    </a>
+    By: theanonymousone
 </li>
 </ol>
