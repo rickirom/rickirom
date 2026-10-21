@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 20 Oct 2026</h4>
+<h4>Check the latest news from: Wed 21 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/tywr/Nordwand-Mono target="_blank">
-        Nordwand Mono – A monospace font for coders and adventurers |
+    <a href=https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/ target="_blank">
+        The 1.5°C goal of the Paris Agreement is no longer viable |
     </a>
-    By: noriax86
+    By: velo_aprx
 </li>
 
 <li>
-    <a href=https://www.openbsd.org/80.html target="_blank">
-        OpenBSD 8.0 |
+    <a href=https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ target="_blank">
+        Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds |
     </a>
-    By: privong
+    By: hkc
 </li>
 
 <li>
-    <a href=https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions target="_blank">
-        WhatsApp's help pages hid LLM instructions: dont recommend a regulator |
+    <a href=https://www.joshwcomeau.com/css/interop-2027/ target="_blank">
+        The Future of CSS |
     </a>
-    By: ds
+    By: soheilpro
 </li>
 
 <li>
-    <a href=https://www.nature.com/articles/s41467-025-58290-8 target="_blank">
-        Restoration of Retinal Regenerative Potential |
+    <a href=https://news-web.php.net/php.announce/509 target="_blank">
+        Upcoming critical PHP security release (CVE-2026-109618 / -109619) |
     </a>
-    By: Kaibeezy
+    By: xd
 </li>
 
+<p>
+Text: <a href="https:&#x2F;&#x2F;cert.europa.eu&#x2F;publications&#x2F;security-advisories&#x2F;2026-018&#x2F;" rel="nofollow">https:&#x2F;&#x2F;cert.europa.eu&#x2F;publications&#x2F;security-advisories&#x2F;2026...</a><p><a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50167754">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50167754</a> </br>
+</p>
+
 <li>
-    <a href=https://github.com/microg/GmsCore/wiki target="_blank">
-        MicroG: Free-libre re-implementation of Google's proprietary Android user space |
+    <a href=https://permit.petercai.com/ target="_blank">
+        Show HN: SimCity, but with Permits |
     </a>
-    By: theanonymousone
+    By: pcai
 </li>
 </ol>
