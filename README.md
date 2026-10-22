@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 21 Oct 2026</h4>
+<h4>Check the latest news from: Thu 22 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/ target="_blank">
-        The 1.5°C goal of the Paris Agreement is no longer viable |
+    <a href=https://nvd.nist.gov/vuln/detail/cve-2026-111943 target="_blank">
+        CVE-2026-111943: Compromised Intermediate Certificate Authority |
     </a>
-    By: velo_aprx
+    By: keks24
 </li>
 
 <li>
-    <a href=https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ target="_blank">
-        Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds |
+    <a href=https://simedw.com/2026/10/21/world-model-terminal/ target="_blank">
+        WorldTUI: I trained a 360M model to pretend to be a terminal |
     </a>
-    By: hkc
+    By: alphax314
 </li>
 
 <li>
-    <a href=https://www.joshwcomeau.com/css/interop-2027/ target="_blank">
-        The Future of CSS |
+    <a href=https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf target="_blank">
+        The recently proposed o(n log n) integer multiplication algorithm [pdf] |
     </a>
-    By: soheilpro
+    By: craigcitro
 </li>
 
 <li>
-    <a href=https://news-web.php.net/php.announce/509 target="_blank">
-        Upcoming critical PHP security release (CVE-2026-109618 / -109619) |
+    <a href=https://blog.railway.com/p/security-disclosure-wednesday-october-21st target="_blank">
+        Security Disclosure |
     </a>
-    By: xd
+    By: passenger
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;cert.europa.eu&#x2F;publications&#x2F;security-advisories&#x2F;2026-018&#x2F;" rel="nofollow">https:&#x2F;&#x2F;cert.europa.eu&#x2F;publications&#x2F;security-advisories&#x2F;2026...</a><p><a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50167754">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50167754</a> </br>
-</p>
-
 <li>
-    <a href=https://permit.petercai.com/ target="_blank">
-        Show HN: SimCity, but with Permits |
+    <a href=https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/ target="_blank">
+        Achieving AI-style reasoning without an LLM |
     </a>
-    By: pcai
+    By: edwardchalk
 </li>
 </ol>
