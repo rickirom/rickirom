@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 22 Oct 2026</h4>
+<h4>Check the latest news from: Fri 23 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://nvd.nist.gov/vuln/detail/cve-2026-111943 target="_blank">
-        CVE-2026-111943: Compromised Intermediate Certificate Authority |
+    <a href=https://edjefferson.com/localwiki/ target="_blank">
+        Local Wikipedia: Wikipedia, but only for things a half hour walk from you |
     </a>
-    By: keks24
+    By: sohkamyung
 </li>
 
 <li>
-    <a href=https://simedw.com/2026/10/21/world-model-terminal/ target="_blank">
-        WorldTUI: I trained a 360M model to pretend to be a terminal |
+    <a href=https://codeandcake.dev/posts/2026-10-22-docker-is-weird target="_blank">
+        Docker is weird |
     </a>
-    By: alphax314
+    By: psxuaw
 </li>
 
 <li>
-    <a href=https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf target="_blank">
-        The recently proposed o(n log n) integer multiplication algorithm [pdf] |
+    <a href=https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images target="_blank">
+        How does Fable 5.1 hide messages in images? |
     </a>
-    By: craigcitro
+    By: gmays
 </li>
 
 <li>
-    <a href=https://blog.railway.com/p/security-disclosure-wednesday-october-21st target="_blank">
-        Security Disclosure |
+    <a href=https://arxiv.org/abs/2603.01092 target="_blank">
+        The alien space of science: Coherent but cognitively unavailable directions |
     </a>
-    By: passenger
+    By: martincsweiss
 </li>
 
 <li>
-    <a href=https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/ target="_blank">
-        Achieving AI-style reasoning without an LLM |
+    <a href=https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html target="_blank">
+        The foolishness of "natural language programming" (1978) |
     </a>
-    By: edwardchalk
+    By: xiaoyu2006
 </li>
 </ol>
