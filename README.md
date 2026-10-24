@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 23 Oct 2026</h4>
+<h4>Check the latest news from: Sat 24 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://edjefferson.com/localwiki/ target="_blank">
-        Local Wikipedia: Wikipedia, but only for things a half hour walk from you |
+    <a href=https://github.com/obsproject/obs-studio/releases/tag/33.0.0 target="_blank">
+        OBS Studio 33 |
     </a>
-    By: sohkamyung
+    By: pentagrama
 </li>
 
 <li>
-    <a href=https://codeandcake.dev/posts/2026-10-22-docker-is-weird target="_blank">
-        Docker is weird |
+    <a href=https://www.kimi.ai/blog/kimi-k3-1-pro target="_blank">
+        Kimi K3.1 Pro and K3.1 Pro Highspeed |
     </a>
-    By: psxuaw
+    By: Jowsey
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.kimi.com&#x2F;code&#x2F;docs&#x2F;en&#x2F;kimi-code&#x2F;models.html" rel="nofollow">https:&#x2F;&#x2F;www.kimi.com&#x2F;code&#x2F;docs&#x2F;en&#x2F;kimi-code&#x2F;models.html</a><p><a href="https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3-1-pro" rel="nofollow">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3-1-pro</a><p><a href="https:&#x2F;&#x2F;www.modelcompare.ai&#x2F;blog&#x2F;china-open-source-ai" rel="nofollow">https:&#x2F;&#x2F;www.modelcompare.ai&#x2F;blog&#x2F;china-open-source-ai</a> </br>
+</p>
+
+<li>
+    <a href=https://blog.calif.io/p/iphone target="_blank">
+        Today, we hacked what we'd set out to hack: the iPhone |
+    </a>
+    By: pavel_lishin
 </li>
 
 <li>
-    <a href=https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images target="_blank">
-        How does Fable 5.1 hide messages in images? |
+    <a href=https://philipotoole.com/twelve-years-of-distributed-sqlite/ target="_blank">
+        Twelve years of distributed SQLite |
     </a>
-    By: gmays
+    By: otoolep
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2603.01092 target="_blank">
-        The alien space of science: Coherent but cognitively unavailable directions |
+    <a href=https://rtfeldman.com/fp-vs-c target="_blank">
+        How close can pure functional programming get to C? |
     </a>
-    By: martincsweiss
-</li>
-
-<li>
-    <a href=https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html target="_blank">
-        The foolishness of "natural language programming" (1978) |
-    </a>
-    By: xiaoyu2006
+    By: stmonty
 </li>
 </ol>
