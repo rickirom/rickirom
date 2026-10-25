@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 24 Oct 2026</h4>
+<h4>Check the latest news from: Sun 25 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/obsproject/obs-studio/releases/tag/33.0.0 target="_blank">
-        OBS Studio 33 |
+    <a href=https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order target="_blank">
+        Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism |
     </a>
-    By: pentagrama
+    By: vrganj
 </li>
 
 <li>
-    <a href=https://www.kimi.ai/blog/kimi-k3-1-pro target="_blank">
-        Kimi K3.1 Pro and K3.1 Pro Highspeed |
+    <a href=https://danluu.com/ambitious/ target="_blank">
+        We should be more ambitious with the software we build |
     </a>
-    By: Jowsey
+    By: ltratt
+</li>
+
+<li>
+    <a href=https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras target="_blank">
+        Cerebras Deploys Trillion-Parameter AI Models |
+    </a>
+    By: gmays
+</li>
+
+<li>
+    <a href=https://kottke.org/26/10/how-japanese-dried-bonito-is-made target="_blank">
+        How Japanese Dried Bonito Is Made |
+    </a>
+    By: bookofjoe
+</li>
+
+<li>
+    <a href=https://aardappel.github.io/goose/ target="_blank">
+        The Goose Programming Language |
+    </a>
+    By: bobbydigitales
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.kimi.com&#x2F;code&#x2F;docs&#x2F;en&#x2F;kimi-code&#x2F;models.html" rel="nofollow">https:&#x2F;&#x2F;www.kimi.com&#x2F;code&#x2F;docs&#x2F;en&#x2F;kimi-code&#x2F;models.html</a><p><a href="https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3-1-pro" rel="nofollow">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3-1-pro</a><p><a href="https:&#x2F;&#x2F;www.modelcompare.ai&#x2F;blog&#x2F;china-open-source-ai" rel="nofollow">https:&#x2F;&#x2F;www.modelcompare.ai&#x2F;blog&#x2F;china-open-source-ai</a> </br>
+Text: <a href="https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568</a> </br>
 </p>
-
-<li>
-    <a href=https://blog.calif.io/p/iphone target="_blank">
-        Today, we hacked what we'd set out to hack: the iPhone |
-    </a>
-    By: pavel_lishin
-</li>
-
-<li>
-    <a href=https://philipotoole.com/twelve-years-of-distributed-sqlite/ target="_blank">
-        Twelve years of distributed SQLite |
-    </a>
-    By: otoolep
-</li>
-
-<li>
-    <a href=https://rtfeldman.com/fp-vs-c target="_blank">
-        How close can pure functional programming get to C? |
-    </a>
-    By: stmonty
-</li>
 </ol>
