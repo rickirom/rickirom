@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 25 Oct 2026</h4>
+<h4>Check the latest news from: Mon 26 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order target="_blank">
-        Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism |
+    <a href=https://blocks.manifold3d.ch/ target="_blank">
+        Switzerland. Block by block. At 1:1 scale |
     </a>
-    By: vrganj
+    By: theanonymousone
 </li>
 
 <li>
-    <a href=https://danluu.com/ambitious/ target="_blank">
-        We should be more ambitious with the software we build |
+    <a href=https://titleart.dvy.io/ target="_blank">
+        Show HN: TitleArt – Make text like it's 1997 |
     </a>
-    By: ltratt
+    By: davidbarker
 </li>
 
 <li>
-    <a href=https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras target="_blank">
-        Cerebras Deploys Trillion-Parameter AI Models |
+    <a href=https://github.com/KrushnaVardhanReddy/PaperPilot target="_blank">
+        PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP |
     </a>
-    By: gmays
+    By: vardhan1237
 </li>
 
 <li>
-    <a href=https://kottke.org/26/10/how-japanese-dried-bonito-is-made target="_blank">
-        How Japanese Dried Bonito Is Made |
+    <a href=https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry target="_blank">
+        Behind the scenes at the NeXT Computer office |
     </a>
-    By: bookofjoe
+    By: Austin_Conlon
 </li>
 
 <li>
-    <a href=https://aardappel.github.io/goose/ target="_blank">
-        The Goose Programming Language |
+    <a href=https://brashandplucky.com/2026/10/15/growing-trees.html target="_blank">
+        Growing Trees |
     </a>
-    By: bobbydigitales
+    By: ibobev
 </li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568</a> </br>
-</p>
 </ol>
