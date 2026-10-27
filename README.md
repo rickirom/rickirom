@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 26 Oct 2026</h4>
+<h4>Check the latest news from: Tue 27 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://blocks.manifold3d.ch/ target="_blank">
-        Switzerland. Block by block. At 1:1 scale |
+    <a href=https://openai.com/index/building-scientific-understanding-with-academic-communities/ target="_blank">
+        Three new discoveries in mathematics, computer science, and physics |
     </a>
-    By: theanonymousone
+    By: jonluca
+</li>
+
+<p>
+Text: Related:<p><i>The Exponential Time Hypothesis Is False [pdf]</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251661">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251661</a> </br>
+</p>
+
+<li>
+    <a href=https://j11g.com/the-mythical-man-month-in-the-age-of-ai target="_blank">
+        The Mythical Man-Month in the Age of AI |
+    </a>
+    By: ilreb
 </li>
 
 <li>
-    <a href=https://titleart.dvy.io/ target="_blank">
-        Show HN: TitleArt – Make text like it's 1997 |
+    <a href=https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf target="_blank">
+        The Exponential Time Hypothesis Is False [pdf] |
     </a>
-    By: davidbarker
+    By: vok
+</li>
+
+<p>
+Text: See also: <i>Announcing three new discoveries in mathematics, computer science, and physics</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251344">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251344</a> </br>
+</p>
+
+<li>
+    <a href=https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients target="_blank">
+        New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients |
+    </a>
+    By: gmays
 </li>
 
 <li>
-    <a href=https://github.com/KrushnaVardhanReddy/PaperPilot target="_blank">
-        PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP |
+    <a href=https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/ target="_blank">
+        AI is ruining haunted houses |
     </a>
-    By: vardhan1237
-</li>
-
-<li>
-    <a href=https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry target="_blank">
-        Behind the scenes at the NeXT Computer office |
-    </a>
-    By: Austin_Conlon
-</li>
-
-<li>
-    <a href=https://brashandplucky.com/2026/10/15/growing-trees.html target="_blank">
-        Growing Trees |
-    </a>
-    By: ibobev
+    By: mikelgan
 </li>
 </ol>
