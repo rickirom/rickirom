@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 27 Oct 2026</h4>
+<h4>Check the latest news from: Wed 28 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://openai.com/index/building-scientific-understanding-with-academic-communities/ target="_blank">
-        Three new discoveries in mathematics, computer science, and physics |
+    <a href=https://dreamagainusa.org/ target="_blank">
+        Wealth Inequality in America drawn to scale |
     </a>
-    By: jonluca
-</li>
-
-<p>
-Text: Related:<p><i>The Exponential Time Hypothesis Is False [pdf]</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251661">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251661</a> </br>
-</p>
-
-<li>
-    <a href=https://j11g.com/the-mythical-man-month-in-the-age-of-ai target="_blank">
-        The Mythical Man-Month in the Age of AI |
-    </a>
-    By: ilreb
+    By: haraball
 </li>
 
 <li>
-    <a href=https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf target="_blank">
-        The Exponential Time Hypothesis Is False [pdf] |
+    <a href=https://vertex.degree/ target="_blank">
+        Start Doing Graph Theory |
     </a>
-    By: vok
-</li>
-
-<p>
-Text: See also: <i>Announcing three new discoveries in mathematics, computer science, and physics</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251344">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251344</a> </br>
-</p>
-
-<li>
-    <a href=https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients target="_blank">
-        New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients |
-    </a>
-    By: gmays
+    By: ibobev
 </li>
 
 <li>
-    <a href=https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/ target="_blank">
-        AI is ruining haunted houses |
+    <a href=https://lexifina.com/blog/git-for-the-us-code target="_blank">
+        Git for the US Code |
     </a>
-    By: mikelgan
+    By: alansaber
+</li>
+
+<li>
+    <a href=https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ target="_blank">
+        Genie 4 |
+    </a>
+    By: acossta
+</li>
+
+<li>
+    <a href=https://ghostty.org/docs/install/release-notes/1-4-0 target="_blank">
+        Ghostty 1.4 |
+    </a>
+    By: deaux
 </li>
 </ol>
