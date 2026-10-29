@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 28 Oct 2026</h4>
+<h4>Check the latest news from: Thu 29 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://dreamagainusa.org/ target="_blank">
-        Wealth Inequality in America drawn to scale |
+    <a href=https://divagr.com/blog/qwenputer target="_blank">
+        Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5 |
     </a>
-    By: haraball
+    By: csmantle
 </li>
 
 <li>
-    <a href=https://vertex.degree/ target="_blank">
-        Start Doing Graph Theory |
+    <a href=https://smsofdeath.com/ target="_blank">
+        Zero click, silent, remote Android DoS |
     </a>
-    By: ibobev
+    By: MarkBlah
 </li>
 
 <li>
-    <a href=https://lexifina.com/blog/git-for-the-us-code target="_blank">
-        Git for the US Code |
+    <a href=https://nullpt.rs/fingerprinting-bioweapons target="_blank">
+        Why is this fingerprinting script creating bioweapons? |
     </a>
-    By: alansaber
+    By: hazebooth
 </li>
 
 <li>
-    <a href=https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ target="_blank">
-        Genie 4 |
+    <a href=https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/ target="_blank">
+        Getting debug access on a Brother printer over Telnet |
     </a>
-    By: acossta
+    By: inventor7777
 </li>
 
 <li>
-    <a href=https://ghostty.org/docs/install/release-notes/1-4-0 target="_blank">
-        Ghostty 1.4 |
+    <a href=https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/ target="_blank">
+        Forging a Microsoft Edge Full Chain with Logic Bugs Only |
     </a>
-    By: deaux
+    By: austinallegro
 </li>
 </ol>
