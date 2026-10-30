@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 29 Oct 2026</h4>
+<h4>Check the latest news from: Fri 30 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://divagr.com/blog/qwenputer target="_blank">
-        Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5 |
+    <a href=https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 target="_blank">
+        Binance-hacker-1029 – $5.6B stolen from Binance |
     </a>
-    By: csmantle
+    By: Tiberium
 </li>
 
 <li>
-    <a href=https://smsofdeath.com/ target="_blank">
-        Zero click, silent, remote Android DoS |
+    <a href=https://mistral.ai/news/mistral-large-4-oss/ target="_blank">
+        We're releasing the weights of Mistral Large 4 |
     </a>
-    By: MarkBlah
+    By: kuberwastaken
 </li>
 
 <li>
-    <a href=https://nullpt.rs/fingerprinting-bioweapons target="_blank">
-        Why is this fingerprinting script creating bioweapons? |
+    <a href=https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/ target="_blank">
+        How Do You Take a Picture of a Black Hole? |
     </a>
-    By: hazebooth
+    By: dverlaeckt80
 </li>
 
 <li>
-    <a href=https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/ target="_blank">
-        Getting debug access on a Brother printer over Telnet |
+    <a href=https://elect.horse/ target="_blank">
+        elect.horse |
     </a>
-    By: inventor7777
+    By: solarist
 </li>
 
 <li>
-    <a href=https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/ target="_blank">
-        Forging a Microsoft Edge Full Chain with Logic Bugs Only |
+    <a href=https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times target="_blank">
+        Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated |
     </a>
-    By: austinallegro
+    By: benbreen
 </li>
 </ol>
