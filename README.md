@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 30 Oct 2026</h4>
+<h4>Check the latest news from: Sat 31 Oct 2026</h4>
 <ol>
 <li>
-    <a href=https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 target="_blank">
-        Binance-hacker-1029 – $5.6B stolen from Binance |
+    <a href=https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament target="_blank">
+        Serbia just elected the world's brainiest parliament |
     </a>
-    By: Tiberium
+    By: input_sh
 </li>
 
 <li>
-    <a href=https://mistral.ai/news/mistral-large-4-oss/ target="_blank">
-        We're releasing the weights of Mistral Large 4 |
+    <a href=https://xoranth.net/gcc-switch/ target="_blank">
+        Switch Lowering in GCC |
     </a>
-    By: kuberwastaken
+    By: signa11
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/ target="_blank">
-        How Do You Take a Picture of a Black Hole? |
+    <a href=https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html target="_blank">
+        Digital Minimalism |
     </a>
-    By: dverlaeckt80
+    By: wilbertliu
 </li>
 
 <li>
-    <a href=https://elect.horse/ target="_blank">
-        elect.horse |
+    <a href=https://zebra.rodeo/en/blog/marelleo/ target="_blank">
+        Show HN: Marelleo, an open-source story box I built for my kids using ESP32 |
     </a>
-    By: solarist
+    By: foOg
 </li>
 
 <li>
-    <a href=https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times target="_blank">
-        Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated |
+    <a href=https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ target="_blank">
+        My favourite PowerMac is a Nintendo Wii |
     </a>
-    By: benbreen
+    By: DHowett
 </li>
 </ol>
