@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 31 Oct 2026</h4>
+<h4>Check the latest news from: Sun 01 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament target="_blank">
-        Serbia just elected the world's brainiest parliament |
+    <a href=https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/ target="_blank">
+        Norway makes shithouses great again |
     </a>
-    By: input_sh
+    By: giuliomagnifico
 </li>
 
 <li>
-    <a href=https://xoranth.net/gcc-switch/ target="_blank">
-        Switch Lowering in GCC |
+    <a href=https://karpathy.bearblog.dev/hacker-tube/ target="_blank">
+        HackerTube: YouTube built from videos recommended by HN |
     </a>
-    By: signa11
+    By: karpathy
+</li>
+
+<p>
+Text: YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href="https:&#x2F;&#x2F;hackertube.org&#x2F;" rel="nofollow">https:&#x2F;&#x2F;hackertube.org&#x2F;</a> </br>
+</p>
+
+<li>
+    <a href=https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income target="_blank">
+        A tiny Pacific country rolls out universal basic income |
+    </a>
+    By: motionlessveloc
 </li>
 
 <li>
-    <a href=https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html target="_blank">
-        Digital Minimalism |
+    <a href=https://www.youtube.com/watch?v=gQRmSlcTq9c target="_blank">
+        No AI, 52 min. Build all Linux Files utils in C by Hand [video] |
     </a>
-    By: wilbertliu
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://zebra.rodeo/en/blog/marelleo/ target="_blank">
-        Show HN: Marelleo, an open-source story box I built for my kids using ESP32 |
+    <a href=https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ target="_blank">
+        An Italian farmer found some unknown seeds in his attic and planted them |
     </a>
-    By: foOg
-</li>
-
-<li>
-    <a href=https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ target="_blank">
-        My favourite PowerMac is a Nintendo Wii |
-    </a>
-    By: DHowett
+    By: ecares
 </li>
 </ol>
