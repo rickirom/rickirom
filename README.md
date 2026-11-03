@@ -45,56 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 02 Nov 2026</h4>
+<h4>Check the latest news from: Tue 03 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://hackerbooks.org target="_blank">
-        Show HN: HackerBooks – HackerTube, but for books mentioned on HN |
+    <a href=https://rikiyat.github.io/blog/weight-space-programming/ target="_blank">
+        Astra can read and write weights to improve Qwen |
     </a>
-    By: roansh
-</li>
-
-<p>
-Text: Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).<p>It&#x27;s ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.<p>To be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.<p>It counts mentions, so it&#x27;s not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me. </br>
-</p>
-
-<li>
-    <a href=http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html target="_blank">
-        Postgres 19 is late because so many more bugs are being found now |
-    </a>
-    By: soheilpro
+    By: dbreunig
 </li>
 
 <li>
-    <a href=https://wikihack.netlify.app target="_blank">
-        Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN |
+    <a href=https://github.com/NVIDIA/auto-ontology target="_blank">
+        Nvidia – open-source auto-ontology |
     </a>
-    By: aizk
+    By: campervans
 </li>
-
-<p>
-Text: After seeing Karpathy&#x27;s Hackertube and Hackerbooks, I just had to make Wikihack.<p>I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest &#x2F; interact with. You can see where people submitted the articles and where people mentioned it in comments.<p>The top shows the most frequently linked articles.<p>Random is random but slightly weighted towards the more frequently linked articles (a little bit like Wikipedia actually).<p>Rising is ranked towards the past 12 months.<p>The entire site is served only through the frontend -- I&#x27;ll add more features if people enjoy this! </br>
-</p>
 
 <li>
-    <a href=https://syscall.sh/ target="_blank">
-        Show HN: I've updated my Linux System Call website and API |
+    <a href=https://toit.io/blog/toit-v2-0-0/ target="_blank">
+        Toit v2.0.0 |
     </a>
-    By: guitmz
+    By: floitsch
 </li>
-
-<p>
-Text: I first released those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on mobile devices too but I am no CSS expert.<p>The API is at <a href="https:&#x2F;&#x2F;api.syscall.sh" rel="nofollow">https:&#x2F;&#x2F;api.syscall.sh</a> </br>
-</p>
 
 <li>
-    <a href=https://karpathy.bearblog.dev/hacker-tube/ target="_blank">
-        HackerTube: YouTube built from videos recommended by HN |
+    <a href=https://katamari.vaguespac.es/ target="_blank">
+        Katamari Damacy but it's The Met collection |
     </a>
-    By: karpathy
+    By: thebigship
 </li>
 
-<p>
-Text: YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href="https:&#x2F;&#x2F;hackertube.org&#x2F;" rel="nofollow">https:&#x2F;&#x2F;hackertube.org&#x2F;</a> </br>
-</p>
+<li>
+    <a href=https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio target="_blank">
+        DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs |
+    </a>
+    By: bpierre
+</li>
 </ol>
