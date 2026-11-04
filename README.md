@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 03 Nov 2026</h4>
+<h4>Check the latest news from: Wed 04 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://rikiyat.github.io/blog/weight-space-programming/ target="_blank">
-        Astra can read and write weights to improve Qwen |
+    <a href=https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability target="_blank">
+        AI is forcing us to pay off 40 years of technical debt |
     </a>
-    By: dbreunig
+    By: pseudolus
 </li>
 
 <li>
-    <a href=https://github.com/NVIDIA/auto-ontology target="_blank">
-        Nvidia – open-source auto-ontology |
+    <a href=https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop target="_blank">
+        Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux |
     </a>
-    By: campervans
+    By: novaRom
 </li>
 
 <li>
-    <a href=https://toit.io/blog/toit-v2-0-0/ target="_blank">
-        Toit v2.0.0 |
+    <a href=https://blog.cosmos-institute.org/p/verification-is-not-knowledge target="_blank">
+        Verification Is Not Knowledge: Science needs more than answers |
     </a>
-    By: floitsch
+    By: ersinesen
 </li>
 
 <li>
-    <a href=https://katamari.vaguespac.es/ target="_blank">
-        Katamari Damacy but it's The Met collection |
+    <a href=https://www.githubstatus.com/incidents/smtdswd1h2w4 target="_blank">
+        Incident with Pull Requests, Git Operations and Issues |
     </a>
-    By: thebigship
+    By: kevcampb
 </li>
 
 <li>
-    <a href=https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio target="_blank">
-        DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs |
+    <a href=https://sw.kovidgoyal.net/kitty/changelog/# target="_blank">
+        Kitty 0.50 |
     </a>
-    By: bpierre
+    By: porridgeraisin
 </li>
 </ol>
