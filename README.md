@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 04 Nov 2026</h4>
+<h4>Check the latest news from: Thu 05 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability target="_blank">
-        AI is forcing us to pay off 40 years of technical debt |
+    <a href=https://sshhole.com target="_blank">
+        Sshole |
     </a>
-    By: pseudolus
+    By: josemrb
 </li>
 
 <li>
-    <a href=https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop target="_blank">
-        Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux |
+    <a href=https://ernie.baidu.com/release/ernie-5-5-flash-base/ target="_blank">
+        Baidu released ERNIE 5.5 Flash Base |
     </a>
-    By: novaRom
+    By: pretext
 </li>
 
 <li>
-    <a href=https://blog.cosmos-institute.org/p/verification-is-not-knowledge target="_blank">
-        Verification Is Not Knowledge: Science needs more than answers |
+    <a href=https://layer3intel.com/blog/residential-proxies-white-house-network target="_blank">
+        Residential proxies detected on White House network |
     </a>
-    By: ersinesen
+    By: Rasbora
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;11&#x2F;want-to-rent-an-internet-address-at-the-white-house&#x2F;" rel="nofollow">https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;11&#x2F;want-to-rent-an-internet...</a> </br>
+</p>
+
+<li>
+    <a href=https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/ target="_blank">
+        Awesome repositories are no longer awesome |
+    </a>
+    By: erikgahner
 </li>
 
 <li>
-    <a href=https://www.githubstatus.com/incidents/smtdswd1h2w4 target="_blank">
-        Incident with Pull Requests, Git Operations and Issues |
+    <a href=https://markblah.github.io/lemmings/ target="_blank">
+        Lemmings CSS Animation |
     </a>
-    By: kevcampb
-</li>
-
-<li>
-    <a href=https://sw.kovidgoyal.net/kitty/changelog/# target="_blank">
-        Kitty 0.50 |
-    </a>
-    By: porridgeraisin
+    By: MarkBlah
 </li>
 </ol>
