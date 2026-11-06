@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 05 Nov 2026</h4>
+<h4>Check the latest news from: Fri 06 Nov 2026</h4>
 <ol>
 <li>
+    <a href=https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 target="_blank">
+        Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS |
+    </a>
+    By: microtonal
+</li>
+
+<li>
+    <a href=https://github.com/ppmpreetham/BUI target="_blank">
+        Blender's UI and Runtime: Much Faster Than GPUI |
+    </a>
+    By: ppmpreetham
+</li>
+
+<li>
+    <a href=https://github.com/anthropics/claude-code/issues/107757 target="_blank">
+        Claude Code sends your email address to websites |
+    </a>
+    By: motoroco
+</li>
+
+<li>
+    <a href=https://jhr.pensoft.net/articles.php?id=9096 target="_blank">
+        Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016) |
+    </a>
+    By: hitekker
+</li>
+
+<li>
     <a href=https://sshhole.com target="_blank">
-        Sshole |
+        sshole |
     </a>
     By: josemrb
 </li>
 
-<li>
-    <a href=https://ernie.baidu.com/release/ernie-5-5-flash-base/ target="_blank">
-        Baidu released ERNIE 5.5 Flash Base |
-    </a>
-    By: pretext
-</li>
-
-<li>
-    <a href=https://layer3intel.com/blog/residential-proxies-white-house-network target="_blank">
-        Residential proxies detected on White House network |
-    </a>
-    By: Rasbora
-</li>
-
 <p>
-Text: <a href="https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;11&#x2F;want-to-rent-an-internet-address-at-the-white-house&#x2F;" rel="nofollow">https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;11&#x2F;want-to-rent-an-internet...</a> </br>
+Text: Related:<p><a href="https:&#x2F;&#x2F;hachyderm.io&#x2F;@damienmiller&#x2F;117563026759098135" rel="nofollow">https:&#x2F;&#x2F;hachyderm.io&#x2F;@damienmiller&#x2F;117563026759098135</a> &#x2F; <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50377221">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50377221</a><p><a href="https:&#x2F;&#x2F;www.openssh.org&#x2F;releasenotes.html#10.6p2" rel="nofollow">https:&#x2F;&#x2F;www.openssh.org&#x2F;releasenotes.html#10.6p2</a><p><a href="https:&#x2F;&#x2F;alpinelinux.org&#x2F;posts&#x2F;2026-11-05-openssh-password-authentication-bypass&#x2F;" rel="nofollow">https:&#x2F;&#x2F;alpinelinux.org&#x2F;posts&#x2F;2026-11-05-openssh-password-au...</a> </br>
 </p>
-
-<li>
-    <a href=https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/ target="_blank">
-        Awesome repositories are no longer awesome |
-    </a>
-    By: erikgahner
-</li>
-
-<li>
-    <a href=https://markblah.github.io/lemmings/ target="_blank">
-        Lemmings CSS Animation |
-    </a>
-    By: MarkBlah
-</li>
 </ol>
