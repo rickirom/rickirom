@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 07 Nov 2026</h4>
+<h4>Check the latest news from: Sun 08 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://uploadyourram.org target="_blank">
-        Upload Your RAM |
+    <a href=https://krthr.co/person-of-interest/ target="_blank">
+        Person of Interest |
     </a>
-    By: susanthenerd
+    By: krthr
 </li>
 
 <li>
-    <a href=https://mitchellh.com/writing/libghostty-1-0 target="_blank">
-        Libghostty 1.0 |
+    <a href=https://aworkinglibrary.com/writing/petered target="_blank">
+        Petered (what happens after the Peter Principle) |
     </a>
-    By: mfiguiere
+    By: adrianhoward
 </li>
 
 <li>
-    <a href=https://8rank.ai/game/apple-intelligence-personal-knowledge-graph target="_blank">
-        Every Mac comes with an (undocumented) family member classifier |
+    <a href=https://caleb.software/posts/claude-to-pi.html target="_blank">
+        Goodbye Claude, Hello Pi |
     </a>
-    By: infwhispers
+    By: karagenit
 </li>
 
 <li>
-    <a href=https://nfsu2.xyz/ target="_blank">
-        Need for Speed Underground 2 online in the browser |
+    <a href=https://www.lorekit.io/blog/open-agent-memory-format target="_blank">
+        Agent memory needs its OpenTelemetry moment |
     </a>
-    By: fluxusars
+    By: mthines
 </li>
 
 <li>
-    <a href=https://hightouch.com/blog/llm-judges-identity-resolution target="_blank">
-        A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost |
+    <a href=https://clj.rs/ target="_blank">
+        Clj.rs – a Clojure dialect implemented in Rust |
     </a>
-    By: theanomaly
+    By: simonpure
 </li>
 </ol>
