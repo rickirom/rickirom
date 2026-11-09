@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 08 Nov 2026</h4>
+<h4>Check the latest news from: Mon 09 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://krthr.co/person-of-interest/ target="_blank">
-        Person of Interest |
+    <a href=https://www.foldableflight.com target="_blank">
+        Fold Epic Paper Airplanes |
     </a>
-    By: krthr
+    By: vismit2000
 </li>
 
 <li>
-    <a href=https://aworkinglibrary.com/writing/petered target="_blank">
-        Petered (what happens after the Peter Principle) |
+    <a href=https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia target="_blank">
+        Humans will never again create a project like Wikipedia |
     </a>
-    By: adrianhoward
+    By: edward
 </li>
 
 <li>
-    <a href=https://caleb.software/posts/claude-to-pi.html target="_blank">
-        Goodbye Claude, Hello Pi |
+    <a href=https://github.com/samir-sarwar/samir-vllm target="_blank">
+        6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here |
     </a>
-    By: karagenit
+    By: samirswr
 </li>
 
 <li>
-    <a href=https://www.lorekit.io/blog/open-agent-memory-format target="_blank">
-        Agent memory needs its OpenTelemetry moment |
+    <a href=https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/ target="_blank">
+        Fun things to do with your VM/370 CE machine – Fun with big computers |
     </a>
-    By: mthines
+    By: rbanffy
 </li>
 
 <li>
-    <a href=https://clj.rs/ target="_blank">
-        Clj.rs – a Clojure dialect implemented in Rust |
+    <a href=https://benmandrew.com/articles/what-is-malloc-doing-anyway target="_blank">
+        What is malloc doing, anyway? |
     </a>
-    By: simonpure
+    By: benmandrew
 </li>
 </ol>
