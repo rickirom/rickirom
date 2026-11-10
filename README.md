@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 09 Nov 2026</h4>
+<h4>Check the latest news from: Tue 10 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://www.foldableflight.com target="_blank">
-        Fold Epic Paper Airplanes |
+    <a href=https://deepmind.google/blog/introducing-alphaproof-code/ target="_blank">
+        AlphaProof Code |
     </a>
-    By: vismit2000
+    By: ilreb
 </li>
 
 <li>
-    <a href=https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia target="_blank">
-        Humans will never again create a project like Wikipedia |
+    <a href=https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ target="_blank">
+        Amazon saves millions by replacing Sonnet 4.6 with Strands Decider |
     </a>
-    By: edward
+    By: aloukissas
 </li>
 
 <li>
-    <a href=https://github.com/samir-sarwar/samir-vllm target="_blank">
-        6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here |
+    <a href=https://www.anthropic.com/claude-fable-and-mythos-5-2 target="_blank">
+        Claude Fable 5.2 and Mythos 5.2 |
     </a>
-    By: samirswr
+    By: lairv
 </li>
 
 <li>
-    <a href=https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/ target="_blank">
-        Fun things to do with your VM/370 CE machine – Fun with big computers |
+    <a href=https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/ target="_blank">
+        Fossil CO2 emissions decrease by 0.4% in 2026 |
     </a>
-    By: rbanffy
+    By: giuliomagnifico
 </li>
 
 <li>
-    <a href=https://benmandrew.com/articles/what-is-malloc-doing-anyway target="_blank">
-        What is malloc doing, anyway? |
+    <a href=https://github.com/HolyArrs/HolyArrs target="_blank">
+        Show HN: A 15 MB self-hosted Netflix and Spotify for your media server |
     </a>
-    By: benmandrew
+    By: CoderLuii
 </li>
 </ol>
