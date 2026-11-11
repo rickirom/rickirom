@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 10 Nov 2026</h4>
+<h4>Check the latest news from: Wed 11 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://deepmind.google/blog/introducing-alphaproof-code/ target="_blank">
-        AlphaProof Code |
+    <a href=https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ target="_blank">
+        Protecting SSH Keys with macOS Secure Enclave |
     </a>
-    By: ilreb
+    By: js2
 </li>
 
 <li>
-    <a href=https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ target="_blank">
-        Amazon saves millions by replacing Sonnet 4.6 with Strands Decider |
+    <a href=https://docodethatmatters.com/home-automation-overnight-success/ target="_blank">
+        Smart home devices should work without the internet |
     </a>
-    By: aloukissas
+    By: skittleson
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/claude-fable-and-mythos-5-2 target="_blank">
-        Claude Fable 5.2 and Mythos 5.2 |
+    <a href=https://neil.fraser.name/news/2026/11/10/ target="_blank">
+        .name Grandfathered |
     </a>
-    By: lairv
+    By: p4bl0
+</li>
+
+<p>
+Text: Previously: <i>.name Termination</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550772">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550772</a> - Sept 2026 (547 comments) </br>
+</p>
+
+<li>
+    <a href=https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ target="_blank">
+        Scion is back and is going to sell a kei truck in America |
+    </a>
+    By: NaOH
 </li>
 
 <li>
-    <a href=https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/ target="_blank">
-        Fossil CO2 emissions decrease by 0.4% in 2026 |
+    <a href=https://github.com/gmkurtzer/ginux target="_blank">
+        Greg Kurtzer's Ginux is now a userspace kernel |
     </a>
-    By: giuliomagnifico
-</li>
-
-<li>
-    <a href=https://github.com/HolyArrs/HolyArrs target="_blank">
-        Show HN: A 15 MB self-hosted Netflix and Spotify for your media server |
-    </a>
-    By: CoderLuii
+    By: d3Xt3r
 </li>
 </ol>
