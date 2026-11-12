@@ -42,44 +42,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 11 Nov 2026</h4>
+<h4>Check the latest news from: Thu 12 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ target="_blank">
-        Protecting SSH Keys with macOS Secure Enclave |
+    <a href=https://pron.github.io/posts/correctness-and-complexity target="_blank">
+        Why Writing Correct Software Is Hard |
     </a>
-    By: js2
+    By: AriFordsham
 </li>
 
 <li>
-    <a href=https://docodethatmatters.com/home-automation-overnight-success/ target="_blank">
-        Smart home devices should work without the internet |
+    <a href=https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md target="_blank">
+        Jane Street: Socratic Tutor |
     </a>
-    By: skittleson
+    By: tosh
 </li>
 
 <li>
-    <a href=https://neil.fraser.name/news/2026/11/10/ target="_blank">
-        .name Grandfathered |
+    <a href=https://codeberg.org/wvhulle/bootvine target="_blank">
+        A live tree of systemd jobs on the boot console |
     </a>
-    By: p4bl0
+    By: orhunp_
+</li>
+
+<li>
+    <a href=https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028 target="_blank">
+        Tim Peters has died |
+    </a>
+    By: ayhanfuat
 </li>
 
 <p>
-Text: Previously: <i>.name Termination</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550772">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550772</a> - Sept 2026 (547 comments) </br>
+Text: <a href="https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw" rel="nofollow">https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw</a> </br>
 </p>
 
 <li>
-    <a href=https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ target="_blank">
-        Scion is back and is going to sell a kei truck in America |
+    <a href=https://www.mcmillen.dev/sigbovik/ target="_blank">
+        93% of paint splatters are valid Perl programs (2019) |
     </a>
-    By: NaOH
-</li>
-
-<li>
-    <a href=https://github.com/gmkurtzer/ginux target="_blank">
-        Greg Kurtzer's Ginux is now a userspace kernel |
-    </a>
-    By: d3Xt3r
+    By: zenincognito
 </li>
 </ol>
