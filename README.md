@@ -42,44 +42,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 12 Nov 2026</h4>
+<h4>Check the latest news from: Fri 13 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://pron.github.io/posts/correctness-and-complexity target="_blank">
-        Why Writing Correct Software Is Hard |
+    <a href=https://www.science.org/doi/10.1126/science.132.3436.1291 target="_blank">
+        Doomsday: Friday, 13 November, A.D. 2026 (1960) |
     </a>
-    By: AriFordsham
+    By: voxleone
 </li>
 
 <li>
-    <a href=https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md target="_blank">
-        Jane Street: Socratic Tutor |
+    <a href=https://status.claude.com/incidents/nn11wk485zfn target="_blank">
+        Elevated errors on claude.ai, Claude Code, and platform.claude.com |
     </a>
-    By: tosh
+    By: __vivek
 </li>
 
 <li>
-    <a href=https://codeberg.org/wvhulle/bootvine target="_blank">
-        A live tree of systemd jobs on the boot console |
+    <a href=https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f target="_blank">
+        Jensen Huang resigns |
     </a>
-    By: orhunp_
-</li>
-
-<li>
-    <a href=https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028 target="_blank">
-        Tim Peters has died |
-    </a>
-    By: ayhanfuat
+    By: lldb
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw" rel="nofollow">https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw</a> </br>
+Text: <a href="https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-transition" rel="nofollow">https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-tran...</a><p><a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;nvidia-ceo-...</a>, <a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;live&#x2F;nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;live&#x2F;nvidia-live-board-meets-fate-ce...</a><p><a href="https:&#x2F;&#x2F;www.nytimes.com&#x2F;live&#x2F;2026&#x2F;11&#x2F;12&#x2F;business&#x2F;nvidia-jensen-huang-resigns" rel="nofollow">https:&#x2F;&#x2F;www.nytimes.com&#x2F;live&#x2F;2026&#x2F;11&#x2F;12&#x2F;business&#x2F;nvidia-jens...</a> </br>
 </p>
 
 <li>
-    <a href=https://www.mcmillen.dev/sigbovik/ target="_blank">
-        93% of paint splatters are valid Perl programs (2019) |
+    <a href=https://ice-wm.org/ target="_blank">
+        IceWM |
     </a>
-    By: zenincognito
+    By: inatreecrown2
+</li>
+
+<li>
+    <a href=https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ target="_blank">
+        Rust 1.100 |
+    </a>
+    By: mbStavola
 </li>
 </ol>
