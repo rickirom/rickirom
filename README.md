@@ -42,44 +42,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 13 Nov 2026</h4>
+<h4>Check the latest news from: Sat 14 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://www.science.org/doi/10.1126/science.132.3436.1291 target="_blank">
-        Doomsday: Friday, 13 November, A.D. 2026 (1960) |
+    <a href=https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/ target="_blank">
+        Why get an expensive Pi when I have an old phone? |
     </a>
-    By: voxleone
+    By: casi
 </li>
 
 <li>
-    <a href=https://status.claude.com/incidents/nn11wk485zfn target="_blank">
-        Elevated errors on claude.ai, Claude Code, and platform.claude.com |
+    <a href=https://github.com/ggml-org/ggml/releases/tag/v1.0.0 target="_blank">
+        Ggml v1.0.0 |
     </a>
-    By: __vivek
+    By: cobychapple
 </li>
 
 <li>
-    <a href=https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f target="_blank">
-        Jensen Huang resigns |
+    <a href=https://monkeyisland.pages.dev/ target="_blank">
+        Monkey Island: all 13 versions side by side |
     </a>
-    By: lldb
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-transition" rel="nofollow">https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-tran...</a><p><a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;nvidia-ceo-...</a>, <a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;live&#x2F;nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;live&#x2F;nvidia-live-board-meets-fate-ce...</a><p><a href="https:&#x2F;&#x2F;www.nytimes.com&#x2F;live&#x2F;2026&#x2F;11&#x2F;12&#x2F;business&#x2F;nvidia-jensen-huang-resigns" rel="nofollow">https:&#x2F;&#x2F;www.nytimes.com&#x2F;live&#x2F;2026&#x2F;11&#x2F;12&#x2F;business&#x2F;nvidia-jens...</a> </br>
-</p>
-
-<li>
-    <a href=https://ice-wm.org/ target="_blank">
-        IceWM |
-    </a>
-    By: inatreecrown2
+    By: maximilianburke
 </li>
 
 <li>
-    <a href=https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ target="_blank">
-        Rust 1.100 |
+    <a href=https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus target="_blank">
+        Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs |
     </a>
-    By: mbStavola
+    By: speckx
+</li>
+
+<li>
+    <a href=https://www.joshka.net/cell-borders/ target="_blank">
+        Terminal borders that don't cost a cell |
+    </a>
+    By: vinhnx
 </li>
 </ol>
