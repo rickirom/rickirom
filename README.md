@@ -42,40 +42,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 14 Nov 2026</h4>
+<h4>Check the latest news from: Sun 15 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/ target="_blank">
-        Why get an expensive Pi when I have an old phone? |
+    <a href=https://www.spacex.com/launches/starship-flight-15 target="_blank">
+        SpaceX catches the Starship to end Flight 15 |
     </a>
-    By: casi
+    By: ls612
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595</a><p><a href="https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233" rel="nofollow">https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233</a> </br>
+</p>
+
+<li>
+    <a href=https://space.stackexchange.com/questions/37775 target="_blank">
+        Why did some Apollo missions carry a grenade launcher? |
+    </a>
+    By: Skyfall106
 </li>
 
 <li>
-    <a href=https://github.com/ggml-org/ggml/releases/tag/v1.0.0 target="_blank">
-        Ggml v1.0.0 |
+    <a href=https://www.crissyfield.de/research/lovable-en/ target="_blank">
+        Lovable apps expose passport details and more than 200K private messages |
     </a>
-    By: cobychapple
+    By: armcat
 </li>
 
 <li>
-    <a href=https://monkeyisland.pages.dev/ target="_blank">
-        Monkey Island: all 13 versions side by side |
+    <a href=https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal target="_blank">
+        Court denies motion to dismiss DRAM price fixing case |
     </a>
-    By: maximilianburke
+    By: ybathaee
 </li>
 
 <li>
-    <a href=https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus target="_blank">
-        Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs |
+    <a href=https://tsoracle.rs/ target="_blank">
+        Strictly monotonic timestamps and gapless sequences in Rust |
     </a>
-    By: speckx
-</li>
-
-<li>
-    <a href=https://www.joshka.net/cell-borders/ target="_blank">
-        Terminal borders that don't cost a cell |
-    </a>
-    By: vinhnx
+    By: znano
 </li>
 </ol>
