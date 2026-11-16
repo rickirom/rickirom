@@ -42,44 +42,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 15 Nov 2026</h4>
+<h4>Check the latest news from: Mon 16 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://www.spacex.com/launches/starship-flight-15 target="_blank">
-        SpaceX catches the Starship to end Flight 15 |
+    <a href=https://www.monirbounadi.com/Bounadi_JMP.pdf target="_blank">
+        Coffeehouses and the Rise of Science [pdf] |
     </a>
-    By: ls612
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595</a><p><a href="https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233" rel="nofollow">https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233</a> </br>
-</p>
-
-<li>
-    <a href=https://space.stackexchange.com/questions/37775 target="_blank">
-        Why did some Apollo missions carry a grenade launcher? |
-    </a>
-    By: Skyfall106
+    By: Michelangelo11
 </li>
 
 <li>
-    <a href=https://www.crissyfield.de/research/lovable-en/ target="_blank">
-        Lovable apps expose passport details and more than 200K private messages |
+    <a href=https://pub.cba.mit.edu/863.26/site/ target="_blank">
+        How to make almost anything |
     </a>
-    By: armcat
+    By: o4c
 </li>
 
 <li>
-    <a href=https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal target="_blank">
-        Court denies motion to dismiss DRAM price fixing case |
+    <a href=https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/ target="_blank">
+        The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007) |
     </a>
-    By: ybathaee
+    By: sammatilda
 </li>
 
 <li>
-    <a href=https://tsoracle.rs/ target="_blank">
-        Strictly monotonic timestamps and gapless sequences in Rust |
+    <a href=https://iter.ca/post/ubo-uxss/ target="_blank">
+        Universal XSS in uBlock Origin from website-driven element picker |
     </a>
-    By: znano
+    By: zaik
+</li>
+
+<li>
+    <a href=https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch target="_blank">
+        Researchers track whole body movement with just a smartwatch |
+    </a>
+    By: PaulHoule
 </li>
 </ol>
