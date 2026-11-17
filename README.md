@@ -42,40 +42,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 16 Nov 2026</h4>
+<h4>Check the latest news from: Tue 17 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://www.monirbounadi.com/Bounadi_JMP.pdf target="_blank">
-        Coffeehouses and the Rise of Science [pdf] |
+    <a href=https://nitter.cf/kevinnbass/status/2099621874279817638 target="_blank">
+        Regulatory Capture by Anthropic Through METR |
     </a>
-    By: Michelangelo11
+    By: agnosticmantis
 </li>
 
 <li>
-    <a href=https://pub.cba.mit.edu/863.26/site/ target="_blank">
-        How to make almost anything |
+    <a href=https://www.cs.cmu.edu/learn/ target="_blank">
+        Carnegie Mellon is putting computer science courses on YouTube for free |
     </a>
-    By: o4c
+    By: pcompeau
 </li>
 
 <li>
-    <a href=https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/ target="_blank">
-        The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007) |
+    <a href=https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html target="_blank">
+        New Evidence Shows School Phone Bans Are Gradually Improving Test Scores |
     </a>
-    By: sammatilda
+    By: donohoe
 </li>
 
 <li>
-    <a href=https://iter.ca/post/ubo-uxss/ target="_blank">
-        Universal XSS in uBlock Origin from website-driven element picker |
+    <a href=https://visualbasic.world/ target="_blank">
+        VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012 |
     </a>
-    By: zaik
+    By: broast
 </li>
 
 <li>
-    <a href=https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch target="_blank">
-        Researchers track whole body movement with just a smartwatch |
+    <a href=https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal target="_blank">
+        Turbo Pascal Compiler Written in Turbo Pascal |
     </a>
-    By: PaulHoule
+    By: andsoitis
 </li>
 </ol>
