@@ -42,40 +42,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 17 Nov 2026</h4>
+<h4>Check the latest news from: Wed 18 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://nitter.cf/kevinnbass/status/2099621874279817638 target="_blank">
-        Regulatory Capture by Anthropic Through METR |
+    <a href=https://techstackups.com/articles/quad9-leaves-france-dns-blocking/ target="_blank">
+        Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy |
     </a>
-    By: agnosticmantis
+    By: ritzaco
 </li>
 
 <li>
-    <a href=https://www.cs.cmu.edu/learn/ target="_blank">
-        Carnegie Mellon is putting computer science courses on YouTube for free |
+    <a href=https://energy-based-reasoners.github.io/ target="_blank">
+        Energy-Based Reasoners: 385x more efficient inference |
     </a>
-    By: pcompeau
+    By: frenchmajesty
 </li>
 
 <li>
-    <a href=https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html target="_blank">
-        New Evidence Shows School Phone Bans Are Gradually Improving Test Scores |
+    <a href=https://www.jeffquast.com/post/a-perfect-simcity/ target="_blank">
+        A Perfect SimCity |
     </a>
-    By: donohoe
+    By: mariuz
 </li>
 
 <li>
-    <a href=https://visualbasic.world/ target="_blank">
-        VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012 |
+    <a href=https://calif.io/java4shell/ target="_blank">
+        Java4Shell: RCE in OpenJDK when processing Base64 |
     </a>
-    By: broast
+    By: werrett
 </li>
 
 <li>
-    <a href=https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal target="_blank">
-        Turbo Pascal Compiler Written in Turbo Pascal |
+    <a href=https://revscope.co/blog/search-seo-geo-2026/ target="_blank">
+        Google's AI answers reducing search traffic by 40% |
     </a>
-    By: andsoitis
+    By: slashdev
 </li>
 </ol>
