@@ -42,40 +42,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 18 Nov 2026</h4>
+<h4>Check the latest news from: Thu 19 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://techstackups.com/articles/quad9-leaves-france-dns-blocking/ target="_blank">
-        Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy |
+    <a href=https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ target="_blank">
+        How the European Commission rolled out Matrix to more than 40k staff |
     </a>
-    By: ritzaco
+    By: liotier
 </li>
 
 <li>
-    <a href=https://energy-based-reasoners.github.io/ target="_blank">
-        Energy-Based Reasoners: 385x more efficient inference |
+    <a href=https://blog.harrison.page/garage-door-spam/ target="_blank">
+        Garage Door Spam |
     </a>
-    By: frenchmajesty
+    By: harrisonpage
 </li>
 
 <li>
-    <a href=https://www.jeffquast.com/post/a-perfect-simcity/ target="_blank">
-        A Perfect SimCity |
+    <a href=https://www.youtube.com/watch?v=-TLCGUpoD6c target="_blank">
+        Nintendo takes Picofly firmware down from GitHub [video] |
     </a>
-    By: mariuz
+    By: cowlevel
 </li>
 
 <li>
-    <a href=https://calif.io/java4shell/ target="_blank">
-        Java4Shell: RCE in OpenJDK when processing Base64 |
+    <a href=https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ target="_blank">
+        Making 8-page foldable zines from a single A4 sheet in the browser |
     </a>
-    By: werrett
+    By: krthr
 </li>
 
 <li>
-    <a href=https://revscope.co/blog/search-seo-geo-2026/ target="_blank">
-        Google's AI answers reducing search traffic by 40% |
+    <a href=https://verialabs.com/ruby2shell/ target="_blank">
+        Ruby2ßhell: Pre-authentication RCE on stock Rails |
     </a>
-    By: slashdev
+    By: jdns
 </li>
 </ol>
