@@ -42,40 +42,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 19 Nov 2026</h4>
+<h4>Check the latest news from: Fri 20 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ target="_blank">
-        How the European Commission rolled out Matrix to more than 40k staff |
+    <a href=https://architectlabs.com/blog/frostbite target="_blank">
+        Frostbite: A new CPU architecture discovered, designed and verified by AI |
     </a>
-    By: liotier
+    By: shioyama
 </li>
 
 <li>
-    <a href=https://blog.harrison.page/garage-door-spam/ target="_blank">
-        Garage Door Spam |
+    <a href=https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it target="_blank">
+        If you can't explain something in simple terms, you don't understand it (2017) |
     </a>
-    By: harrisonpage
+    By: sammatilda
 </li>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=-TLCGUpoD6c target="_blank">
-        Nintendo takes Picofly firmware down from GitHub [video] |
+    <a href=https://jeanmicheljarre.com/aaa/the-making-of-oxygene target="_blank">
+        The Making of Oxygene |
     </a>
-    By: cowlevel
+    By: hggh
 </li>
 
 <li>
-    <a href=https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ target="_blank">
-        Making 8-page foldable zines from a single A4 sheet in the browser |
+    <a href=https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/ target="_blank">
+        Why the Airbus A321XLR often gets stuck climbing for first few hours of flight |
     </a>
-    By: krthr
+    By: edward
 </li>
 
 <li>
-    <a href=https://verialabs.com/ruby2shell/ target="_blank">
-        Ruby2ßhell: Pre-authentication RCE on stock Rails |
+    <a href=https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935 target="_blank">
+        Show HN: Fast deterministic natural language search for OpenStreetMap data |
     </a>
-    By: jdns
+    By: vihren
 </li>
+
+<p>
+Text: I want to show you HippoMaps. It is a fully featured map and navigation app built on OpenStreetMap with a custom Overpass API engine for really fast search of POIs, areas and ways.<p>My aim with HippoMaps is to get to a level where I don&#x27;t need Google Maps anymore. The biggest hurdle IMHO with OSM based apps is the lack of nice and fast search (where GMaps excels at). To get there I started working on a deterministic (as in no LLMs used) parser of queries that translates them to the Overpass QL.<p>Search queries are split into tokens and the algorithm tries to guess &quot;what&quot; you want to search and &quot;where&quot;. The former comes from a word list (known brands, sports, OSM tags) and the latter from the geocoder service (Photon).<p>You can get quite creative like &quot;cafes in Zurich by the Limmat&quot;, &quot;peaks over 4000 m in Valais&quot;, &quot;pharmacies open now in Bern&quot;. It&#x27;s good for discovering hiking trails, e.g. &quot;hiking trails from Arth-Goldau to Rigi Kulm&quot;. It knows how to find stuff between two places, next to a place, near a place and so on. You can stack those as well like &quot;bridges over the danube in serbia 50 km from novi sad&quot;.<p>Except the search it has almost all of the features you would expect from a map like turn-by-turn navigation (Valhalla) with voice (Piper), public transport navigation in Europe (MOTIS), live traffic (only a few countries so far).<p>The app is GPL-3.0: <a href="https:&#x2F;&#x2F;github.com&#x2F;cdutsov&#x2F;hippomaps" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;cdutsov&#x2F;hippomaps</a><p>I&#x27;m looking forward to feedback on searches that work or don&#x27;t work for you + overall comments. </br>
+</p>
 </ol>
