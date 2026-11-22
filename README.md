@@ -42,48 +42,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 21 Nov 2026</h4>
+<h4>Check the latest news from: Sun 22 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria target="_blank">
-        Brazil's tax authority open-sources its tax calculator on GitHub under MIT |
+    <a href=https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ target="_blank">
+        Toyota, Nissan, and Honda to standardize parts to lower costs |
     </a>
-    By: dvaplima
+    By: zdw
 </li>
 
 <li>
-    <a href=https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ target="_blank">
-        Hurried Announcement: Alessandro Masullo GRH |
+    <a href=https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib target="_blank">
+        Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades' |
     </a>
-    By: jasondavies
-</li>
-
-<p>
-Text: Related: <i>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968</a> </br>
-</p>
-
-<li>
-    <a href=https://alpo.ge/remark.pdf target="_blank">
-        Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] |
-    </a>
-    By: iamronaldo
-</li>
-
-<p>
-Text: Related: <i>Hurried Announcement: Alessandro Masullo GRH</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568</a> </br>
-</p>
-
-<li>
-    <a href=https://thinkingmachines.ai/news/inkling-2-mini/ target="_blank">
-        Inkling 2 Mini |
-    </a>
-    By: jasondavies
+    By: rafaelc
 </li>
 
 <li>
-    <a href=https://blog.tymscar.com/posts/studiodisplayethernet/ target="_blank">
-        My Monitor Was Cutting My Download Speed by 75% |
+    <a href=https://github.com/pithings/unkernel target="_blank">
+        A real Linux kernel, compiled to WebAssembly |
     </a>
-    By: soheilpro
+    By: DonAtimator
+</li>
+
+<li>
+    <a href=https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ target="_blank">
+        Lean verification of the Riemann Hypothesis |
+    </a>
+    By: g-b-r
+</li>
+
+<li>
+    <a href=https://stulle.app/ target="_blank">
+        Sandwich Simulator |
+    </a>
+    By: subdomain
 </li>
 </ol>
