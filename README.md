@@ -42,40 +42,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 22 Nov 2026</h4>
+<h4>Check the latest news from: Mon 23 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ target="_blank">
-        Toyota, Nissan, and Honda to standardize parts to lower costs |
+    <a href=https://z.ai/blog/glm-5.4 target="_blank">
+        GLM-5.4: Toward Generalized Coding with Our First Loop Transformer |
     </a>
-    By: zdw
+    By: foohis
 </li>
 
 <li>
-    <a href=https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib target="_blank">
-        Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades' |
+    <a href=https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director target="_blank">
+        Jensen Huang Reinstated as Nvidia CEO |
     </a>
-    By: rafaelc
+    By: alanwong
 </li>
 
 <li>
-    <a href=https://github.com/pithings/unkernel target="_blank">
-        A real Linux kernel, compiled to WebAssembly |
+    <a href=https://github.com/mikuta0407/win4wine target="_blank">
+        Win4wine – Run Windows Shell as the Linux Desktop on Wine |
     </a>
-    By: DonAtimator
+    By: hard_times
 </li>
 
 <li>
-    <a href=https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ target="_blank">
-        Lean verification of the Riemann Hypothesis |
+    <a href=https://github.com/os6/nospeaker target="_blank">
+        Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor |
     </a>
-    By: g-b-r
+    By: yakkomajuri
 </li>
 
 <li>
-    <a href=https://stulle.app/ target="_blank">
-        Sandwich Simulator |
+    <a href=https://blog.regehr.org/archives/1621 target="_blank">
+        What's the difference between an integer and a pointer? (2018) |
     </a>
-    By: subdomain
+    By: germanrabbit
 </li>
 </ol>
