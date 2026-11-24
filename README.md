@@ -42,40 +42,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 23 Nov 2026</h4>
+<h4>Check the latest news from: Tue 24 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://z.ai/blog/glm-5.4 target="_blank">
-        GLM-5.4: Toward Generalized Coding with Our First Loop Transformer |
+    <a href=https://fzakaria.com/2026/11/23/2035-came-early target="_blank">
+        2035 came early |
     </a>
-    By: foohis
+    By: setheron
 </li>
 
 <li>
-    <a href=https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director target="_blank">
-        Jensen Huang Reinstated as Nvidia CEO |
+    <a href=https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ target="_blank">
+        LLM agents work for their parent companies, not for you |
     </a>
-    By: alanwong
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://github.com/mikuta0407/win4wine target="_blank">
-        Win4wine – Run Windows Shell as the Linux Desktop on Wine |
+    <a href=https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg target="_blank">
+        Worshipping at the altar of Brendan Gregg |
     </a>
-    By: hard_times
+    By: kqr
 </li>
 
 <li>
-    <a href=https://github.com/os6/nospeaker target="_blank">
-        Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor |
+    <a href=https://ladybird.org/posts/alpha/ target="_blank">
+        Ladybird is now in alpha |
     </a>
-    By: yakkomajuri
+    By: janvdberg
 </li>
 
 <li>
-    <a href=https://blog.regehr.org/archives/1621 target="_blank">
-        What's the difference between an integer and a pointer? (2018) |
+    <a href=https://quad9.net/news/blog/quad9-service-deactivation-in-france/ target="_blank">
+        Quad9 pulled their DNS service from France |
     </a>
-    By: germanrabbit
+    By: farrokhi
 </li>
 </ol>
