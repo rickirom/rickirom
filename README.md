@@ -42,40 +42,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 24 Nov 2026</h4>
+<h4>Check the latest news from: Wed 25 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://fzakaria.com/2026/11/23/2035-came-early target="_blank">
-        2035 came early |
+    <a href=https://github.com/google-research/google-research/tree/master/cogentic_research_papers target="_blank">
+        Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More |
     </a>
-    By: setheron
+    By: rgwohlbold
 </li>
 
 <li>
-    <a href=https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ target="_blank">
-        LLM agents work for their parent companies, not for you |
+    <a href=https://github.com/xoxorwr/pw-loudness-eq target="_blank">
+        Windows Loudness Equalization, reverse-engineered and ported to PipeWire |
     </a>
-    By: surprisetalk
+    By: ThrowNotAway
 </li>
 
 <li>
-    <a href=https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg target="_blank">
-        Worshipping at the altar of Brendan Gregg |
+    <a href=https://buttons.joshwcomeau.com/ target="_blank">
+        Button Sounds – collection of professionally-recorded button clicks and presses |
     </a>
-    By: kqr
+    By: gaurang_tandon
 </li>
 
 <li>
-    <a href=https://ladybird.org/posts/alpha/ target="_blank">
-        Ladybird is now in alpha |
+    <a href=https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf target="_blank">
+        Matrix Multiplication is Θ(n^2.25) [pdf] |
     </a>
-    By: janvdberg
+    By: E-Reverance
 </li>
 
 <li>
-    <a href=https://quad9.net/news/blog/quad9-service-deactivation-in-france/ target="_blank">
-        Quad9 pulled their DNS service from France |
+    <a href=https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/ target="_blank">
+        The short age of dragon riders |
     </a>
-    By: farrokhi
+    By: synapsomorphy
 </li>
 </ol>
