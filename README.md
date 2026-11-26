@@ -42,40 +42,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 25 Nov 2026</h4>
+<h4>Check the latest news from: Thu 26 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/google-research/google-research/tree/master/cogentic_research_papers target="_blank">
-        Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More |
+    <a href=https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ target="_blank">
+        Euro-Office comes to your desktop with the Nextcloud Office Desktop app |
     </a>
-    By: rgwohlbold
+    By: e12e
 </li>
 
 <li>
-    <a href=https://github.com/xoxorwr/pw-loudness-eq target="_blank">
-        Windows Loudness Equalization, reverse-engineered and ported to PipeWire |
+    <a href=https://github.com/intel/intel-one-mono target="_blank">
+        Intel One Mono font |
     </a>
-    By: ThrowNotAway
+    By: saikatsg
 </li>
 
 <li>
-    <a href=https://buttons.joshwcomeau.com/ target="_blank">
-        Button Sounds – collection of professionally-recorded button clicks and presses |
+    <a href=https://scottaaronson.blog/?p=10379 target="_blank">
+        Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening |
     </a>
-    By: gaurang_tandon
+    By: Kotlopou
+</li>
+
+<p>
+Text: See also <i>The matrix multiplication exponent is nine fourths [pdf]</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220</a> </br>
+</p>
+
+<li>
+    <a href=https://1password.com/blog/update-on-nov-2026-security-incident target="_blank">
+        1Password Security Incident |
+    </a>
+    By: lxhrstn
 </li>
 
 <li>
-    <a href=https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf target="_blank">
-        Matrix Multiplication is Θ(n^2.25) [pdf] |
+    <a href=https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html target="_blank">
+        Discovery of curse ritual in trash dump surprises Egyptologist |
     </a>
-    By: E-Reverance
-</li>
-
-<li>
-    <a href=https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/ target="_blank">
-        The short age of dragon riders |
-    </a>
-    By: synapsomorphy
+    By: PaulHoule
 </li>
 </ol>
