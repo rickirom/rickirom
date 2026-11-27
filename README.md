@@ -42,44 +42,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 26 Nov 2026</h4>
+<h4>Check the latest news from: Fri 27 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ target="_blank">
-        Euro-Office comes to your desktop with the Nextcloud Office Desktop app |
+    <a href=https://eprint.iacr.org/2026/3020.pdf target="_blank">
+        A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf] |
     </a>
-    By: e12e
+    By: yuvadam
 </li>
 
 <li>
-    <a href=https://github.com/intel/intel-one-mono target="_blank">
-        Intel One Mono font |
+    <a href=https://www.kimi.ai/news/kimi-for-science-program target="_blank">
+        Kimi for Science: More scientific ideas, made possible |
     </a>
-    By: saikatsg
+    By: theanonymousone
 </li>
 
 <li>
-    <a href=https://scottaaronson.blog/?p=10379 target="_blank">
-        Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening |
+    <a href=https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ target="_blank">
+        European spacecraft finds chaotic scene after asteroid deflection experiment |
     </a>
-    By: Kotlopou
-</li>
-
-<p>
-Text: See also <i>The matrix multiplication exponent is nine fourths [pdf]</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220</a> </br>
-</p>
-
-<li>
-    <a href=https://1password.com/blog/update-on-nov-2026-security-incident target="_blank">
-        1Password Security Incident |
-    </a>
-    By: lxhrstn
+    By: Bender
 </li>
 
 <li>
-    <a href=https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html target="_blank">
-        Discovery of curse ritual in trash dump surprises Egyptologist |
+    <a href=https://construct22.com/ target="_blank">
+        The group chat where your AI talks behind your back |
     </a>
-    By: PaulHoule
+    By: utiiiD
+</li>
+
+<li>
+    <a href=https://janlukas.blog/posts/ai-self-hosting target="_blank">
+        AI made self-hosting fun again |
+    </a>
+    By: jlelse
 </li>
 </ol>
