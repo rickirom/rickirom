@@ -42,40 +42,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 27 Nov 2026</h4>
+<h4>Check the latest news from: Sat 28 Nov 2026</h4>
 <ol>
 <li>
-    <a href=https://eprint.iacr.org/2026/3020.pdf target="_blank">
-        A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf] |
+    <a href=https://github.com/p-e-w/heretic/issues/601 target="_blank">
+        Farewell |
     </a>
-    By: yuvadam
+    By: nolist_policy
 </li>
 
 <li>
-    <a href=https://www.kimi.ai/news/kimi-for-science-program target="_blank">
-        Kimi for Science: More scientific ideas, made possible |
+    <a href=https://xinyadu.github.io/blog/claude-code-sabotage.html target="_blank">
+        Claude Code sabotage: preliminary benchmarking |
     </a>
-    By: theanonymousone
+    By: abedelez
 </li>
 
 <li>
-    <a href=https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ target="_blank">
-        European spacecraft finds chaotic scene after asteroid deflection experiment |
+    <a href=https://scriptor-pro.github.io/luciole-mono/ target="_blank">
+        Show HN: Luciole Mono – terminal font designed for legibility |
     </a>
-    By: Bender
+    By: BaudouinVH
+</li>
+
+<p>
+Text: TLDR : Atkinson Hyperlegible Mono alternative<p>Luciole Mono is a vibe-clauded derivative of Luciole.Luciole was designed for visually impaired readers by Laurent Bourcellier and Jonathan Perez, at the Centre Technique Régional pour la Déficience Visuelle (typographies.fr)<p>Please tell me what you think - thanks in advance </br>
+</p>
+
+<li>
+    <a href=https://unkernel.dev target="_blank">
+        Unkernel: Real Linux kernel, compiled to WebAssembly |
+    </a>
+    By: nreece
 </li>
 
 <li>
-    <a href=https://construct22.com/ target="_blank">
-        The group chat where your AI talks behind your back |
+    <a href=https://malspark.com/blog/malicious-gguf-models-hugging-face/ target="_blank">
+        GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims |
     </a>
-    By: utiiiD
-</li>
-
-<li>
-    <a href=https://janlukas.blog/posts/ai-self-hosting target="_blank">
-        AI made self-hosting fun again |
-    </a>
-    By: jlelse
+    By: homarp
 </li>
 </ol>
